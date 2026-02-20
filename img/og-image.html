@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1200">
+<title>NoBorder VPN — OG Image</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    width: 1200px;
+    height: 630px;
+    overflow: hidden;
+    font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  }
+  .og-container {
+    width: 1200px;
+    height: 630px;
+    background: #0d0d16;
+    background: radial-gradient(ellipse at 35% 50%, #0f1530 0%, #0d0d16 70%);
+    display: flex;
+    align-items: center;
+    padding: 0 80px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  /* Glow behind shield */
+  .og-container::before {
+    content: '';
+    position: absolute;
+    left: 230px;
+    top: 150px;
+    width: 300px;
+    height: 300px;
+    background: radial-gradient(circle, rgba(0,180,255,0.12) 0%, transparent 70%);
+    border-radius: 50%;
+    pointer-events: none;
+  }
+
+  .shield-area {
+    flex-shrink: 0;
+    width: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+  }
+
+  .shield-icon {
+    width: 200px;
+    height: 220px;
+    position: relative;
+  }
+
+  .shield-icon svg {
+    width: 100%;
+    height: 100%;
+    filter: drop-shadow(0 0 20px rgba(0,217,255,0.3));
+  }
+
+  .text-area {
+    margin-left: 60px;
+    z-index: 1;
+  }
+
+  .title {
+    font-size: 64px;
+    font-weight: 700;
+    color: #ffffff;
+    line-height: 1.1;
+    letter-spacing: -1px;
+  }
+
+  .subtitle {
+    font-size: 30px;
+    color: #a0aabe;
+    margin-top: 16px;
+    font-weight: 400;
+  }
+
+  .badge {
+    display: inline-block;
+    margin-top: 28px;
+    padding: 10px 28px;
+    border: 1.5px solid rgba(0,217,255,0.5);
+    border-radius: 12px;
+    background: rgba(0,217,255,0.08);
+    color: #00e6ff;
+    font-size: 24px;
+    font-weight: 700;
+  }
+
+  .tagline {
+    margin-top: 36px;
+    font-size: 20px;
+    color: #646e82;
+  }
+
+  .bottom-line {
+    position: absolute;
+    bottom: 48px;
+    left: 100px;
+    right: 100px;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, #00d9ff33, #00ff8833, transparent);
+  }
+</style>
+</head>
+<body>
+<div class="og-container">
+  <div class="shield-area">
+    <div class="shield-icon">
+      <svg viewBox="0 0 200 240" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <linearGradient id="sg" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#00d9ff"/>
+            <stop offset="100%" stop-color="#00ff88"/>
+          </linearGradient>
+        </defs>
+        <path d="M100 10 C120 5,175 8,190 18 L190 30 C190 130,165 190,100 230 C35 190,10 130,10 30 L10 18 C25 8,80 5,100 10Z"
+              fill="url(#sg)" opacity="0.95"/>
+        <path d="M100 10 C120 5,175 8,190 18 L190 30 C190 130,165 190,100 230 C35 190,10 130,10 30 L10 18 C25 8,80 5,100 10Z"
+              fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="1.5"/>
+        <polyline points="70,125 92,152 138,95" fill="none" stroke="#0d0d16" 
+                  stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </div>
+  </div>
+  <div class="text-area">
+    <div class="title">NoBorder VPN</div>
+    <div class="subtitle">Быстрый VPN без границ</div>
+    <div class="badge">3 дня бесплатно</div>
+    <div class="tagline">Безопасность &nbsp;•&nbsp; Скорость &nbsp;•&nbsp; Приватность</div>
+  </div>
+  <div class="bottom-line"></div>
+</div>
+</body>
+</html>

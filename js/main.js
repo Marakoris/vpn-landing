@@ -54,7 +54,7 @@ fadeEls.forEach(el => observer.observe(el));
 
 // ==================== AUTH ====================
 
-const API_URL = 'https://vpnnoborder.sytes.net';
+const API_URL = '__API_URL__';
 
 // Tab switching
 document.querySelectorAll('.auth__tab').forEach(tab => {
