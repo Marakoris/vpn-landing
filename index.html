@@ -236,9 +236,20 @@
         <form class="auth__form" id="login-form" style="display:none">
           <input class="auth__input" type="email" name="email" placeholder="Email" autocomplete="email" required>
           <input class="auth__input" type="password" name="password" placeholder="Пароль" autocomplete="current-password" required>
+          <a href="https://vpnnoborder.sytes.net/dashboard/forgot-password" class="auth__forgot">Забыли пароль?</a>
           <div class="auth__error" id="login-error"></div>
           <div class="auth__success" id="login-success"></div>
           <button class="btn btn--lg auth__btn" type="submit">Войти</button>
+        </form>
+
+        <!-- Email Verification Form (shown after register) -->
+        <form class="auth__form" id="verify-form" style="display:none">
+          <p class="auth__verify-hint">Код подтверждения отправлен на <strong id="verify-email-display"></strong></p>
+          <input class="auth__input auth__input--code" type="text" name="code" placeholder="000000" inputmode="numeric" maxlength="6" pattern="[0-9]{6}" required>
+          <div class="auth__error" id="verify-error"></div>
+          <div class="auth__success" id="verify-success"></div>
+          <button class="btn btn--lg auth__btn" type="submit">Подтвердить</button>
+          <button class="auth__resend" type="button" id="resend-btn">Отправить код повторно</button>
         </form>
       </div>
     </div>

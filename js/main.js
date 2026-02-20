@@ -71,6 +71,10 @@ document.querySelectorAll('.auth__tab').forEach(tab => {
   });
 });
 
+// State for verification flow
+let authToken = '';
+let authEmail = '';
+
 // Register
 document.getElementById('register-form').addEventListener('submit', async (e) => {
   e.preventDefault();
@@ -110,10 +114,13 @@ document.getElementById('register-form').addEventListener('submit', async (e) =>
     const data = await res.json();
 
     if (data.ok) {
-      successEl.textContent = 'Аккаунт создан! Перенаправляем...';
-      setTimeout(() => {
-        window.location.href = API_URL + '/dashboard/auth/jwt?t=' + encodeURIComponent(data.token);
-      }, 500);
+      authToken = data.token;
+      authEmail = email;
+      // Show verification form
+      document.getElementById('register-form').style.display = 'none';
+      document.getElementById('verify-form').style.display = '';
+      document.getElementById('verify-email-display').textContent = email;
+      document.querySelector('.auth__tabs').style.display = 'none';
     } else {
       errorEl.textContent = data.error || 'Ошибка регистрации';
     }
@@ -122,6 +129,77 @@ document.getElementById('register-form').addEventListener('submit', async (e) =>
   } finally {
     btn.disabled = false;
     btn.textContent = 'Создать аккаунт';
+  }
+});
+
+// Verify email code
+document.getElementById('verify-form').addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const form = e.target;
+  const errorEl = document.getElementById('verify-error');
+  const successEl = document.getElementById('verify-success');
+  const btn = form.querySelector('.auth__btn');
+  errorEl.textContent = '';
+  successEl.textContent = '';
+
+  const code = form.code.value.trim();
+  if (!code || code.length !== 6) {
+    errorEl.textContent = 'Введите 6-значный код';
+    return;
+  }
+
+  btn.disabled = true;
+  btn.textContent = 'Проверка...';
+
+  try {
+    const res = await fetch(API_URL + '/api/v1/verify-email', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'Authorization': 'Bearer ' + authToken },
+      body: JSON.stringify({ code }),
+    });
+    const data = await res.json();
+
+    if (data.ok) {
+      successEl.textContent = 'Email подтверждён! Перенаправляем...';
+      setTimeout(() => {
+        window.location.href = API_URL + '/dashboard/auth/jwt?t=' + encodeURIComponent(authToken);
+      }, 500);
+    } else {
+      errorEl.textContent = data.error || 'Неверный код';
+    }
+  } catch (err) {
+    errorEl.textContent = 'Ошибка соединения с сервером';
+  } finally {
+    btn.disabled = false;
+    btn.textContent = 'Подтвердить';
+  }
+});
+
+// Resend verification code
+document.getElementById('resend-btn').addEventListener('click', async () => {
+  const btn = document.getElementById('resend-btn');
+  const errorEl = document.getElementById('verify-error');
+  const successEl = document.getElementById('verify-success');
+  errorEl.textContent = '';
+  successEl.textContent = '';
+
+  btn.disabled = true;
+  try {
+    const res = await fetch(API_URL + '/api/v1/resend-verification', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'Authorization': 'Bearer ' + authToken },
+    });
+    const data = await res.json();
+
+    if (data.ok) {
+      successEl.textContent = 'Код отправлен повторно';
+    } else {
+      errorEl.textContent = data.error || 'Ошибка';
+    }
+  } catch (err) {
+    errorEl.textContent = 'Ошибка соединения с сервером';
+  } finally {
+    setTimeout(() => { btn.disabled = false; }, 60000); // 1 min cooldown
   }
 });
 
