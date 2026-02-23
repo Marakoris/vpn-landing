@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "NoBorder VPN — Bypass Censorship & Access YouTube, Instagram, Telegram | Fast VPN",
-    "description": "NoBorder VPN — fast VPN to bypass censorship and access YouTube, Instagram, Telegram, and ChatGPT. Unlimited bandwidth, 10+ countries, VLESS & Shadowsocks protocols. 3-day free trial — try now!",
-    "keywords": "VPN, bypass censorship, fast VPN, VLESS, Shadowsocks, buy VPN, VPN for YouTube, unblock Instagram, VPN Telegram, download VPN, internet freedom",
-    "ogTitle": "NoBorder VPN — Bypass Censorship & Access YouTube, Instagram, Telegram",
+    "title": "Download VPN Free — NoBorder VPN | Bypass Censorship YouTube, Instagram, Telegram",
+    "description": "Download VPN free — NoBorder VPN to bypass censorship. YouTube, Instagram, Telegram, ChatGPT. Unlimited bandwidth, VLESS & Shadowsocks. 3-day free trial!",
+    "keywords": "download vpn, vpn free, buy vpn, best vpn, vpn for youtube, bypass censorship, VLESS, Shadowsocks, fast vpn, vpn for android, vpn for iphone",
+    "ogTitle": "Download VPN Free — NoBorder VPN | Bypass Censorship",
     "ogDescription": "Fast VPN for unrestricted internet. Unlimited bandwidth, 10+ locations, modern protocols. 3-day free trial — no credit card required.",
-    "twitterTitle": "NoBorder VPN — Bypass Censorship & Access YouTube, Instagram, Telegram",
+    "twitterTitle": "Download VPN Free — NoBorder VPN | Bypass Censorship",
     "twitterDescription": "Fast VPN for unrestricted internet. Unlimited bandwidth, 10+ locations, modern protocols. 3-day free trial.",
     "ogLocale": "en_US"
   },
@@ -16,13 +16,15 @@
     "account": "Account",
     "faq": "FAQ",
     "cta": "Connect",
-    "menu": "Menu"
+    "menu": "Menu",
+    "home": "Home",
+    "related": "See Also"
   },
   "hero": {
-    "title": "Fast & Reliable<br>VPN Without Borders",
-    "subtitle": "Bypass censorship, protect your data, and access content from around the world. Servers in 10+ countries, unlimited bandwidth, modern protocols.",
+    "title": "Download VPN Free —<br>Fast & Reliable",
+    "subtitle": "Bypass censorship on YouTube, Instagram, and Telegram. Protect your data and access content worldwide. 10+ countries, unlimited bandwidth, VLESS & Shadowsocks.",
     "cta": "Try for Free",
-    "note": "3-day free trial\u2002•\u2002No credit card required"
+    "note": "3-day free trial • No credit card required"
   },
   "features": {
     "title": "Why NoBorder VPN?",
@@ -110,12 +112,16 @@
     "q4": "How do I pay?",
     "a4": "We accept bank cards (Visa, MasterCard), cryptocurrency (USDT, TON), and Telegram Stars. Everything happens right in the bot — fast and secure.",
     "q5": "Is my data safe?",
-    "a5": "We do not store any activity logs. We use modern encryption protocols (VLESS Reality, Shadowsocks) that provide maximum traffic protection. Servers are located in reliable data centers."
+    "a5": "We do not store any activity logs. We use modern encryption protocols (VLESS Reality, Shadowsocks) that provide maximum traffic protection. Servers are located in reliable data centers.",
+    "q6": "Which devices does NoBorder VPN support?",
+    "a6": "NoBorder VPN works on Android, iOS (iPhone, iPad), Windows, macOS, and Linux. You can connect up to 5 devices simultaneously on a single subscription.",
+    "q7": "How is NoBorder VPN different from free VPNs?",
+    "a7": "Free VPNs often sell your data, show ads, and limit speed. NoBorder VPN uses modern VLESS and Shadowsocks protocols, keeps no logs, provides unlimited bandwidth, and works even under heavy DPI blocking."
   },
   "footer": {
     "bot": "Telegram Bot",
     "support": "Support",
-    "copy": "\u00a9 2026 NoBorder VPN. All rights reserved."
+    "copy": "© 2026 NoBorder VPN. All rights reserved."
   },
   "jsonld": {
     "appDescription": "Fast and reliable VPN to bypass censorship and access YouTube, Instagram, Telegram. Unlimited bandwidth, servers in 10+ countries.",
@@ -139,7 +145,871 @@
       {
         "question": "Is my data safe?",
         "answer": "We do not store any activity logs. We use modern encryption protocols (VLESS Reality, Shadowsocks) that provide maximum traffic protection. Servers are located in reliable data centers."
+      },
+      {
+        "question": "Which devices does NoBorder VPN support?",
+        "answer": "NoBorder VPN works on Android, iOS (iPhone, iPad), Windows, macOS, and Linux. You can connect up to 5 devices simultaneously on a single subscription."
+      },
+      {
+        "question": "How is NoBorder VPN different from free VPNs?",
+        "answer": "Free VPNs often sell your data, show ads, and limit speed. NoBorder VPN uses modern VLESS and Shadowsocks protocols, keeps no logs, provides unlimited bandwidth, and works even under heavy DPI blocking."
       }
     ]
+  },
+  "pages": {
+    "vpnPk": {
+      "breadcrumb": "VPN for PC",
+      "meta": {
+        "title": "Download VPN for PC Free — NoBorder VPN for Windows, macOS, Linux",
+        "description": "Download VPN for PC free. NoBorder VPN for Windows, macOS, Linux. Bypass censorship, unlimited bandwidth. 3-day free trial!",
+        "keywords": "vpn for pc, vpn for windows, download vpn computer, vpn for mac, vpn for linux",
+        "ogTitle": "Download VPN for PC — NoBorder VPN",
+        "ogDescription": "VPN for Windows, macOS, Linux. 3-day free trial.",
+        "twitterTitle": "Download VPN for PC — NoBorder VPN",
+        "twitterDescription": "VPN for Windows, macOS, Linux. 3-day free trial.",
+        "ogLocale": "en_US"
+      },
+      "heroTitle": "Download VPN for PC Free",
+      "heroSubtitle": "Protect your computer and bypass censorship on Windows, macOS, and Linux. Modern VLESS and Shadowsocks protocols.",
+      "featuresTitle": "VPN for PC — Benefits",
+      "feat1Title": "Windows, macOS, Linux",
+      "feat1Text": "Supports all major OS. Download Hiddify and connect in 2 minutes.",
+      "feat2Title": "Quick Setup",
+      "feat2Text": "Copy the subscription link from the bot and paste into the app.",
+      "feat3Title": "Unlimited Bandwidth",
+      "feat3Text": "Stream, download, and work without any data limits.",
+      "howtoTitle": "How to Install VPN on PC",
+      "step1Title": "Download Hiddify",
+      "step1Text": "Install the free Hiddify app for your OS.",
+      "step2Title": "Get Subscription",
+      "step2Text": "Open <strong>@NoBorderVPN_bot</strong> in Telegram and activate your trial.",
+      "step3Title": "Paste the Link",
+      "step3Text": "Copy the subscription link into Hiddify — VPN works instantly.",
+      "pricingTitle": "Plans from $0.83/mo",
+      "pricingText": "4 plans from 1 to 12 months. Pay by card, crypto, or Telegram Stars. 3-day free trial.",
+      "faq": {
+        "q1": "How to install VPN on Windows?",
+        "a1": "Download Hiddify, open @NoBorderVPN_bot in Telegram, get the link and paste it.",
+        "q2": "Which app for PC?",
+        "a2": "We recommend Hiddify — free client for Windows, macOS, and Linux.",
+        "q3": "Does it work on macOS and Linux?",
+        "a3": "Yes, NoBorder VPN works on macOS and Linux via Hiddify.",
+        "q4": "Does VPN slow down PC?",
+        "a4": "Minimal impact. VLESS and Shadowsocks ensure high speed."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "How to install VPN on Windows?",
+            "answer": "Download Hiddify, open @NoBorderVPN_bot in Telegram, get the link and paste it."
+          },
+          {
+            "question": "Which app for PC?",
+            "answer": "We recommend Hiddify — free client for Windows, macOS, and Linux."
+          },
+          {
+            "question": "Does it work on macOS and Linux?",
+            "answer": "Yes, NoBorder VPN works on macOS and Linux via Hiddify."
+          },
+          {
+            "question": "Does VPN slow down PC?",
+            "answer": "Minimal impact. VLESS and Shadowsocks ensure high speed."
+          }
+        ]
+      }
+    },
+    "vpnRasshirenie": {
+      "breadcrumb": "VPN Extension",
+      "meta": {
+        "title": "VPN Browser Extension — Chrome, Firefox | NoBorder VPN",
+        "description": "VPN extension for browsers — fast access to blocked sites. Chrome, Firefox, and more.",
+        "keywords": "vpn extension, vpn for chrome, vpn for firefox, browser vpn",
+        "ogTitle": "VPN Browser Extension — NoBorder VPN",
+        "ogDescription": "Fast access to blocked sites from your browser.",
+        "twitterTitle": "VPN Browser Extension — NoBorder VPN",
+        "twitterDescription": "Fast access to blocked sites from your browser.",
+        "ogLocale": "en_US"
+      },
+      "heroTitle": "VPN Extension for Browser",
+      "heroSubtitle": "Fast access to blocked sites right from your browser. NoBorder VPN works through a client app that proxies all traffic.",
+      "featuresTitle": "VPN for Browser — Features",
+      "feat1Title": "Any Browser",
+      "feat1Text": "Chrome, Firefox, Edge — VPN works with all browsers.",
+      "feat2Title": "Instant Toggle",
+      "feat2Text": "Enable VPN in one click.",
+      "feat3Title": "Full Protection",
+      "feat3Text": "Unlike extensions, the app encrypts all traffic.",
+      "howtoTitle": "How to Set Up VPN in Browser",
+      "step1Title": "Install Hiddify",
+      "step1Text": "Download the app — it proxies traffic for all browsers.",
+      "step2Title": "Get Subscription",
+      "step2Text": "Open <strong>@NoBorderVPN_bot</strong> in Telegram.",
+      "step3Title": "Enable VPN",
+      "step3Text": "Paste the subscription link — browser works through VPN.",
+      "pricingTitle": "Plans from $0.83/mo",
+      "pricingText": "4 plans. 3-day free trial.",
+      "faq": {
+        "q1": "How to install VPN in Chrome?",
+        "a1": "NoBorder VPN works via Hiddify, which proxies traffic for all browsers.",
+        "q2": "VPN for Firefox?",
+        "a2": "Yes, Hiddify works with Firefox and all other browsers.",
+        "q3": "App vs extension?",
+        "a3": "The app encrypts all device traffic, not just browser HTTP.",
+        "q4": "Is it safe?",
+        "a4": "NoBorder VPN keeps no logs and uses modern encryption."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "How to install VPN in Chrome?",
+            "answer": "NoBorder VPN works via Hiddify, which proxies traffic for all browsers."
+          },
+          {
+            "question": "VPN for Firefox?",
+            "answer": "Yes, Hiddify works with Firefox and all other browsers."
+          },
+          {
+            "question": "App vs extension?",
+            "answer": "The app encrypts all device traffic, not just browser HTTP."
+          },
+          {
+            "question": "Is it safe?",
+            "answer": "NoBorder VPN keeps no logs and uses modern encryption."
+          }
+        ]
+      }
+    },
+    "vpnAndroid": {
+      "breadcrumb": "VPN for Android",
+      "meta": {
+        "title": "Download VPN for Android Free — NoBorder VPN",
+        "description": "Download VPN for Android. Bypass YouTube, Instagram, Telegram blocks. 3-day free trial!",
+        "keywords": "vpn for android, download vpn android, vpn for phone",
+        "ogTitle": "VPN for Android — NoBorder VPN",
+        "ogDescription": "VPN for Android. 3-day free trial.",
+        "twitterTitle": "VPN for Android — NoBorder VPN",
+        "twitterDescription": "VPN for Android. 3-day free trial.",
+        "ogLocale": "en_US"
+      },
+      "heroTitle": "Download VPN for Android",
+      "heroSubtitle": "Protect your Android device and bypass YouTube, Instagram, and Telegram blocks.",
+      "featuresTitle": "VPN for Android — Benefits",
+      "feat1Title": "Android 5.0+",
+      "feat1Text": "Works on any modern Android. Hiddify and v2rayNG.",
+      "feat2Title": "2-Minute Setup",
+      "feat2Text": "Download the app, paste the link — done.",
+      "feat3Title": "Battery Friendly",
+      "feat3Text": "Protocols optimized for mobile devices.",
+      "howtoTitle": "How to Install VPN on Android",
+      "step1Title": "Download the App",
+      "step1Text": "Install Hiddify or v2rayNG from Google Play.",
+      "step2Title": "Get Subscription",
+      "step2Text": "Open <strong>@NoBorderVPN_bot</strong> in Telegram.",
+      "step3Title": "Connect",
+      "step3Text": "Copy the link — the app configures automatically.",
+      "pricingTitle": "Plans from $0.83/mo",
+      "pricingText": "4 plans. 3-day free trial.",
+      "faq": {
+        "q1": "How to install on Android?",
+        "a1": "Download Hiddify from Google Play, get link from bot, paste it.",
+        "q2": "Which app is best?",
+        "a2": "Hiddify — simple interface, auto-configuration.",
+        "q3": "Works on tablets?",
+        "a3": "Yes, one subscription covers up to 5 devices.",
+        "q4": "Battery impact?",
+        "a4": "Minimal. VLESS is optimized for mobile."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "How to install on Android?",
+            "answer": "Download Hiddify from Google Play, get link from bot, paste it."
+          },
+          {
+            "question": "Which app is best?",
+            "answer": "Hiddify — simple interface, auto-configuration."
+          },
+          {
+            "question": "Works on tablets?",
+            "answer": "Yes, one subscription covers up to 5 devices."
+          },
+          {
+            "question": "Battery impact?",
+            "answer": "Minimal. VLESS is optimized for mobile."
+          }
+        ]
+      }
+    },
+    "vpnYoutube": {
+      "breadcrumb": "VPN for YouTube",
+      "meta": {
+        "title": "VPN for YouTube — Watch Without Limits | NoBorder VPN",
+        "description": "VPN for YouTube — unblock YouTube. Fast servers, no buffering. 3-day free trial!",
+        "keywords": "vpn for youtube, unblock youtube, youtube vpn",
+        "ogTitle": "VPN for YouTube — NoBorder VPN",
+        "ogDescription": "Unblock YouTube. Fast servers, 3-day free trial.",
+        "twitterTitle": "VPN for YouTube — NoBorder VPN",
+        "twitterDescription": "Unblock YouTube. Fast servers, 3-day free trial.",
+        "ogLocale": "en_US"
+      },
+      "heroTitle": "VPN for YouTube —<br>Watch Without Limits",
+      "heroSubtitle": "Unblock YouTube and watch any video without buffering. Fast European servers for 4K streaming.",
+      "featuresTitle": "VPN for YouTube — Benefits",
+      "feat1Title": "YouTube Unblocked",
+      "feat1Text": "Full access: videos, Shorts, live streams.",
+      "feat2Title": "No Buffering",
+      "feat2Text": "Fast servers for 4K streaming.",
+      "feat3Title": "YouTube Music",
+      "feat3Text": "Listen without restrictions.",
+      "howtoTitle": "How to Unblock YouTube",
+      "step1Title": "Install VPN",
+      "step1Text": "Download Hiddify on any device.",
+      "step2Title": "Connect to Server",
+      "step2Text": "Open <strong>@NoBorderVPN_bot</strong>, choose European server.",
+      "step3Title": "Open YouTube",
+      "step3Text": "YouTube works instantly.",
+      "pricingTitle": "Plans from $0.83/mo",
+      "pricingText": "4 plans. 3-day free trial.",
+      "faq": {
+        "q1": "Why VPN for YouTube?",
+        "a1": "YouTube may be blocked or throttled. VPN bypasses these restrictions.",
+        "q2": "Will video lag?",
+        "a2": "No, servers are optimized for streaming.",
+        "q3": "Which server?",
+        "a3": "Germany or Netherlands for best speed.",
+        "q4": "YouTube Premium works?",
+        "a4": "Yes, all Premium features work through VPN."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "Why VPN for YouTube?",
+            "answer": "YouTube may be blocked or throttled. VPN bypasses these restrictions."
+          },
+          {
+            "question": "Will video lag?",
+            "answer": "No, servers are optimized for streaming."
+          },
+          {
+            "question": "Which server?",
+            "answer": "Germany or Netherlands for best speed."
+          },
+          {
+            "question": "YouTube Premium works?",
+            "answer": "Yes, all Premium features work through VPN."
+          }
+        ]
+      }
+    },
+    "luchshiyVpn": {
+      "breadcrumb": "Best VPN",
+      "meta": {
+        "title": "Best VPN 2026 — Rating & Comparison | NoBorder VPN",
+        "description": "Best VPN 2026 — rating, protocol comparison, pricing. VLESS, Shadowsocks, from $0.83/mo.",
+        "keywords": "best vpn, top vpn, best vpn 2026, vpn comparison",
+        "ogTitle": "Best VPN 2026 — NoBorder VPN",
+        "ogDescription": "Best VPN rating. From $0.83/mo.",
+        "twitterTitle": "Best VPN 2026 — NoBorder VPN",
+        "twitterDescription": "Best VPN rating. From $0.83/mo.",
+        "ogLocale": "en_US"
+      },
+      "heroTitle": "Best VPN 2026 —<br>Rating & Comparison",
+      "heroSubtitle": "Why NoBorder VPN is the best choice. VLESS and Shadowsocks, from $0.83/mo.",
+      "featuresTitle": "Why NoBorder VPN Is the Best",
+      "feat1Title": "Undetectable by DPI",
+      "feat1Text": "VLESS Reality masks VPN traffic.",
+      "feat2Title": "From $0.83/mo",
+      "feat2Text": "One of the lowest prices on the market.",
+      "feat3Title": "4.8/5 Rating",
+      "feat3Text": "Over 1200 users rated NoBorder VPN.",
+      "howtoTitle": "How to Get Started",
+      "step1Title": "Open the Bot",
+      "step1Text": "Find <strong>@NoBorderVPN_bot</strong> in Telegram.",
+      "step2Title": "3-Day Free Trial",
+      "step2Text": "Activate trial with no credit card.",
+      "step3Title": "Test the Quality",
+      "step3Text": "Try speed, stability, and censorship bypass.",
+      "pricingTitle": "Plans from $0.83/mo",
+      "pricingText": "4 plans. 3-day free trial.",
+      "faq": {
+        "q1": "Best VPN for 2026?",
+        "a1": "NoBorder VPN — VLESS Reality is undetectable by DPI.",
+        "q2": "Better than free VPNs?",
+        "a2": "No logs, no ads, unlimited bandwidth.",
+        "q3": "Fastest protocol?",
+        "a3": "VLESS — minimal overhead, high speed.",
+        "q4": "Free trial?",
+        "a4": "Yes, 3 days with no credit card."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "Best VPN for 2026?",
+            "answer": "NoBorder VPN — VLESS Reality is undetectable by DPI."
+          },
+          {
+            "question": "Better than free VPNs?",
+            "answer": "No logs, no ads, unlimited bandwidth."
+          },
+          {
+            "question": "Fastest protocol?",
+            "answer": "VLESS — minimal overhead, high speed."
+          },
+          {
+            "question": "Free trial?",
+            "answer": "Yes, 3 days with no credit card."
+          }
+        ]
+      }
+    },
+    "vpnTelegram": {
+      "breadcrumb": "VPN for Telegram",
+      "meta": {
+        "title": "VPN for Telegram — Fast Access | NoBorder VPN",
+        "description": "VPN for Telegram — instant access to the messenger. Fast messages and calls. 3-day free trial!",
+        "keywords": "vpn for telegram, telegram vpn, unblock telegram",
+        "ogTitle": "VPN for Telegram — NoBorder VPN",
+        "ogDescription": "Instant Telegram access. 3-day free trial.",
+        "twitterTitle": "VPN for Telegram — NoBorder VPN",
+        "twitterDescription": "Instant Telegram access. 3-day free trial.",
+        "ogLocale": "en_US"
+      },
+      "heroTitle": "VPN for Telegram —<br>Fast Access",
+      "heroSubtitle": "Telegram blocked? Connect NoBorder VPN and chat without restrictions.",
+      "featuresTitle": "VPN for Telegram — Features",
+      "feat1Title": "Instant Messages",
+      "feat1Text": "Send text, photos, and videos with no delay.",
+      "feat2Title": "Voice & Video",
+      "feat2Text": "Stable calls with low latency.",
+      "feat3Title": "Any File Size",
+      "feat3Text": "Download and send at maximum speed.",
+      "howtoTitle": "How to Connect",
+      "step1Title": "Install VPN",
+      "step1Text": "Download Hiddify on phone or PC.",
+      "step2Title": "Get Subscription",
+      "step2Text": "Open <strong>@NoBorderVPN_bot</strong> and activate trial.",
+      "step3Title": "Use Telegram",
+      "step3Text": "Enable VPN — Telegram works instantly.",
+      "pricingTitle": "Plans from $0.83/mo",
+      "pricingText": "4 plans. 3-day free trial.",
+      "faq": {
+        "q1": "Why VPN for Telegram?",
+        "a1": "Telegram may be blocked by ISPs. VPN bypasses restrictions.",
+        "q2": "All features work?",
+        "a2": "Yes: messages, channels, groups, calls, files.",
+        "q3": "Any delays?",
+        "a3": "No, VLESS ensures minimal latency.",
+        "q4": "How to connect if blocked?",
+        "a4": "Install Hiddify in advance. Get the link via web interface."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "Why VPN for Telegram?",
+            "answer": "Telegram may be blocked by ISPs. VPN bypasses restrictions."
+          },
+          {
+            "question": "All features work?",
+            "answer": "Yes: messages, channels, groups, calls, files."
+          },
+          {
+            "question": "Any delays?",
+            "answer": "No, VLESS ensures minimal latency."
+          },
+          {
+            "question": "How to connect if blocked?",
+            "answer": "Install Hiddify in advance. Get the link via web interface."
+          }
+        ]
+      }
+    },
+    "vpnNeRabotaet": {
+      "breadcrumb": "VPN Not Working",
+      "meta": {
+        "title": "Why VPN Not Working — Troubleshooting | NoBorder VPN",
+        "description": "VPN not working? We'll explain why: DPI blocking, outdated protocols. VLESS bypasses any blocks.",
+        "keywords": "vpn not working, vpn won't connect, vpn blocked",
+        "ogTitle": "VPN Not Working — NoBorder VPN",
+        "ogDescription": "VPN not working? VLESS bypasses any blocks.",
+        "twitterTitle": "VPN Not Working — NoBorder VPN",
+        "twitterDescription": "VPN not working? VLESS bypasses any blocks.",
+        "ogLocale": "en_US"
+      },
+      "heroTitle": "Why VPN Not Working —<br>Troubleshooting",
+      "heroSubtitle": "VPN stopped working? We'll cover the causes and offer a solution that always works.",
+      "featuresTitle": "Why VPNs Get Blocked",
+      "feat1Title": "Diagnostics",
+      "feat1Text": "Identify the cause: DPI, outdated protocol, or config error.",
+      "feat2Title": "DPI Bypass",
+      "feat2Text": "VLESS Reality masks traffic as regular HTTPS.",
+      "feat3Title": "24/7 Support",
+      "feat3Text": "Contact support — we'll help you connect.",
+      "howtoTitle": "How to Fix VPN Issues",
+      "step1Title": "Check Protocol",
+      "step1Text": "OpenVPN and WireGuard are blocked by DPI. Switch to VLESS.",
+      "step2Title": "Update Config",
+      "step2Text": "Open <strong>@NoBorderVPN_bot</strong> — get a fresh link.",
+      "step3Title": "Contact Support",
+      "step3Text": "Write to @VPN_YouSupport_bot.",
+      "pricingTitle": "Plans from $0.83/mo",
+      "pricingText": "Switch to NoBorder VPN — always works.",
+      "faq": {
+        "q1": "Why did VPN stop working?",
+        "a1": "Usually DPI blocking. Switch to VLESS.",
+        "q2": "How to bypass ISP blocking?",
+        "a2": "VLESS Reality masks traffic as regular HTTPS.",
+        "q3": "VPN is slow?",
+        "a3": "Try a different server or switch to VLESS.",
+        "q4": "How to contact support?",
+        "a4": "Write to @VPN_YouSupport_bot in Telegram."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "Why did VPN stop working?",
+            "answer": "Usually DPI blocking. Switch to VLESS."
+          },
+          {
+            "question": "How to bypass ISP blocking?",
+            "answer": "VLESS Reality masks traffic as regular HTTPS."
+          },
+          {
+            "question": "VPN is slow?",
+            "answer": "Try a different server or switch to VLESS."
+          },
+          {
+            "question": "How to contact support?",
+            "answer": "Write to @VPN_YouSupport_bot in Telegram."
+          }
+        ]
+      }
+    },
+    "vpnIphone": {
+      "breadcrumb": "VPN for iPhone",
+      "meta": {
+        "title": "VPN for iPhone — Download for iOS Free | NoBorder VPN",
+        "description": "VPN for iPhone and iPad — bypass censorship on iOS. Hiddify and Streisand. 3-day free trial!",
+        "keywords": "vpn for iphone, vpn ios, vpn for ipad, download vpn iphone",
+        "ogTitle": "VPN for iPhone — NoBorder VPN",
+        "ogDescription": "VPN for iPhone and iPad. 3-day free trial.",
+        "twitterTitle": "VPN for iPhone — NoBorder VPN",
+        "twitterDescription": "VPN for iPhone and iPad. 3-day free trial.",
+        "ogLocale": "en_US"
+      },
+      "heroTitle": "VPN for iPhone —<br>Download for iOS",
+      "heroSubtitle": "Protect your iPhone and iPad. Bypass censorship with one tap.",
+      "featuresTitle": "VPN for iOS — Benefits",
+      "feat1Title": "iPhone & iPad",
+      "feat1Text": "iOS 15+. Hiddify and Streisand from App Store.",
+      "feat2Title": "1-Minute Setup",
+      "feat2Text": "Download, paste the link — done.",
+      "feat3Title": "Battery Friendly",
+      "feat3Text": "Protocols optimized for iOS.",
+      "howtoTitle": "How to Install VPN on iPhone",
+      "step1Title": "Download from App Store",
+      "step1Text": "Install Hiddify or Streisand.",
+      "step2Title": "Get Subscription",
+      "step2Text": "Open <strong>@NoBorderVPN_bot</strong> in Telegram.",
+      "step3Title": "Connect",
+      "step3Text": "Copy the link — app configures automatically.",
+      "pricingTitle": "Plans from $0.83/mo",
+      "pricingText": "4 plans. 3-day free trial.",
+      "faq": {
+        "q1": "How to install on iPhone?",
+        "a1": "Download Hiddify from App Store, get link from bot.",
+        "q2": "Which iOS app?",
+        "a2": "Hiddify or Streisand — both are free.",
+        "q3": "Does VPN slow iPhone?",
+        "a3": "No, VLESS is optimized for iOS.",
+        "q4": "Works on iPad?",
+        "a4": "Yes, one subscription covers up to 5 devices."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "How to install on iPhone?",
+            "answer": "Download Hiddify from App Store, get link from bot."
+          },
+          {
+            "question": "Which iOS app?",
+            "answer": "Hiddify or Streisand — both are free."
+          },
+          {
+            "question": "Does VPN slow iPhone?",
+            "answer": "No, VLESS is optimized for iOS."
+          },
+          {
+            "question": "Works on iPad?",
+            "answer": "Yes, one subscription covers up to 5 devices."
+          }
+        ]
+      }
+    },
+    "vpnOnline": {
+      "breadcrumb": "VPN Online",
+      "meta": {
+        "title": "VPN Online — No Installation | NoBorder VPN",
+        "description": "VPN online — fast access to blocked sites. Minimal setup. 3-day free trial!",
+        "keywords": "vpn online, free vpn online, vpn no install",
+        "ogTitle": "VPN Online — NoBorder VPN",
+        "ogDescription": "Fast VPN, minimal setup. 3-day free trial.",
+        "twitterTitle": "VPN Online — NoBorder VPN",
+        "twitterDescription": "Fast VPN, minimal setup. 3-day free trial.",
+        "ogLocale": "en_US"
+      },
+      "heroTitle": "VPN Online —<br>No Installation",
+      "heroSubtitle": "Looking for VPN without downloads? Hiddify is a lightweight client — installs in 1 minute.",
+      "featuresTitle": "Fast VPN — Minimal Setup",
+      "feat1Title": "Quick Start",
+      "feat1Text": "Install in 1 minute, connect in 1 click.",
+      "feat2Title": "All Sites Available",
+      "feat2Text": "YouTube, Instagram, Telegram, ChatGPT.",
+      "feat3Title": "Full Protection",
+      "feat3Text": "Encrypts all traffic, no logs.",
+      "howtoTitle": "How to Connect Quickly",
+      "step1Title": "Open the Bot",
+      "step1Text": "Find <strong>@NoBorderVPN_bot</strong> in Telegram.",
+      "step2Title": "Get the Link",
+      "step2Text": "Bot provides subscription link.",
+      "step3Title": "Connect",
+      "step3Text": "Paste into Hiddify — done.",
+      "pricingTitle": "Plans from $0.83/mo",
+      "pricingText": "4 plans. 3-day free trial.",
+      "faq": {
+        "q1": "Can I use VPN without installing?",
+        "a1": "A proper VPN needs a client app. Hiddify is very light — 1 minute install.",
+        "q2": "Is online VPN safe?",
+        "a2": "Web proxies don't encrypt all traffic. NoBorder VPN provides full encryption.",
+        "q3": "Need registration?",
+        "a3": "Just open the bot in Telegram.",
+        "q4": "Which sites can I unblock?",
+        "a4": "Any: YouTube, Instagram, Telegram, ChatGPT, and more."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "Can I use VPN without installing?",
+            "answer": "A proper VPN needs a client app. Hiddify is very light — 1 minute install."
+          },
+          {
+            "question": "Is online VPN safe?",
+            "answer": "Web proxies don't encrypt all traffic. NoBorder VPN provides full encryption."
+          },
+          {
+            "question": "Need registration?",
+            "answer": "Just open the bot in Telegram."
+          },
+          {
+            "question": "Which sites can I unblock?",
+            "answer": "Any: YouTube, Instagram, Telegram, ChatGPT, and more."
+          }
+        ]
+      }
+    },
+    "chtoTakoeVpn": {
+      "breadcrumb": "What is VPN",
+      "meta": {
+        "title": "What is VPN and How It Works — Simple Explanation | NoBorder VPN",
+        "description": "What is VPN in simple terms. How it works, why you need it. Try free!",
+        "keywords": "what is vpn, how vpn works, why need vpn, vpn explained",
+        "ogTitle": "What is VPN — NoBorder VPN",
+        "ogDescription": "Simple VPN explanation. Try free.",
+        "twitterTitle": "What is VPN — NoBorder VPN",
+        "twitterDescription": "Simple VPN explanation. Try free.",
+        "ogLocale": "en_US"
+      },
+      "heroTitle": "What is VPN &<br>How It Works",
+      "heroSubtitle": "Simple explanation of VPN technology. Encryption, censorship bypass, data protection.",
+      "featuresTitle": "How VPN Protects You",
+      "feat1Title": "Data Encryption",
+      "feat1Text": "Encrypted tunnel. No one can read your traffic.",
+      "feat2Title": "Bypass Censorship",
+      "feat2Text": "Traffic goes through a server in another country.",
+      "feat3Title": "Anonymity",
+      "feat3Text": "Websites see VPN server IP, not yours.",
+      "howtoTitle": "How to Start Using VPN",
+      "step1Title": "Download the App",
+      "step1Text": "Install Hiddify — it's free.",
+      "step2Title": "Get Subscription",
+      "step2Text": "Open <strong>@NoBorderVPN_bot</strong> — 3 days free.",
+      "step3Title": "Enable VPN",
+      "step3Text": "Click Connect — done.",
+      "pricingTitle": "Plans from $0.83/mo",
+      "pricingText": "Try VPN free — 3 days, no credit card.",
+      "faq": {
+        "q1": "What is VPN in simple terms?",
+        "a1": "A secure tunnel between your device and a server in another country.",
+        "q2": "Why need VPN?",
+        "a2": "Access YouTube, Instagram, ChatGPT. Protect data on public Wi-Fi.",
+        "q3": "Is VPN legal?",
+        "a3": "Using VPN for personal purposes is legal in most countries.",
+        "q4": "How does VPN protect data?",
+        "a4": "Encrypts all traffic. Even if intercepted, only encrypted data is visible."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "What is VPN in simple terms?",
+            "answer": "A secure tunnel between your device and a server in another country."
+          },
+          {
+            "question": "Why need VPN?",
+            "answer": "Access YouTube, Instagram, ChatGPT. Protect data on public Wi-Fi."
+          },
+          {
+            "question": "Is VPN legal?",
+            "answer": "Using VPN for personal purposes is legal in most countries."
+          },
+          {
+            "question": "How does VPN protect data?",
+            "answer": "Encrypts all traffic. Even if intercepted, only encrypted data is visible."
+          }
+        ]
+      }
+    },
+    "kakPodklyuchitVpn": {
+      "breadcrumb": "How to Connect VPN",
+      "meta": {
+        "title": "How to Connect VPN — Step-by-Step Guide 2026 | NoBorder VPN",
+        "description": "How to set up VPN on phone and computer. Android, iPhone, Windows, macOS. 2-minute setup.",
+        "keywords": "how to connect vpn, how to set up vpn, vpn setup guide",
+        "ogTitle": "How to Connect VPN — NoBorder VPN",
+        "ogDescription": "Step-by-step VPN guide. Any device, 2 minutes.",
+        "twitterTitle": "How to Connect VPN — NoBorder VPN",
+        "twitterDescription": "Step-by-step VPN guide. Any device, 2 minutes.",
+        "ogLocale": "en_US"
+      },
+      "heroTitle": "How to Connect VPN —<br>Step-by-Step Guide",
+      "heroSubtitle": "Android, iPhone, Windows, macOS — setup takes just 2 minutes.",
+      "featuresTitle": "VPN Setup Is Easy",
+      "feat1Title": "2 Minutes",
+      "feat1Text": "Download app, paste link — done.",
+      "feat2Title": "Any Device",
+      "feat2Text": "Android, iPhone, Windows, macOS, Linux.",
+      "feat3Title": "Setup Help",
+      "feat3Text": "Support will help in 5 minutes.",
+      "howtoTitle": "Step-by-Step Guide",
+      "step1Title": "Download Client",
+      "step1Text": "Android: Hiddify / v2rayNG. iOS: Hiddify / Streisand. PC: Hiddify.",
+      "step2Title": "Get Configuration",
+      "step2Text": "Open <strong>@NoBorderVPN_bot</strong>, copy the link.",
+      "step3Title": "Connect",
+      "step3Text": "Paste link into app — VPN connects automatically.",
+      "pricingTitle": "Plans from $0.83/mo",
+      "pricingText": "3-day free trial — try now.",
+      "faq": {
+        "q1": "How to connect on phone?",
+        "a1": "Download Hiddify, open bot, copy link.",
+        "q2": "How to set up on computer?",
+        "a2": "Download Hiddify for PC, paste link from bot.",
+        "q3": "Which app?",
+        "a3": "Hiddify — universal, free, all platforms.",
+        "q4": "Need technical skills?",
+        "a4": "No, setup is as simple as it gets."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "How to connect on phone?",
+            "answer": "Download Hiddify, open bot, copy link."
+          },
+          {
+            "question": "How to set up on computer?",
+            "answer": "Download Hiddify for PC, paste link from bot."
+          },
+          {
+            "question": "Which app?",
+            "answer": "Hiddify — universal, free, all platforms."
+          },
+          {
+            "question": "Need technical skills?",
+            "answer": "No, setup is as simple as it gets."
+          }
+        ]
+      }
+    },
+    "obhodBlokirovok": {
+      "breadcrumb": "Bypass Blocking",
+      "meta": {
+        "title": "Bypass Internet Censorship 2026 — YouTube, Instagram, Telegram | NoBorder VPN",
+        "description": "Bypass internet censorship — YouTube, Instagram, Telegram. VLESS and Shadowsocks undetectable by DPI. 3-day free trial!",
+        "keywords": "bypass censorship, bypass blocking, unblock sites, vpn for censorship",
+        "ogTitle": "Bypass Censorship — NoBorder VPN",
+        "ogDescription": "YouTube, Instagram, Telegram — bypass blocks. 3-day free trial.",
+        "twitterTitle": "Bypass Censorship — NoBorder VPN",
+        "twitterDescription": "YouTube, Instagram, Telegram — bypass blocks. 3-day free trial.",
+        "ogLocale": "en_US"
+      },
+      "heroTitle": "Bypass Internet<br>Censorship",
+      "heroSubtitle": "Access YouTube, Instagram, Telegram, ChatGPT. VLESS and Shadowsocks bypass DPI.",
+      "featuresTitle": "How to Bypass Blocks",
+      "feat1Title": "All Sites Available",
+      "feat1Text": "YouTube, Instagram, Telegram, ChatGPT, Spotify, TikTok.",
+      "feat2Title": "DPI Bypass",
+      "feat2Text": "VLESS Reality masks traffic.",
+      "feat3Title": "Auto-Update",
+      "feat3Text": "Servers update automatically.",
+      "howtoTitle": "How to Bypass Censorship",
+      "step1Title": "Install VPN",
+      "step1Text": "Download Hiddify on your device.",
+      "step2Title": "Connect",
+      "step2Text": "Open <strong>@NoBorderVPN_bot</strong>, get subscription.",
+      "step3Title": "Browse Freely",
+      "step3Text": "All blocked sites are now accessible.",
+      "pricingTitle": "Plans from $0.83/mo",
+      "pricingText": "4 plans. 3-day free trial.",
+      "faq": {
+        "q1": "Which sites are blocked?",
+        "a1": "YouTube (throttled), Instagram, Twitter/X, LinkedIn, ChatGPT (partially).",
+        "q2": "How to unblock YouTube?",
+        "a2": "Connect to NoBorder VPN with VLESS — YouTube works at full speed.",
+        "q3": "Can VPN itself be blocked?",
+        "a3": "VLESS Reality is undetectable by DPI.",
+        "q4": "Does VPN bypass all blocks?",
+        "a4": "Yes, traffic goes through overseas servers, bypassing all restrictions."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "Which sites are blocked?",
+            "answer": "YouTube (throttled), Instagram, Twitter/X, LinkedIn, ChatGPT (partially)."
+          },
+          {
+            "question": "How to unblock YouTube?",
+            "answer": "Connect to NoBorder VPN with VLESS — YouTube works at full speed."
+          },
+          {
+            "question": "Can VPN itself be blocked?",
+            "answer": "VLESS Reality is undetectable by DPI."
+          },
+          {
+            "question": "Does VPN bypass all blocks?",
+            "answer": "Yes, traffic goes through overseas servers, bypassing all restrictions."
+          }
+        ]
+      }
+    },
+    "vlessVpn": {
+      "breadcrumb": "VLESS VPN",
+      "meta": {
+        "title": "VLESS VPN — Modern Protocol | NoBorder VPN",
+        "description": "VLESS VPN — next-gen protocol. Undetectable by DPI, maximum speed. 3-day free trial!",
+        "keywords": "vless vpn, shadowsocks, vless protocol, vless reality",
+        "ogTitle": "VLESS VPN — NoBorder VPN",
+        "ogDescription": "VLESS Reality — undetectable by DPI. 3-day free trial.",
+        "twitterTitle": "VLESS VPN — NoBorder VPN",
+        "twitterDescription": "VLESS Reality — undetectable by DPI. 3-day free trial.",
+        "ogLocale": "en_US"
+      },
+      "heroTitle": "VLESS VPN —<br>Modern Protocol",
+      "heroSubtitle": "VLESS Reality — undetectable by DPI, maximum speed, reliable encryption.",
+      "featuresTitle": "Why VLESS Is the Best Protocol",
+      "feat1Title": "Invisible to DPI",
+      "feat1Text": "VLESS Reality masks traffic as regular HTTPS.",
+      "feat2Title": "Maximum Speed",
+      "feat2Text": "Minimal overhead, faster than OpenVPN.",
+      "feat3Title": "Reality Encryption",
+      "feat3Text": "TLS 1.3 masking with real domain.",
+      "howtoTitle": "How to Connect via VLESS",
+      "step1Title": "Download Client",
+      "step1Text": "Hiddify supports VLESS Reality.",
+      "step2Title": "Get Configuration",
+      "step2Text": "Open <strong>@NoBorderVPN_bot</strong> — bot provides VLESS link.",
+      "step3Title": "Connect",
+      "step3Text": "Paste link into Hiddify — VLESS activates automatically.",
+      "pricingTitle": "Plans from $0.83/mo",
+      "pricingText": "4 plans. 3-day free trial.",
+      "faq": {
+        "q1": "What is VLESS?",
+        "a1": "Modern VPN protocol from Xray-core for bypassing DPI.",
+        "q2": "Better than OpenVPN?",
+        "a2": "OpenVPN is easily blocked by DPI. VLESS Reality is invisible.",
+        "q3": "What is Reality?",
+        "a3": "Technology that makes VPN traffic indistinguishable from regular HTTPS.",
+        "q4": "VLESS vs Shadowsocks?",
+        "a4": "Both bypass DPI. VLESS has better masking, Shadowsocks is simpler."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "What is VLESS?",
+            "answer": "Modern VPN protocol from Xray-core for bypassing DPI."
+          },
+          {
+            "question": "Better than OpenVPN?",
+            "answer": "OpenVPN is easily blocked by DPI. VLESS Reality is invisible."
+          },
+          {
+            "question": "What is Reality?",
+            "answer": "Technology that makes VPN traffic indistinguishable from regular HTTPS."
+          },
+          {
+            "question": "VLESS vs Shadowsocks?",
+            "answer": "Both bypass DPI. VLESS has better masking, Shadowsocks is simpler."
+          }
+        ]
+      }
+    },
+    "vpnDlyaIgr": {
+      "breadcrumb": "VPN for Gaming",
+      "meta": {
+        "title": "VPN for Gaming — Low Ping | NoBorder VPN",
+        "description": "VPN for gaming — low ping, stable connection. Servers in Europe and Asia. 3-day free trial!",
+        "keywords": "vpn for gaming, gaming vpn, low ping vpn, vpn for games",
+        "ogTitle": "VPN for Gaming — NoBorder VPN",
+        "ogDescription": "Play without lag. 3-day free trial.",
+        "twitterTitle": "VPN for Gaming — NoBorder VPN",
+        "twitterDescription": "Play without lag. 3-day free trial.",
+        "ogLocale": "en_US"
+      },
+      "heroTitle": "VPN for Gaming —<br>Low Ping",
+      "heroSubtitle": "Play without lag with servers in Europe and Asia. Low ping, stable connection.",
+      "featuresTitle": "VPN for Gaming — Benefits",
+      "feat1Title": "Low Ping",
+      "feat1Text": "Servers near gaming data centers.",
+      "feat2Title": "Regional Access",
+      "feat2Text": "Connect to game servers in any region.",
+      "feat3Title": "DDoS Protection",
+      "feat3Text": "Your real IP is hidden behind VPN.",
+      "howtoTitle": "How to Set Up VPN for Gaming",
+      "step1Title": "Install VPN",
+      "step1Text": "Download Hiddify on PC.",
+      "step2Title": "Choose Server",
+      "step2Text": "Open <strong>@NoBorderVPN_bot</strong>, pick the nearest server.",
+      "step3Title": "Play",
+      "step3Text": "Low ping and stable connection guaranteed.",
+      "pricingTitle": "Plans from $0.83/mo",
+      "pricingText": "4 plans. 3-day free trial.",
+      "faq": {
+        "q1": "Does VPN increase ping?",
+        "a1": "With the right server — no.",
+        "q2": "Which server for gaming?",
+        "a2": "Germany or Netherlands for Europe.",
+        "q3": "Works with Steam?",
+        "a3": "Yes, and Epic Games, PlayStation, Xbox.",
+        "q4": "Works with consoles?",
+        "a4": "Via VPN on router — yes."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "Does VPN increase ping?",
+            "answer": "With the right server — no."
+          },
+          {
+            "question": "Which server for gaming?",
+            "answer": "Germany or Netherlands for Europe."
+          },
+          {
+            "question": "Works with Steam?",
+            "answer": "Yes, and Epic Games, PlayStation, Xbox."
+          },
+          {
+            "question": "Works with consoles?",
+            "answer": "Via VPN on router — yes."
+          }
+        ]
+      }
+    }
   }
 }

@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VPN расширение для браузера — Chrome, Firefox, Яндекс Браузер | NoBorder VPN</title>
+  <meta name="description" content="VPN расширение для браузера — быстрый доступ к заблокированным сайтам. Работает в Chrome, Firefox и Яндекс Браузере. Протоколы VLESS и Shadowsocks.">
+  <meta name="keywords" content="впн расширение, расширение для браузера впн, vpn для яндекс браузера, vpn расширение для chrome, впн для хрома, vpn для firefox, впн расширение бесплатно, расширение впн для яндекс браузера, vpn для браузера">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#0d0d16">
+  <link rel="canonical" href="https://DOMAIN/vpn-rasshirenie/">
+  <link rel="alternate" hreflang="ru" href="https://DOMAIN/vpn-rasshirenie/">
+  <link rel="alternate" hreflang="en" href="https://DOMAIN/vpn-rasshirenie/">
+  <link rel="alternate" hreflang="x-default" href="https://DOMAIN/vpn-rasshirenie/">
+  <link rel="icon" href="../img/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="../img/apple-touch-icon.png">
+
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="NoBorder VPN">
+  <meta property="og:title" content="VPN расширение для браузера — NoBorder VPN">
+  <meta property="og:description" content="Быстрый доступ к заблокированным сайтам из браузера. Chrome, Firefox, Яндекс Браузер. 3 дня бесплатно.">
+  <meta property="og:image" content="https://DOMAIN/img/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:url" content="https://DOMAIN/vpn-rasshirenie/">
+  <meta property="og:locale" content="ru_RU">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="VPN расширение для браузера — NoBorder VPN">
+  <meta name="twitter:description" content="Быстрый доступ к заблокированным сайтам из браузера. Chrome, Firefox, Яндекс Браузер. 3 дня бесплатно.">
+  <meta name="twitter:image" content="https://DOMAIN/img/og-image.png">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://DOMAIN/"},
+      {"@type": "ListItem", "position": 2, "name": "VPN расширение", "item": "https://DOMAIN/vpn-rasshirenie/"}
+    ]
+  }
+  </script>
+
+  <script type="application/ld+json" id="jsonld-faq">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Как установить VPN расширение в Chrome?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "NoBorder VPN работает через приложение Hiddify, которое проксирует трафик для всех браузеров, включая Chrome. Это надёжнее, чем браузерное расширение, так как шифруется весь трафик."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Есть ли VPN для Яндекс Браузера?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Да, приложение Hiddify с подпиской NoBorder VPN работает с Яндекс Браузером. Включите VPN — и весь трафик браузера будет защищён."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Чем приложение лучше расширения?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Браузерные VPN-расширения шифруют только HTTP-трафик и могут утекать DNS-запросы. Приложение шифрует весь трафик устройства, обеспечивая полную защиту."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Безопасно ли VPN расширение?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Многие бесплатные VPN-расширения продают данные пользователей. NoBorder VPN не хранит логов и использует современное шифрование VLESS Reality."
+        }
+      }
+    ]
+  }
+  </script>
+
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body data-page="vpnRasshirenie">
+
+  <svg style="position:absolute;width:0;height:0" aria-hidden="true"><defs><linearGradient id="icon-grad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#00d9ff"/><stop offset="100%" stop-color="#00ff88"/></linearGradient></defs></svg>
+
+  <header class="header">
+    <div class="container header__inner">
+      <a href="/" class="logo">
+        <div class="logo__icon">
+          <svg viewBox="0 0 32 32" width="32" height="32" fill="none">
+            <defs><linearGradient id="shield-grad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#00d9ff"/><stop offset="100%" stop-color="#00ff88"/></linearGradient></defs>
+            <path d="M16 2L4 7v9c0 8 5.2 13.4 12 15 6.8-1.6 12-7 12-15V7L16 2z" stroke="url(#shield-grad)" stroke-width="2" fill="none"/>
+            <path d="M12 16l3 3 5-6" stroke="url(#shield-grad)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        <span class="logo__text">NoBorder VPN</span>
+      </a>
+      <nav class="nav" id="nav">
+        <a href="/" class="nav__link" data-i18n="nav.home">Главная</a>
+        <a href="/#features" class="nav__link" data-i18n="nav.features">Преимущества</a>
+        <a href="/#pricing" class="nav__link" data-i18n="nav.pricing">Тарифы</a>
+        <a href="/#auth" class="nav__link" data-i18n="nav.account">Кабинет</a>
+        <a href="#faq" class="nav__link" data-i18n="nav.faq">FAQ</a>
+      </nav>
+      <div class="lang-switch">
+        <button class="lang-switch__btn active" data-lang="ru">RU</button>
+        <button class="lang-switch__btn" data-lang="en">EN</button>
+      </div>
+      <a href="/#auth" class="btn btn--sm btn--header" data-i18n="nav.cta">Подключить</a>
+      <button class="burger" id="burger" aria-label="Меню">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <div class="breadcrumb">
+    <div class="container">
+      <a href="/" data-i18n="nav.home">Главная</a>
+      <span class="breadcrumb__sep">&rsaquo;</span>
+      <span data-i18n="pages.vpnRasshirenie.breadcrumb">VPN расширение</span>
+    </div>
+  </div>
+
+  <section class="hero hero--sub" id="hero">
+    <div class="container hero__inner">
+      <h1 class="hero__title fade-in" data-i18n-html="pages.vpnRasshirenie.heroTitle">VPN расширение для браузера</h1>
+      <p class="hero__sub fade-in" data-i18n="pages.vpnRasshirenie.heroSubtitle">Быстрый доступ к&nbsp;заблокированным сайтам прямо из&nbsp;браузера. NoBorder VPN работает через приложение-клиент, который проксирует весь трафик или только браузерный.</p>
+      <a href="https://t.me/NoBorderVPN_bot" class="btn btn--lg fade-in" target="_blank" rel="noopener" data-i18n="hero.cta">Попробовать бесплатно</a>
+      <p class="hero__note fade-in" data-i18n="hero.note">3 дня бесплатно&ensp;&bull;&ensp;Без привязки карты</p>
+    </div>
+  </section>
+
+  <section class="features" id="features">
+    <div class="container">
+      <h2 class="section-title fade-in" data-i18n="pages.vpnRasshirenie.featuresTitle">VPN для браузера — возможности</h2>
+      <div class="features__grid features__grid--3">
+        <div class="card fade-in">
+          <div class="card__icon">
+            <svg viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="url(#icon-grad)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+          </div>
+          <h3 class="card__title" data-i18n="pages.vpnRasshirenie.feat1Title">Любой браузер</h3>
+          <p class="card__text" data-i18n="pages.vpnRasshirenie.feat1Text">Chrome, Firefox, Яндекс Браузер, Edge — VPN через приложение работает со&nbsp;всеми браузерами.</p>
+        </div>
+        <div class="card fade-in">
+          <div class="card__icon">
+            <svg viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="url(#icon-grad)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+          </div>
+          <h3 class="card__title" data-i18n="pages.vpnRasshirenie.feat2Title">Мгновенное включение</h3>
+          <p class="card__text" data-i18n="pages.vpnRasshirenie.feat2Text">Включите VPN в&nbsp;один клик. Переключайтесь между серверами без перезагрузки браузера.</p>
+        </div>
+        <div class="card fade-in">
+          <div class="card__icon">
+            <svg viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="url(#icon-grad)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+          </div>
+          <h3 class="card__title" data-i18n="pages.vpnRasshirenie.feat3Title">Полная защита</h3>
+          <p class="card__text" data-i18n="pages.vpnRasshirenie.feat3Text">В&nbsp;отличие от&nbsp;браузерных расширений, приложение шифрует весь трафик, а&nbsp;не&nbsp;только HTTP.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="howto" id="howto">
+    <div class="container">
+      <h2 class="section-title fade-in" data-i18n="pages.vpnRasshirenie.howtoTitle">Как подключить VPN в браузере</h2>
+      <div class="steps">
+        <div class="step fade-in">
+          <div class="step__num">1</div>
+          <h3 class="step__title" data-i18n="pages.vpnRasshirenie.step1Title">Установите Hiddify</h3>
+          <p class="step__text" data-i18n-html="pages.vpnRasshirenie.step1Text">Скачайте приложение Hiddify — оно проксирует трафик для всех браузеров на&nbsp;устройстве.</p>
+        </div>
+        <div class="step fade-in">
+          <div class="step__num">2</div>
+          <h3 class="step__title" data-i18n="pages.vpnRasshirenie.step2Title">Получите подписку</h3>
+          <p class="step__text" data-i18n-html="pages.vpnRasshirenie.step2Text">Откройте <strong>@NoBorderVPN_bot</strong> в&nbsp;Telegram и&nbsp;активируйте бесплатный триал.</p>
+        </div>
+        <div class="step fade-in">
+          <div class="step__num">3</div>
+          <h3 class="step__title" data-i18n="pages.vpnRasshirenie.step3Title">Включите VPN</h3>
+          <p class="step__text" data-i18n-html="pages.vpnRasshirenie.step3Text">Вставьте ссылку подписки в&nbsp;Hiddify и&nbsp;нажмите подключиться — браузер начнёт работать через VPN.</p>
+        </div>
+      </div>
+      <div class="steps__cta fade-in">
+        <a href="https://t.me/NoBorderVPN_bot" class="btn btn--lg" target="_blank" rel="noopener" data-i18n="howto.cta">Открыть бот в Telegram</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="pricing-cta">
+    <div class="container">
+      <div class="pricing-cta__card fade-in">
+        <h2 class="pricing-cta__title" data-i18n="pages.vpnRasshirenie.pricingTitle">Тарифы от 83 ₽/мес</h2>
+        <p class="pricing-cta__text" data-i18n="pages.vpnRasshirenie.pricingText">4 тарифных плана от&nbsp;1 до&nbsp;12 месяцев. Оплата картой, криптой или Telegram Stars. 3 дня бесплатно.</p>
+        <a href="/#pricing" class="btn btn--lg" data-i18n="pricing.cta">Начать бесплатно</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="faq" id="faq">
+    <div class="container">
+      <h2 class="section-title fade-in" data-i18n="faq.title">Частые вопросы</h2>
+      <div class="faq__list">
+        <div class="faq__item fade-in">
+          <button class="faq__question" aria-expanded="false">
+            <span data-i18n="pages.vpnRasshirenie.faq.q1">Как установить VPN расширение в Chrome?</span>
+            <svg class="faq__arrow" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="faq__answer">
+            <p data-i18n="pages.vpnRasshirenie.faq.a1">NoBorder VPN работает через приложение Hiddify, которое проксирует трафик для всех браузеров, включая Chrome. Это надёжнее, чем браузерное расширение, так как шифруется весь трафик.</p>
+          </div>
+        </div>
+        <div class="faq__item fade-in">
+          <button class="faq__question" aria-expanded="false">
+            <span data-i18n="pages.vpnRasshirenie.faq.q2">Есть ли VPN для Яндекс Браузера?</span>
+            <svg class="faq__arrow" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="faq__answer">
+            <p data-i18n="pages.vpnRasshirenie.faq.a2">Да, приложение Hiddify с&nbsp;подпиской NoBorder VPN работает с&nbsp;Яндекс Браузером. Включите VPN — и&nbsp;весь трафик браузера будет защищён.</p>
+          </div>
+        </div>
+        <div class="faq__item fade-in">
+          <button class="faq__question" aria-expanded="false">
+            <span data-i18n="pages.vpnRasshirenie.faq.q3">Чем приложение лучше расширения?</span>
+            <svg class="faq__arrow" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="faq__answer">
+            <p data-i18n="pages.vpnRasshirenie.faq.a3">Браузерные VPN-расширения шифруют только HTTP-трафик и&nbsp;могут утекать DNS-запросы. Приложение шифрует весь трафик устройства, обеспечивая полную защиту.</p>
+          </div>
+        </div>
+        <div class="faq__item fade-in">
+          <button class="faq__question" aria-expanded="false">
+            <span data-i18n="pages.vpnRasshirenie.faq.q4">Безопасно ли VPN расширение?</span>
+            <svg class="faq__arrow" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="faq__answer">
+            <p data-i18n="pages.vpnRasshirenie.faq.a4">Многие бесплатные VPN-расширения продают данные пользователей. NoBorder VPN не&nbsp;хранит логов и&nbsp;использует современное шифрование VLESS Reality.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="related">
+    <div class="container">
+      <h2 class="section-title fade-in" data-i18n="nav.related">Смотрите также</h2>
+      <div class="related__grid">
+        <a href="/vpn-dlya-pk/" class="related__link">VPN для ПК</a>
+        <a href="/vpn-online/" class="related__link">VPN онлайн</a>
+        <a href="/obhod-blokirovok/" class="related__link">Обход блокировок</a>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container footer__inner">
+      <div class="footer__top">
+        <div class="footer__links">
+          <a href="https://t.me/NoBorderVPN_bot" target="_blank" rel="noopener" data-i18n="footer.bot">Telegram-бот</a>
+          <a href="https://t.me/VPN_YouSupport_bot" target="_blank" rel="noopener" data-i18n="footer.support">Поддержка</a>
+        </div>
+        <p class="footer__copy" data-i18n="footer.copy">&copy; 2026 NoBorder VPN. Все права защищены.</p>
+      </div>
+      <div class="footer__pages">
+        <a href="/vpn-dlya-pk/">VPN для ПК</a>
+        <a href="/vpn-dlya-android/">VPN для Android</a>
+        <a href="/vpn-dlya-iphone/">VPN для iPhone</a>
+        <a href="/vpn-dlya-youtube/">VPN для YouTube</a>
+        <a href="/vpn-dlya-telegram/">VPN для Telegram</a>
+        <a href="/luchshiy-vpn/">Лучший VPN</a>
+        <a href="/vpn-online/">VPN онлайн</a>
+        <a href="/chto-takoe-vpn/">Что такое VPN</a>
+        <a href="/kak-podklyuchit-vpn/">Как подключить VPN</a>
+        <a href="/obhod-blokirovok/">Обход блокировок</a>
+        <a href="/vless-vpn/">VLESS VPN</a>
+        <a href="/vpn-dlya-igr/">VPN для игр</a>
+        <a href="/vpn-ne-rabotaet/">VPN не работает</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '__GA_ID__');
+    var s = document.createElement('script');
+    s.async = true;
+    s.src = 'https://www.googletagmanager.com/gtag/js?id=__GA_ID__';
+    document.head.appendChild(s);
+  </script>
+  <script src="../js/main.js"></script>
+</body>
+</html>

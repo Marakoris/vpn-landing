@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Что такое VPN и как он работает — простое объяснение | NoBorder VPN</title>
+  <meta name="description" content="Что такое VPN простыми словами. Как работает VPN, зачем нужен, законно ли использовать в России. Протоколы VLESS и Shadowsocks. Попробуйте бесплатно!">
+  <meta name="keywords" content="впн что это, как работает впн, что такое vpn, vpn что это, зачем нужен впн, впн простыми словами, как работает vpn, vpn для чайников, впн зачем нужен, принцип работы vpn">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#0d0d16">
+  <link rel="canonical" href="https://DOMAIN/chto-takoe-vpn/">
+  <link rel="alternate" hreflang="ru" href="https://DOMAIN/chto-takoe-vpn/">
+  <link rel="alternate" hreflang="en" href="https://DOMAIN/chto-takoe-vpn/">
+  <link rel="alternate" hreflang="x-default" href="https://DOMAIN/chto-takoe-vpn/">
+  <link rel="icon" href="../img/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="../img/apple-touch-icon.png">
+
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="NoBorder VPN">
+  <meta property="og:title" content="Что такое VPN и как он работает | NoBorder VPN">
+  <meta property="og:description" content="Простое объяснение VPN. Как работает, зачем нужен, какие протоколы. Попробуйте бесплатно.">
+  <meta property="og:image" content="https://DOMAIN/img/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:url" content="https://DOMAIN/chto-takoe-vpn/">
+  <meta property="og:locale" content="ru_RU">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Что такое VPN и как он работает | NoBorder VPN">
+  <meta name="twitter:description" content="Простое объяснение VPN. Как работает, зачем нужен, какие протоколы. Попробуйте бесплатно.">
+  <meta name="twitter:image" content="https://DOMAIN/img/og-image.png">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Главная", "item": "https://DOMAIN/"},
+      {"@type": "ListItem", "position": 2, "name": "Что такое VPN", "item": "https://DOMAIN/chto-takoe-vpn/"}
+    ]
+  }
+  </script>
+
+  <script type="application/ld+json" id="jsonld-faq">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Что такое VPN простыми словами?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "VPN — это защищённый туннель между вашим устройством и сервером в другой стране. Весь ваш интернет-трафик проходит через этот туннель в зашифрованном виде, что позволяет обходить блокировки и защищать данные."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Зачем нужен VPN в России?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "В России заблокированы многие сервисы: YouTube (замедлён), Instagram, Twitter/X, ChatGPT. VPN позволяет получить к ним доступ. Также VPN защищает данные в публичных Wi-Fi сетях."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "VPN — это законно?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Использование VPN в России не запрещено. Закон ограничивает распространение средств обхода блокировок, но использование VPN для личных целей законно."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Как VPN защищает мои данные?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "VPN шифрует весь трафик современными алгоритмами. Даже если кто-то перехватит данные (например, в кафе через Wi-Fi), он увидит только зашифрованный поток, а не ваши пароли и сообщения."
+        }
+      }
+    ]
+  }
+  </script>
+
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body data-page="chtoTakoeVpn">
+
+  <svg style="position:absolute;width:0;height:0" aria-hidden="true"><defs><linearGradient id="icon-grad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#00d9ff"/><stop offset="100%" stop-color="#00ff88"/></linearGradient></defs></svg>
+
+  <header class="header">
+    <div class="container header__inner">
+      <a href="/" class="logo">
+        <div class="logo__icon">
+          <svg viewBox="0 0 32 32" width="32" height="32" fill="none">
+            <defs><linearGradient id="shield-grad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#00d9ff"/><stop offset="100%" stop-color="#00ff88"/></linearGradient></defs>
+            <path d="M16 2L4 7v9c0 8 5.2 13.4 12 15 6.8-1.6 12-7 12-15V7L16 2z" stroke="url(#shield-grad)" stroke-width="2" fill="none"/>
+            <path d="M12 16l3 3 5-6" stroke="url(#shield-grad)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        <span class="logo__text">NoBorder VPN</span>
+      </a>
+      <nav class="nav" id="nav">
+        <a href="/" class="nav__link" data-i18n="nav.home">Главная</a>
+        <a href="/#features" class="nav__link" data-i18n="nav.features">Преимущества</a>
+        <a href="/#pricing" class="nav__link" data-i18n="nav.pricing">Тарифы</a>
+        <a href="/#auth" class="nav__link" data-i18n="nav.account">Кабинет</a>
+        <a href="#faq" class="nav__link" data-i18n="nav.faq">FAQ</a>
+      </nav>
+      <div class="lang-switch">
+        <button class="lang-switch__btn active" data-lang="ru">RU</button>
+        <button class="lang-switch__btn" data-lang="en">EN</button>
+      </div>
+      <a href="/#auth" class="btn btn--sm btn--header" data-i18n="nav.cta">Подключить</a>
+      <button class="burger" id="burger" aria-label="Меню">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <div class="breadcrumb">
+    <div class="container">
+      <a href="/" data-i18n="nav.home">Главная</a>
+      <span class="breadcrumb__sep">&rsaquo;</span>
+      <span data-i18n="pages.chtoTakoeVpn.breadcrumb">Что такое VPN</span>
+    </div>
+  </div>
+
+  <section class="hero hero--sub" id="hero">
+    <div class="container hero__inner">
+      <h1 class="hero__title fade-in" data-i18n-html="pages.chtoTakoeVpn.heroTitle">Что такое VPN и&nbsp;как он&nbsp;работает</h1>
+      <p class="hero__sub fade-in" data-i18n="pages.chtoTakoeVpn.heroSubtitle">Простое объяснение технологии VPN. Узнайте, как VPN шифрует трафик, обходит блокировки и&nbsp;защищает ваши данные в&nbsp;интернете.</p>
+      <a href="https://t.me/NoBorderVPN_bot" class="btn btn--lg fade-in" target="_blank" rel="noopener" data-i18n="hero.cta">Попробовать бесплатно</a>
+      <p class="hero__note fade-in" data-i18n="hero.note">3 дня бесплатно&ensp;&bull;&ensp;Без привязки карты</p>
+    </div>
+  </section>
+
+  <section class="features" id="features">
+    <div class="container">
+      <h2 class="section-title fade-in" data-i18n="pages.chtoTakoeVpn.featuresTitle">Как VPN защищает вас</h2>
+      <div class="features__grid features__grid--3">
+        <div class="card fade-in">
+          <div class="card__icon">
+            <svg viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="url(#icon-grad)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+          </div>
+          <h3 class="card__title" data-i18n="pages.chtoTakoeVpn.feat1Title">Шифрование данных</h3>
+          <p class="card__text" data-i18n="pages.chtoTakoeVpn.feat1Text">VPN создаёт зашифрованный туннель. Никто — ни&nbsp;провайдер, ни&nbsp;хакер — не&nbsp;может прочитать ваш трафик.</p>
+        </div>
+        <div class="card fade-in">
+          <div class="card__icon">
+            <svg viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="url(#icon-grad)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+          </div>
+          <h3 class="card__title" data-i18n="pages.chtoTakoeVpn.feat2Title">Обход блокировок</h3>
+          <p class="card__text" data-i18n="pages.chtoTakoeVpn.feat2Text">Трафик идёт через сервер в&nbsp;другой стране. Заблокированные сайты становятся доступными.</p>
+        </div>
+        <div class="card fade-in">
+          <div class="card__icon">
+            <svg viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="url(#icon-grad)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M17.94 17.94A10.07 10.07 0 0 1 12 20c-7 0-11-8-11-8a18.45 18.45 0 0 1 5.06-5.94M9.9 4.24A9.12 9.12 0 0 1 12 4c7 0 11 8 11 8a18.5 18.5 0 0 1-2.16 3.19m-6.72-1.07a3 3 0 1 1-4.24-4.24"/><line x1="1" y1="1" x2="23" y2="23"/></svg>
+          </div>
+          <h3 class="card__title" data-i18n="pages.chtoTakoeVpn.feat3Title">Анонимность</h3>
+          <p class="card__text" data-i18n="pages.chtoTakoeVpn.feat3Text">Сайты видят IP-адрес VPN-сервера, а&nbsp;не&nbsp;ваш. Ваше местоположение и&nbsp;личность скрыты.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="howto" id="howto">
+    <div class="container">
+      <h2 class="section-title fade-in" data-i18n="pages.chtoTakoeVpn.howtoTitle">Как начать использовать VPN</h2>
+      <div class="steps">
+        <div class="step fade-in">
+          <div class="step__num">1</div>
+          <h3 class="step__title" data-i18n="pages.chtoTakoeVpn.step1Title">Скачайте приложение</h3>
+          <p class="step__text" data-i18n-html="pages.chtoTakoeVpn.step1Text">Установите VPN-клиент (Hiddify) на&nbsp;телефон, ПК или планшет — он&nbsp;бесплатный.</p>
+        </div>
+        <div class="step fade-in">
+          <div class="step__num">2</div>
+          <h3 class="step__title" data-i18n="pages.chtoTakoeVpn.step2Title">Получите подписку</h3>
+          <p class="step__text" data-i18n-html="pages.chtoTakoeVpn.step2Text">Откройте <strong>@NoBorderVPN_bot</strong> в&nbsp;Telegram — получите 3 дня бесплатного доступа.</p>
+        </div>
+        <div class="step fade-in">
+          <div class="step__num">3</div>
+          <h3 class="step__title" data-i18n="pages.chtoTakoeVpn.step3Title">Включите VPN</h3>
+          <p class="step__text" data-i18n-html="pages.chtoTakoeVpn.step3Text">Нажмите «Подключиться» — готово. Ваш трафик зашифрован, блокировки обойдены.</p>
+        </div>
+      </div>
+      <div class="steps__cta fade-in">
+        <a href="https://t.me/NoBorderVPN_bot" class="btn btn--lg" target="_blank" rel="noopener" data-i18n="howto.cta">Открыть бот в Telegram</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="pricing-cta">
+    <div class="container">
+      <div class="pricing-cta__card fade-in">
+        <h2 class="pricing-cta__title" data-i18n="pages.chtoTakoeVpn.pricingTitle">Тарифы от 83 ₽/мес</h2>
+        <p class="pricing-cta__text" data-i18n="pages.chtoTakoeVpn.pricingText">4 тарифных плана от&nbsp;1 до&nbsp;12 месяцев. Оплата картой, криптой или Telegram Stars. 3 дня бесплатно.</p>
+        <a href="/#pricing" class="btn btn--lg" data-i18n="pricing.cta">Начать бесплатно</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="faq" id="faq">
+    <div class="container">
+      <h2 class="section-title fade-in" data-i18n="faq.title">Частые вопросы</h2>
+      <div class="faq__list">
+        <div class="faq__item fade-in">
+          <button class="faq__question" aria-expanded="false">
+            <span data-i18n="pages.chtoTakoeVpn.faq.q1">Что такое VPN простыми словами?</span>
+            <svg class="faq__arrow" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="faq__answer">
+            <p data-i18n="pages.chtoTakoeVpn.faq.a1">VPN — это защищённый туннель между вашим устройством и&nbsp;сервером в&nbsp;другой стране. Весь ваш интернет-трафик проходит через этот туннель в&nbsp;зашифрованном виде, что позволяет обходить блокировки и&nbsp;защищать данные.</p>
+          </div>
+        </div>
+        <div class="faq__item fade-in">
+          <button class="faq__question" aria-expanded="false">
+            <span data-i18n="pages.chtoTakoeVpn.faq.q2">Зачем нужен VPN в России?</span>
+            <svg class="faq__arrow" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="faq__answer">
+            <p data-i18n="pages.chtoTakoeVpn.faq.a2">В&nbsp;России заблокированы многие сервисы: YouTube (замедлён), Instagram, Twitter/X, ChatGPT. VPN позволяет получить к&nbsp;ним доступ. Также VPN защищает данные в&nbsp;публичных Wi-Fi сетях.</p>
+          </div>
+        </div>
+        <div class="faq__item fade-in">
+          <button class="faq__question" aria-expanded="false">
+            <span data-i18n="pages.chtoTakoeVpn.faq.q3">VPN — это законно?</span>
+            <svg class="faq__arrow" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="faq__answer">
+            <p data-i18n="pages.chtoTakoeVpn.faq.a3">Использование VPN в&nbsp;России не&nbsp;запрещено. Закон ограничивает распространение средств обхода блокировок, но&nbsp;использование VPN для личных целей законно.</p>
+          </div>
+        </div>
+        <div class="faq__item fade-in">
+          <button class="faq__question" aria-expanded="false">
+            <span data-i18n="pages.chtoTakoeVpn.faq.q4">Как VPN защищает мои данные?</span>
+            <svg class="faq__arrow" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="faq__answer">
+            <p data-i18n="pages.chtoTakoeVpn.faq.a4">VPN шифрует весь трафик современными алгоритмами. Даже если кто-то перехватит данные (например, в&nbsp;кафе через Wi-Fi), он&nbsp;увидит только зашифрованный поток, а&nbsp;не&nbsp;ваши пароли и&nbsp;сообщения.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="related">
+    <div class="container">
+      <h2 class="section-title fade-in" data-i18n="nav.related">Смотрите также</h2>
+      <div class="related__grid">
+        <a href="/kak-podklyuchit-vpn/" class="related__link">Как подключить VPN</a>
+        <a href="/vless-vpn/" class="related__link">VLESS VPN протокол</a>
+        <a href="/luchshiy-vpn/" class="related__link">Лучший VPN</a>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container footer__inner">
+      <div class="footer__top">
+        <div class="footer__links">
+          <a href="https://t.me/NoBorderVPN_bot" target="_blank" rel="noopener" data-i18n="footer.bot">Telegram-бот</a>
+          <a href="https://t.me/VPN_YouSupport_bot" target="_blank" rel="noopener" data-i18n="footer.support">Поддержка</a>
+        </div>
+        <p class="footer__copy" data-i18n="footer.copy">&copy; 2026 NoBorder VPN. Все права защищены.</p>
+      </div>
+      <div class="footer__pages">
+        <a href="/vpn-dlya-pk/">VPN для ПК</a>
+        <a href="/vpn-rasshirenie/">VPN расширение</a>
+        <a href="/vpn-dlya-android/">VPN для Android</a>
+        <a href="/vpn-dlya-iphone/">VPN для iPhone</a>
+        <a href="/vpn-dlya-youtube/">VPN для YouTube</a>
+        <a href="/vpn-dlya-telegram/">VPN для Telegram</a>
+        <a href="/luchshiy-vpn/">Лучший VPN</a>
+        <a href="/vpn-online/">VPN онлайн</a>
+        <a href="/kak-podklyuchit-vpn/">Как подключить VPN</a>
+        <a href="/obhod-blokirovok/">Обход блокировок</a>
+        <a href="/vless-vpn/">VLESS VPN</a>
+        <a href="/vpn-dlya-igr/">VPN для игр</a>
+        <a href="/vpn-ne-rabotaet/">VPN не работает</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '__GA_ID__');
+    var s = document.createElement('script');
+    s.async = true;
+    s.src = 'https://www.googletagmanager.com/gtag/js?id=__GA_ID__';
+    document.head.appendChild(s);
+  </script>
+  <script src="../js/main.js"></script>
+</body>
+</html>

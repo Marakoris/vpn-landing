@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "NoBorder VPN — Обход блокировок YouTube, Instagram, Telegram | Быстрый VPN для России",
-    "description": "NoBorder VPN — быстрый VPN для обхода блокировок YouTube, Instagram, Telegram и ChatGPT в России. Безлимитный трафик, 10+ стран, протоколы VLESS и Shadowsocks. 3 дня бесплатно — попробуйте сейчас!",
-    "keywords": "VPN, впн, обход блокировок, VPN Россия, быстрый VPN, VLESS, Shadowsocks, купить VPN, VPN для YouTube, разблокировать Instagram, VPN Telegram, скачать VPN",
-    "ogTitle": "NoBorder VPN — Обход блокировок YouTube, Instagram, Telegram",
+    "title": "Скачать VPN бесплатно — NoBorder VPN для России | Обход блокировок YouTube, Instagram, Telegram",
+    "description": "Скачать VPN бесплатно — NoBorder VPN для обхода блокировок YouTube, Instagram, Telegram и ChatGPT в России. Безлимитный трафик, 10+ стран, VLESS и Shadowsocks. 3 дня бесплатно!",
+    "keywords": "скачать vpn, впн, vpn, купить vpn, vpn бесплатно, впн скачать бесплатно, впн для пк, впн для андроид, обход блокировок, VPN Россия, быстрый VPN, VLESS, Shadowsocks, VPN для YouTube, VPN Telegram, лучший впн",
+    "ogTitle": "Скачать VPN бесплатно — NoBorder VPN | Обход блокировок",
     "ogDescription": "Быстрый VPN для России. Безлимитный трафик, 10+ локаций, современные протоколы. 3 дня бесплатно — без привязки карты.",
-    "twitterTitle": "NoBorder VPN — Обход блокировок YouTube, Instagram, Telegram",
+    "twitterTitle": "Скачать VPN бесплатно — NoBorder VPN | Обход блокировок",
     "twitterDescription": "Быстрый VPN для России. Безлимитный трафик, 10+ локаций, современные протоколы. 3 дня бесплатно.",
     "ogLocale": "ru_RU"
   },
@@ -16,33 +16,35 @@
     "account": "Кабинет",
     "faq": "FAQ",
     "cta": "Подключить",
-    "menu": "Меню"
+    "menu": "Меню",
+    "home": "Главная",
+    "related": "Смотрите также"
   },
   "hero": {
-    "title": "Быстрый и надёжный<br>VPN без границ",
-    "subtitle": "Обходите блокировки, защищайте данные и\u00a0смотрите контент со\u00a0всего мира. Серверы в\u00a010+ странах, безлимитный трафик, современные протоколы.",
+    "title": "Скачать VPN бесплатно —<br>быстрый и надёжный",
+    "subtitle": "Обходите блокировки YouTube, Instagram и Telegram, защищайте данные и смотрите контент со всего мира. Серверы в 10+ странах, безлимитный трафик, протоколы VLESS и Shadowsocks.",
     "cta": "Попробовать бесплатно",
-    "note": "3 дня бесплатно\u2002•\u2002Без привязки карты"
+    "note": "3 дня бесплатно • Без привязки карты"
   },
   "features": {
     "title": "Почему NoBorder VPN?",
     "card1Title": "Безлимитный трафик",
-    "card1Text": "Никаких ограничений по объёму данных. Стримьте, скачивайте и\u00a0работайте без лимитов.",
+    "card1Text": "Никаких ограничений по объёму данных. Стримьте, скачивайте и работайте без лимитов.",
     "card2Title": "10+ локаций",
-    "card2Text": "Серверы в\u00a0Европе, США и\u00a0Азии. Выбирайте ближайшую точку для максимальной скорости.",
+    "card2Text": "Серверы в Европе, США и Азии. Выбирайте ближайшую точку для максимальной скорости.",
     "card3Title": "До 5 устройств",
-    "card3Text": "Подключайте телефон, ноутбук, планшет и\u00a0другие устройства одновременно по\u00a0одной подписке.",
+    "card3Text": "Подключайте телефон, ноутбук, планшет и другие устройства одновременно по одной подписке.",
     "card4Title": "Современные протоколы",
-    "card4Text": "VLESS Reality и\u00a0Shadowsocks — не\u00a0определяются DPI, работают даже при\u00a0жёстких блокировках."
+    "card4Text": "VLESS Reality и Shadowsocks — не определяются DPI, работают даже при жёстких блокировках."
   },
   "howto": {
     "title": "Как подключиться?",
-    "step1Title": "Откройте бот в\u00a0Telegram",
-    "step1Text": "Нажмите кнопку ниже или найдите <strong>@NoBorderVPN_bot</strong> в\u00a0Telegram.",
+    "step1Title": "Откройте бот в Telegram",
+    "step1Text": "Нажмите кнопку ниже или найдите <strong>@NoBorderVPN_bot</strong> в Telegram.",
     "step2Title": "Активируйте бесплатный триал",
-    "step2Text": "Получите 3\u00a0дня бесплатного доступа — без привязки карты и\u00a0обязательств.",
-    "step3Title": "Добавьте подписку в\u00a0приложение",
-    "step3Text": "Скопируйте ссылку и\u00a0вставьте в\u00a0Hiddify, v2rayNG или другой клиент.",
+    "step2Text": "Получите 3 дня бесплатного доступа — без привязки карты и обязательств.",
+    "step3Title": "Добавьте подписку в приложение",
+    "step3Text": "Скопируйте ссылку и вставьте в Hiddify, v2rayNG или другой клиент.",
     "cta": "Открыть бот в Telegram"
   },
   "pricing": {
@@ -65,7 +67,7 @@
   },
   "referral": {
     "title": "Приглашай друзей — получай 50%",
-    "text": "Делитесь реферальной ссылкой и\u00a0получайте <strong>50% с\u00a0каждой оплаты</strong> приглашённого друга. Выводите заработок прямо в\u00a0боте.",
+    "text": "Делитесь реферальной ссылкой и получайте <strong>50% с каждой оплаты</strong> приглашённого друга. Выводите заработок прямо в боте.",
     "cta": "Получить реферальную ссылку"
   },
   "auth": {
@@ -102,20 +104,24 @@
   "faq": {
     "title": "Частые вопросы",
     "q1": "Как работает VPN?",
-    "a1": "VPN создаёт зашифрованный туннель между вашим устройством и\u00a0сервером. Весь трафик проходит через этот туннель, что позволяет обходить блокировки и\u00a0защищать данные от\u00a0перехвата.",
+    "a1": "VPN создаёт зашифрованный туннель между вашим устройством и сервером. Весь трафик проходит через этот туннель, что позволяет обходить блокировки и защищать данные от перехвата.",
     "q2": "Какие приложения использовать?",
-    "a2": "<strong>Android:</strong> Hiddify, v2rayNG<br><strong>iOS:</strong> Hiddify, Streisand<br><strong>Windows / macOS / Linux:</strong> Hiddify<br>Бот автоматически выдаст ссылку для\u00a0подключения — просто скопируйте её в\u00a0приложение.",
+    "a2": "<strong>Android:</strong> Hiddify, v2rayNG<br><strong>iOS:</strong> Hiddify, Streisand<br><strong>Windows / macOS / Linux:</strong> Hiddify<br>Бот автоматически выдаст ссылку для подключения — просто скопируйте её в приложение.",
     "q3": "Работает ли с Telegram, YouTube, Instagram?",
-    "a3": "Да, NoBorder VPN открывает доступ ко\u00a0всем заблокированным сервисам: Telegram, YouTube, Instagram, Twitter/X, ChatGPT, Spotify и\u00a0любым другим сайтам.",
+    "a3": "Да, NoBorder VPN открывает доступ ко всем заблокированным сервисам: Telegram, YouTube, Instagram, Twitter/X, ChatGPT, Spotify и любым другим сайтам.",
     "q4": "Как оплатить?",
-    "a4": "Принимаем оплату банковскими картами (Visa, MasterCard, МИР), криптовалютой (USDT, TON) и\u00a0Telegram Stars. Всё происходит прямо в\u00a0боте — быстро и\u00a0безопасно.",
+    "a4": "Принимаем оплату банковскими картами (Visa, MasterCard, МИР), криптовалютой (USDT, TON) и Telegram Stars. Всё происходит прямо в боте — быстро и безопасно.",
     "q5": "Безопасны ли мои данные?",
-    "a5": "Мы не\u00a0храним логи вашей активности. Используем современные протоколы шифрования (VLESS Reality, Shadowsocks), которые обеспечивают максимальную защиту трафика. Серверы расположены в\u00a0надёжных дата-центрах за\u00a0пределами РФ."
+    "a5": "Мы не храним логи вашей активности. Используем современные протоколы шифрования (VLESS Reality, Shadowsocks), которые обеспечивают максимальную защиту трафика. Серверы расположены в надёжных дата-центрах за пределами РФ.",
+    "q6": "На каких устройствах работает NoBorder VPN?",
+    "a6": "NoBorder VPN работает на Android, iOS (iPhone, iPad), Windows, macOS и Linux. Вы можете подключить до 5 устройств одновременно по одной подписке.",
+    "q7": "Чем NoBorder VPN отличается от бесплатных VPN?",
+    "a7": "Бесплатные VPN часто продают ваши данные, показывают рекламу и ограничивают скорость. NoBorder VPN использует современные протоколы VLESS и Shadowsocks, не хранит логи, обеспечивает безлимитный трафик и работает даже при жёстких блокировках DPI."
   },
   "footer": {
     "bot": "Telegram-бот",
     "support": "Поддержка",
-    "copy": "\u00a9 2026 NoBorder VPN. Все права защищены."
+    "copy": "© 2026 NoBorder VPN. Все права защищены."
   },
   "jsonld": {
     "appDescription": "Быстрый и надёжный VPN для обхода блокировок YouTube, Instagram, Telegram. Безлимитный трафик, серверы в 10+ странах.",
@@ -139,7 +145,871 @@
       {
         "question": "Безопасны ли мои данные?",
         "answer": "Мы не храним логи вашей активности. Используем современные протоколы шифрования (VLESS Reality, Shadowsocks), которые обеспечивают максимальную защиту трафика. Серверы расположены в надёжных дата-центрах за пределами РФ."
+      },
+      {
+        "question": "На каких устройствах работает NoBorder VPN?",
+        "answer": "NoBorder VPN работает на Android, iOS (iPhone, iPad), Windows, macOS и Linux. Вы можете подключить до 5 устройств одновременно по одной подписке."
+      },
+      {
+        "question": "Чем NoBorder VPN отличается от бесплатных VPN?",
+        "answer": "Бесплатные VPN часто продают ваши данные, показывают рекламу и ограничивают скорость. NoBorder VPN использует современные протоколы VLESS и Shadowsocks, не хранит логи, обеспечивает безлимитный трафик и работает даже при жёстких блокировках DPI."
       }
     ]
+  },
+  "pages": {
+    "vpnPk": {
+      "breadcrumb": "VPN для ПК",
+      "meta": {
+        "title": "Скачать VPN на ПК бесплатно — NoBorder VPN для Windows, macOS, Linux",
+        "description": "Скачать VPN на ПК бесплатно. NoBorder VPN для Windows, macOS и Linux — обход блокировок, безлимитный трафик, VLESS и Shadowsocks. 3 дня бесплатно!",
+        "keywords": "впн на пк, vpn для компьютера, vpn для windows, скачать впн на компьютер, vpn для пк бесплатно",
+        "ogTitle": "Скачать VPN на ПК — NoBorder VPN",
+        "ogDescription": "VPN для Windows, macOS и Linux. Безлимитный трафик, 3 дня бесплатно.",
+        "twitterTitle": "Скачать VPN на ПК — NoBorder VPN",
+        "twitterDescription": "VPN для Windows, macOS и Linux. Безлимитный трафик, 3 дня бесплатно.",
+        "ogLocale": "ru_RU"
+      },
+      "heroTitle": "Скачать VPN на ПК бесплатно",
+      "heroSubtitle": "Защитите свой компьютер и обходите блокировки на Windows, macOS и Linux. Современные протоколы VLESS и Shadowsocks.",
+      "featuresTitle": "VPN для компьютера — преимущества",
+      "feat1Title": "Windows, macOS, Linux",
+      "feat1Text": "Поддержка всех популярных ОС. Скачайте Hiddify и подключитесь за 2 минуты.",
+      "feat2Title": "Быстрое подключение",
+      "feat2Text": "Просто скопируйте ссылку подписки из бота и вставьте в приложение — готово.",
+      "feat3Title": "Безлимитный трафик",
+      "feat3Text": "Стримьте видео, скачивайте файлы и работайте без ограничений.",
+      "howtoTitle": "Как установить VPN на ПК",
+      "step1Title": "Скачайте Hiddify",
+      "step1Text": "Установите бесплатное приложение Hiddify для вашей ОС.",
+      "step2Title": "Получите подписку",
+      "step2Text": "Откройте <strong>@NoBorderVPN_bot</strong> в Telegram и активируйте триал.",
+      "step3Title": "Вставьте ссылку",
+      "step3Text": "Скопируйте ссылку подписки в Hiddify — VPN заработает мгновенно.",
+      "pricingTitle": "Тарифы от 83 ₽/мес",
+      "pricingText": "4 тарифных плана от 1 до 12 месяцев. Оплата картой, криптой или Telegram Stars. 3 дня бесплатно.",
+      "faq": {
+        "q1": "Как установить VPN на Windows?",
+        "a1": "Скачайте Hiddify, откройте @NoBorderVPN_bot в Telegram, получите ссылку и вставьте в приложение.",
+        "q2": "Какое приложение скачать для ПК?",
+        "a2": "Рекомендуем Hiddify — бесплатный клиент для Windows, macOS и Linux.",
+        "q3": "Работает ли VPN на macOS и Linux?",
+        "a3": "Да, NoBorder VPN работает на macOS и Linux через Hiddify.",
+        "q4": "VPN замедляет скорость на ПК?",
+        "a4": "Минимально. VLESS и Shadowsocks обеспечивают высокую скорость."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "Как установить VPN на Windows?",
+            "answer": "Скачайте Hiddify, откройте @NoBorderVPN_bot в Telegram, получите ссылку и вставьте в приложение."
+          },
+          {
+            "question": "Какое приложение скачать для ПК?",
+            "answer": "Рекомендуем Hiddify — бесплатный клиент для Windows, macOS и Linux."
+          },
+          {
+            "question": "Работает ли VPN на macOS и Linux?",
+            "answer": "Да, NoBorder VPN работает на macOS и Linux через Hiddify."
+          },
+          {
+            "question": "VPN замедляет скорость на ПК?",
+            "answer": "Минимально. VLESS и Shadowsocks обеспечивают высокую скорость."
+          }
+        ]
+      }
+    },
+    "vpnRasshirenie": {
+      "breadcrumb": "VPN расширение",
+      "meta": {
+        "title": "VPN расширение для браузера — Chrome, Firefox, Яндекс | NoBorder VPN",
+        "description": "VPN расширение для браузера — быстрый доступ к заблокированным сайтам. Chrome, Firefox, Яндекс Браузер.",
+        "keywords": "впн расширение, vpn для яндекс браузера, vpn расширение для chrome",
+        "ogTitle": "VPN расширение для браузера — NoBorder VPN",
+        "ogDescription": "Быстрый доступ к заблокированным сайтам из браузера.",
+        "twitterTitle": "VPN расширение для браузера — NoBorder VPN",
+        "twitterDescription": "Быстрый доступ к заблокированным сайтам из браузера.",
+        "ogLocale": "ru_RU"
+      },
+      "heroTitle": "VPN расширение для браузера",
+      "heroSubtitle": "Быстрый доступ к заблокированным сайтам прямо из браузера.",
+      "featuresTitle": "VPN для браузера — возможности",
+      "feat1Title": "Любой браузер",
+      "feat1Text": "Chrome, Firefox, Яндекс Браузер — VPN работает со всеми.",
+      "feat2Title": "Мгновенное включение",
+      "feat2Text": "Включите VPN в один клик.",
+      "feat3Title": "Полная защита",
+      "feat3Text": "Приложение шифрует весь трафик, а не только HTTP.",
+      "howtoTitle": "Как подключить VPN в браузере",
+      "step1Title": "Установите Hiddify",
+      "step1Text": "Скачайте приложение — оно проксирует трафик для всех браузеров.",
+      "step2Title": "Получите подписку",
+      "step2Text": "Откройте <strong>@NoBorderVPN_bot</strong> в Telegram.",
+      "step3Title": "Включите VPN",
+      "step3Text": "Вставьте ссылку подписки — браузер начнёт работать через VPN.",
+      "pricingTitle": "Тарифы от 83 ₽/мес",
+      "pricingText": "4 тарифных плана от 1 до 12 месяцев. 3 дня бесплатно.",
+      "faq": {
+        "q1": "Как установить VPN в Chrome?",
+        "a1": "NoBorder VPN работает через Hiddify, который проксирует трафик для всех браузеров.",
+        "q2": "Есть ли VPN для Яндекс Браузера?",
+        "a2": "Да, Hiddify работает с Яндекс Браузером.",
+        "q3": "Чем приложение лучше расширения?",
+        "a3": "Приложение шифрует весь трафик устройства, а не только браузерный.",
+        "q4": "Безопасно ли VPN расширение?",
+        "a4": "NoBorder VPN не хранит логов и использует современное шифрование."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "Как установить VPN в Chrome?",
+            "answer": "NoBorder VPN работает через Hiddify, который проксирует трафик для всех браузеров."
+          },
+          {
+            "question": "Есть ли VPN для Яндекс Браузера?",
+            "answer": "Да, Hiddify работает с Яндекс Браузером."
+          },
+          {
+            "question": "Чем приложение лучше расширения?",
+            "answer": "Приложение шифрует весь трафик устройства, а не только браузерный."
+          },
+          {
+            "question": "Безопасно ли VPN расширение?",
+            "answer": "NoBorder VPN не хранит логов и использует современное шифрование."
+          }
+        ]
+      }
+    },
+    "vpnAndroid": {
+      "breadcrumb": "VPN для Android",
+      "meta": {
+        "title": "Скачать VPN на Android бесплатно — NoBorder VPN",
+        "description": "Скачать VPN на Android. Обходите блокировки YouTube, Instagram, Telegram на смартфоне. 3 дня бесплатно!",
+        "keywords": "скачать впн на андроид, vpn для андроид, впн на телефон",
+        "ogTitle": "Скачать VPN на Android — NoBorder VPN",
+        "ogDescription": "VPN для Android — обход блокировок. 3 дня бесплатно.",
+        "twitterTitle": "Скачать VPN на Android — NoBorder VPN",
+        "twitterDescription": "VPN для Android — обход блокировок. 3 дня бесплатно.",
+        "ogLocale": "ru_RU"
+      },
+      "heroTitle": "Скачать VPN на Android",
+      "heroSubtitle": "Защитите свой Android-смартфон и обходите блокировки YouTube, Instagram и Telegram.",
+      "featuresTitle": "VPN для Android — преимущества",
+      "feat1Title": "Android 5.0+",
+      "feat1Text": "Работает на любом Android. Hiddify и v2rayNG.",
+      "feat2Title": "Настройка за 2 минуты",
+      "feat2Text": "Скачайте приложение, вставьте ссылку — готово.",
+      "feat3Title": "Экономия батареи",
+      "feat3Text": "Протоколы оптимизированы для мобильных устройств.",
+      "howtoTitle": "Как установить VPN на Android",
+      "step1Title": "Скачайте приложение",
+      "step1Text": "Установите Hiddify или v2rayNG из Google Play.",
+      "step2Title": "Получите подписку",
+      "step2Text": "Откройте <strong>@NoBorderVPN_bot</strong> в Telegram.",
+      "step3Title": "Подключитесь",
+      "step3Text": "Скопируйте ссылку — приложение настроится автоматически.",
+      "pricingTitle": "Тарифы от 83 ₽/мес",
+      "pricingText": "4 тарифных плана. 3 дня бесплатно.",
+      "faq": {
+        "q1": "Как установить VPN на Android?",
+        "a1": "Скачайте Hiddify из Google Play, получите ссылку из бота, вставьте в приложение.",
+        "q2": "Какое приложение лучше?",
+        "a2": "Рекомендуем Hiddify — простой интерфейс, автонастройка.",
+        "q3": "Можно ли на планшете?",
+        "a3": "Да, одна подписка — до 5 устройств.",
+        "q4": "VPN влияет на батарею?",
+        "a4": "Минимально. VLESS оптимизирован для мобильных."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "Как установить VPN на Android?",
+            "answer": "Скачайте Hiddify из Google Play, получите ссылку из бота, вставьте в приложение."
+          },
+          {
+            "question": "Какое приложение лучше?",
+            "answer": "Рекомендуем Hiddify — простой интерфейс, автонастройка."
+          },
+          {
+            "question": "Можно ли на планшете?",
+            "answer": "Да, одна подписка — до 5 устройств."
+          },
+          {
+            "question": "VPN влияет на батарею?",
+            "answer": "Минимально. VLESS оптимизирован для мобильных."
+          }
+        ]
+      }
+    },
+    "vpnYoutube": {
+      "breadcrumb": "VPN для YouTube",
+      "meta": {
+        "title": "VPN для YouTube — смотрите без ограничений | NoBorder VPN",
+        "description": "VPN для YouTube — разблокируйте YouTube в России. Быстрые серверы, без буферизации. 3 дня бесплатно!",
+        "keywords": "впн для ютуба, vpn для youtube, разблокировать ютуб",
+        "ogTitle": "VPN для YouTube — NoBorder VPN",
+        "ogDescription": "Разблокируйте YouTube. Быстрые серверы, 3 дня бесплатно.",
+        "twitterTitle": "VPN для YouTube — NoBorder VPN",
+        "twitterDescription": "Разблокируйте YouTube. Быстрые серверы, 3 дня бесплатно.",
+        "ogLocale": "ru_RU"
+      },
+      "heroTitle": "VPN для YouTube —<br>смотрите без ограничений",
+      "heroSubtitle": "Разблокируйте YouTube и смотрите любые видео без буферизации.",
+      "featuresTitle": "VPN для YouTube — что вы получите",
+      "feat1Title": "YouTube без блокировок",
+      "feat1Text": "Полный доступ: видео, Shorts, трансляции.",
+      "feat2Title": "Без буферизации",
+      "feat2Text": "Быстрые серверы для стриминга в 4K.",
+      "feat3Title": "YouTube Music",
+      "feat3Text": "Слушайте музыку без ограничений.",
+      "howtoTitle": "Как разблокировать YouTube",
+      "step1Title": "Установите VPN",
+      "step1Text": "Скачайте Hiddify на любое устройство.",
+      "step2Title": "Подключитесь",
+      "step2Text": "Откройте <strong>@NoBorderVPN_bot</strong>, выберите сервер в Европе.",
+      "step3Title": "Откройте YouTube",
+      "step3Text": "YouTube заработает мгновенно.",
+      "pricingTitle": "Тарифы от 83 ₽/мес",
+      "pricingText": "4 тарифных плана. 3 дня бесплатно.",
+      "faq": {
+        "q1": "Зачем нужен VPN для YouTube?",
+        "a1": "YouTube может быть заблокирован или замедлен. VPN обходит эти ограничения.",
+        "q2": "Будет ли тормозить?",
+        "a2": "Нет, серверы оптимизированы для стриминга.",
+        "q3": "Какой сервер выбрать?",
+        "a3": "Рекомендуем Германию или Нидерланды.",
+        "q4": "Работает YouTube Premium?",
+        "a4": "Да, все функции Premium работают через VPN."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "Зачем нужен VPN для YouTube?",
+            "answer": "YouTube может быть заблокирован или замедлен. VPN обходит эти ограничения."
+          },
+          {
+            "question": "Будет ли тормозить?",
+            "answer": "Нет, серверы оптимизированы для стриминга."
+          },
+          {
+            "question": "Какой сервер выбрать?",
+            "answer": "Рекомендуем Германию или Нидерланды."
+          },
+          {
+            "question": "Работает YouTube Premium?",
+            "answer": "Да, все функции Premium работают через VPN."
+          }
+        ]
+      }
+    },
+    "luchshiyVpn": {
+      "breadcrumb": "Лучший VPN",
+      "meta": {
+        "title": "Лучший VPN 2026 — рейтинг и сравнение | NoBorder VPN",
+        "description": "Лучший VPN для России 2026 — рейтинг, сравнение протоколов и цен. VLESS, Shadowsocks, от 83 ₽/мес.",
+        "keywords": "лучший впн, топ впн, какой впн лучше, лучший vpn 2026",
+        "ogTitle": "Лучший VPN 2026 — NoBorder VPN",
+        "ogDescription": "Рейтинг VPN для России. От 83 ₽/мес.",
+        "twitterTitle": "Лучший VPN 2026 — NoBorder VPN",
+        "twitterDescription": "Рейтинг VPN для России. От 83 ₽/мес.",
+        "ogLocale": "ru_RU"
+      },
+      "heroTitle": "Лучший VPN 2026 —<br>рейтинг и сравнение",
+      "heroSubtitle": "Почему NoBorder VPN — лучший выбор для России. VLESS и Shadowsocks, от 83 ₽/мес.",
+      "featuresTitle": "Почему NoBorder VPN — лучший",
+      "feat1Title": "Не определяется DPI",
+      "feat1Text": "VLESS Reality маскирует VPN-трафик.",
+      "feat2Title": "От 83 ₽/мес",
+      "feat2Text": "Одна из самых низких цен на рынке.",
+      "feat3Title": "Рейтинг 4.8/5",
+      "feat3Text": "Более 1200 пользователей оценили NoBorder VPN.",
+      "howtoTitle": "Как начать",
+      "step1Title": "Откройте бот",
+      "step1Text": "Найдите <strong>@NoBorderVPN_bot</strong> в Telegram.",
+      "step2Title": "3 дня бесплатно",
+      "step2Text": "Активируйте триал без привязки карты.",
+      "step3Title": "Оцените качество",
+      "step3Text": "Протестируйте скорость и обход блокировок.",
+      "pricingTitle": "Тарифы от 83 ₽/мес",
+      "pricingText": "4 тарифных плана. 3 дня бесплатно.",
+      "faq": {
+        "q1": "Какой VPN лучше для России?",
+        "a1": "NoBorder VPN — VLESS Reality не определяется DPI.",
+        "q2": "Чем лучше бесплатных?",
+        "a2": "Без логов, без рекламы, безлимитный трафик.",
+        "q3": "Какой протокол быстрее?",
+        "a3": "VLESS — минимальный оверхед, высокая скорость.",
+        "q4": "Есть бесплатный период?",
+        "a4": "Да, 3 дня без привязки карты."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "Какой VPN лучше для России?",
+            "answer": "NoBorder VPN — VLESS Reality не определяется DPI."
+          },
+          {
+            "question": "Чем лучше бесплатных?",
+            "answer": "Без логов, без рекламы, безлимитный трафик."
+          },
+          {
+            "question": "Какой протокол быстрее?",
+            "answer": "VLESS — минимальный оверхед, высокая скорость."
+          },
+          {
+            "question": "Есть бесплатный период?",
+            "answer": "Да, 3 дня без привязки карты."
+          }
+        ]
+      }
+    },
+    "vpnTelegram": {
+      "breadcrumb": "VPN для Telegram",
+      "meta": {
+        "title": "VPN для Telegram — быстрый доступ | NoBorder VPN",
+        "description": "VPN для Telegram — мгновенный доступ к мессенджеру. Быстрые сообщения и звонки. 3 дня бесплатно!",
+        "keywords": "впн для телеграмма, впн тг, vpn для telegram",
+        "ogTitle": "VPN для Telegram — NoBorder VPN",
+        "ogDescription": "Мгновенный доступ к Telegram. 3 дня бесплатно.",
+        "twitterTitle": "VPN для Telegram — NoBorder VPN",
+        "twitterDescription": "Мгновенный доступ к Telegram. 3 дня бесплатно.",
+        "ogLocale": "ru_RU"
+      },
+      "heroTitle": "VPN для Telegram —<br>быстрый доступ",
+      "heroSubtitle": "Telegram заблокирован? Подключите NoBorder VPN и общайтесь без ограничений.",
+      "featuresTitle": "VPN для Telegram — возможности",
+      "feat1Title": "Мгновенные сообщения",
+      "feat1Text": "Отправляйте текст, фото и видео без задержек.",
+      "feat2Title": "Голос и видео",
+      "feat2Text": "Звонки работают стабильно.",
+      "feat3Title": "Файлы любого размера",
+      "feat3Text": "Скачивайте и отправляйте на максимальной скорости.",
+      "howtoTitle": "Как подключить",
+      "step1Title": "Установите VPN",
+      "step1Text": "Скачайте Hiddify на телефон или ПК.",
+      "step2Title": "Получите подписку",
+      "step2Text": "Откройте <strong>@NoBorderVPN_bot</strong> и активируйте триал.",
+      "step3Title": "Пользуйтесь Telegram",
+      "step3Text": "Включите VPN — Telegram заработает мгновенно.",
+      "pricingTitle": "Тарифы от 83 ₽/мес",
+      "pricingText": "4 тарифных плана. 3 дня бесплатно.",
+      "faq": {
+        "q1": "Зачем VPN для Telegram?",
+        "a1": "Telegram может быть заблокирован провайдером. VPN обходит ограничения.",
+        "q2": "Все функции работают?",
+        "a2": "Да: сообщения, каналы, группы, звонки, файлы.",
+        "q3": "Будут задержки?",
+        "a3": "Нет, VLESS обеспечивает минимальную задержку.",
+        "q4": "Как подключить если Telegram заблокирован?",
+        "a4": "Установите Hiddify заранее. Ссылку можно получить через веб-интерфейс."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "Зачем VPN для Telegram?",
+            "answer": "Telegram может быть заблокирован провайдером. VPN обходит ограничения."
+          },
+          {
+            "question": "Все функции работают?",
+            "answer": "Да: сообщения, каналы, группы, звонки, файлы."
+          },
+          {
+            "question": "Будут задержки?",
+            "answer": "Нет, VLESS обеспечивает минимальную задержку."
+          },
+          {
+            "question": "Как подключить если Telegram заблокирован?",
+            "answer": "Установите Hiddify заранее. Ссылку можно получить через веб-интерфейс."
+          }
+        ]
+      }
+    },
+    "vpnNeRabotaet": {
+      "breadcrumb": "VPN не работает",
+      "meta": {
+        "title": "Почему не работает VPN — решение проблем | NoBorder VPN",
+        "description": "VPN не работает? Разберём причины: DPI, устаревшие протоколы. VLESS обходит любые блокировки.",
+        "keywords": "почему не работает впн, впн не работает, vpn не подключается",
+        "ogTitle": "VPN не работает — решение | NoBorder VPN",
+        "ogDescription": "VPN не работает? VLESS обходит любые блокировки.",
+        "twitterTitle": "VPN не работает — решение | NoBorder VPN",
+        "twitterDescription": "VPN не работает? VLESS обходит любые блокировки.",
+        "ogLocale": "ru_RU"
+      },
+      "heroTitle": "Почему не работает VPN —<br>решение проблем",
+      "heroSubtitle": "VPN перестал работать? Разберём причины и предложим решение.",
+      "featuresTitle": "Почему VPN блокируют",
+      "feat1Title": "Диагностика",
+      "feat1Text": "Определим причину: DPI, устаревший протокол, ошибка настройки.",
+      "feat2Title": "Обход DPI",
+      "feat2Text": "VLESS Reality маскирует трафик под обычный HTTPS.",
+      "feat3Title": "Поддержка 24/7",
+      "feat3Text": "Напишите в поддержку — поможем подключиться.",
+      "howtoTitle": "Как решить проблемы",
+      "step1Title": "Проверьте протокол",
+      "step1Text": "OpenVPN и WireGuard блокируются DPI. Переходите на VLESS.",
+      "step2Title": "Обновите конфигурацию",
+      "step2Text": "Откройте <strong>@NoBorderVPN_bot</strong> — получите свежую ссылку.",
+      "step3Title": "Обратитесь в поддержку",
+      "step3Text": "Напишите @VPN_YouSupport_bot.",
+      "pricingTitle": "Тарифы от 83 ₽/мес",
+      "pricingText": "Переходите на NoBorder VPN — работает всегда.",
+      "faq": {
+        "q1": "Почему VPN перестал работать?",
+        "a1": "Обычно причина — блокировка DPI. Переходите на VLESS.",
+        "q2": "Как обойти блокировку провайдером?",
+        "a2": "VLESS Reality маскирует трафик под обычный HTTPS.",
+        "q3": "Что делать если VPN медленный?",
+        "a3": "Смените сервер или переключитесь на VLESS.",
+        "q4": "Как связаться с поддержкой?",
+        "a4": "Напишите @VPN_YouSupport_bot в Telegram."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "Почему VPN перестал работать?",
+            "answer": "Обычно причина — блокировка DPI. Переходите на VLESS."
+          },
+          {
+            "question": "Как обойти блокировку провайдером?",
+            "answer": "VLESS Reality маскирует трафик под обычный HTTPS."
+          },
+          {
+            "question": "Что делать если VPN медленный?",
+            "answer": "Смените сервер или переключитесь на VLESS."
+          },
+          {
+            "question": "Как связаться с поддержкой?",
+            "answer": "Напишите @VPN_YouSupport_bot в Telegram."
+          }
+        ]
+      }
+    },
+    "vpnIphone": {
+      "breadcrumb": "VPN для iPhone",
+      "meta": {
+        "title": "VPN для iPhone — скачать на iOS бесплатно | NoBorder VPN",
+        "description": "VPN для iPhone и iPad — обход блокировок на iOS. Hiddify и Streisand. 3 дня бесплатно!",
+        "keywords": "впн на айфон, vpn для айфона, vpn для iphone, vpn ios",
+        "ogTitle": "VPN для iPhone — NoBorder VPN",
+        "ogDescription": "VPN для iPhone и iPad. 3 дня бесплатно.",
+        "twitterTitle": "VPN для iPhone — NoBorder VPN",
+        "twitterDescription": "VPN для iPhone и iPad. 3 дня бесплатно.",
+        "ogLocale": "ru_RU"
+      },
+      "heroTitle": "VPN для iPhone —<br>скачать на iOS",
+      "heroSubtitle": "Защитите свой iPhone и iPad. Обходите блокировки одним нажатием.",
+      "featuresTitle": "VPN для iOS — преимущества",
+      "feat1Title": "iPhone и iPad",
+      "feat1Text": "iOS 15+. Hiddify и Streisand из App Store.",
+      "feat2Title": "Настройка за 1 минуту",
+      "feat2Text": "Скачайте, вставьте ссылку — готово.",
+      "feat3Title": "Бережёт батарею",
+      "feat3Text": "Протоколы оптимизированы для iOS.",
+      "howtoTitle": "Как установить VPN на iPhone",
+      "step1Title": "Скачайте из App Store",
+      "step1Text": "Установите Hiddify или Streisand.",
+      "step2Title": "Получите подписку",
+      "step2Text": "Откройте <strong>@NoBorderVPN_bot</strong> в Telegram.",
+      "step3Title": "Подключитесь",
+      "step3Text": "Скопируйте ссылку — приложение настроится автоматически.",
+      "pricingTitle": "Тарифы от 83 ₽/мес",
+      "pricingText": "4 тарифных плана. 3 дня бесплатно.",
+      "faq": {
+        "q1": "Как установить VPN на iPhone?",
+        "a1": "Скачайте Hiddify из App Store, получите ссылку из бота.",
+        "q2": "Какое приложение для iOS?",
+        "a2": "Hiddify или Streisand — оба бесплатные.",
+        "q3": "VPN замедляет iPhone?",
+        "a3": "Нет, VLESS оптимизирован для iOS.",
+        "q4": "Работает на iPad?",
+        "a4": "Да, одна подписка — до 5 устройств."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "Как установить VPN на iPhone?",
+            "answer": "Скачайте Hiddify из App Store, получите ссылку из бота."
+          },
+          {
+            "question": "Какое приложение для iOS?",
+            "answer": "Hiddify или Streisand — оба бесплатные."
+          },
+          {
+            "question": "VPN замедляет iPhone?",
+            "answer": "Нет, VLESS оптимизирован для iOS."
+          },
+          {
+            "question": "Работает на iPad?",
+            "answer": "Да, одна подписка — до 5 устройств."
+          }
+        ]
+      }
+    },
+    "vpnOnline": {
+      "breadcrumb": "VPN онлайн",
+      "meta": {
+        "title": "VPN онлайн — без установки | NoBorder VPN",
+        "description": "VPN онлайн — быстрый доступ к заблокированным сайтам. Минимум настроек. 3 дня бесплатно!",
+        "keywords": "впн онлайн, впн онлайн бесплатно, vpn без установки",
+        "ogTitle": "VPN онлайн — NoBorder VPN",
+        "ogDescription": "Быстрый VPN, минимум настроек. 3 дня бесплатно.",
+        "twitterTitle": "VPN онлайн — NoBorder VPN",
+        "twitterDescription": "Быстрый VPN, минимум настроек. 3 дня бесплатно.",
+        "ogLocale": "ru_RU"
+      },
+      "heroTitle": "VPN онлайн —<br>без установки",
+      "heroSubtitle": "Ищете VPN без скачивания? Минимальное приложение Hiddify — установка за 1 минуту.",
+      "featuresTitle": "Быстрый VPN — минимум настроек",
+      "feat1Title": "Быстрый старт",
+      "feat1Text": "Установка за 1 минуту, подключение в 1 клик.",
+      "feat2Title": "Все сайты доступны",
+      "feat2Text": "YouTube, Instagram, Telegram, ChatGPT.",
+      "feat3Title": "Полная защита",
+      "feat3Text": "Шифрует весь трафик, не хранит логов.",
+      "howtoTitle": "Как подключиться быстро",
+      "step1Title": "Откройте бот",
+      "step1Text": "Найдите <strong>@NoBorderVPN_bot</strong> в Telegram.",
+      "step2Title": "Получите ссылку",
+      "step2Text": "Бот выдаст ссылку подписки.",
+      "step3Title": "Подключитесь",
+      "step3Text": "Вставьте ссылку в Hiddify — готово.",
+      "pricingTitle": "Тарифы от 83 ₽/мес",
+      "pricingText": "4 тарифных плана. 3 дня бесплатно.",
+      "faq": {
+        "q1": "Можно ли без установки?",
+        "a1": "Полноценный VPN требует клиент. Hiddify — очень лёгкий, установка за 1 минуту.",
+        "q2": "Безопасен ли онлайн VPN?",
+        "a2": "Веб-прокси не шифруют весь трафик. NoBorder VPN — полное шифрование.",
+        "q3": "Нужна ли регистрация?",
+        "a3": "Достаточно открыть бот в Telegram.",
+        "q4": "Какие сайты разблокировать?",
+        "a4": "Любые: YouTube, Instagram, Telegram, ChatGPT и все остальные."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "Можно ли без установки?",
+            "answer": "Полноценный VPN требует клиент. Hiddify — очень лёгкий, установка за 1 минуту."
+          },
+          {
+            "question": "Безопасен ли онлайн VPN?",
+            "answer": "Веб-прокси не шифруют весь трафик. NoBorder VPN — полное шифрование."
+          },
+          {
+            "question": "Нужна ли регистрация?",
+            "answer": "Достаточно открыть бот в Telegram."
+          },
+          {
+            "question": "Какие сайты разблокировать?",
+            "answer": "Любые: YouTube, Instagram, Telegram, ChatGPT и все остальные."
+          }
+        ]
+      }
+    },
+    "chtoTakoeVpn": {
+      "breadcrumb": "Что такое VPN",
+      "meta": {
+        "title": "Что такое VPN и как он работает — простое объяснение | NoBorder VPN",
+        "description": "Что такое VPN простыми словами. Как работает, зачем нужен, законно ли в России. Попробуйте бесплатно!",
+        "keywords": "впн что это, как работает впн, что такое vpn, зачем нужен впн",
+        "ogTitle": "Что такое VPN — NoBorder VPN",
+        "ogDescription": "Простое объяснение VPN. Попробуйте бесплатно.",
+        "twitterTitle": "Что такое VPN — NoBorder VPN",
+        "twitterDescription": "Простое объяснение VPN. Попробуйте бесплатно.",
+        "ogLocale": "ru_RU"
+      },
+      "heroTitle": "Что такое VPN и как он работает",
+      "heroSubtitle": "Простое объяснение технологии VPN. Шифрование, обход блокировок, защита данных.",
+      "featuresTitle": "Как VPN защищает вас",
+      "feat1Title": "Шифрование данных",
+      "feat1Text": "Зашифрованный туннель. Никто не может прочитать ваш трафик.",
+      "feat2Title": "Обход блокировок",
+      "feat2Text": "Трафик через сервер в другой стране.",
+      "feat3Title": "Анонимность",
+      "feat3Text": "Сайты видят IP VPN-сервера, а не ваш.",
+      "howtoTitle": "Как начать использовать VPN",
+      "step1Title": "Скачайте приложение",
+      "step1Text": "Установите Hiddify — он бесплатный.",
+      "step2Title": "Получите подписку",
+      "step2Text": "Откройте <strong>@NoBorderVPN_bot</strong> — 3 дня бесплатно.",
+      "step3Title": "Включите VPN",
+      "step3Text": "Нажмите «Подключиться» — готово.",
+      "pricingTitle": "Тарифы от 83 ₽/мес",
+      "pricingText": "Попробуйте VPN бесплатно — 3 дня без привязки карты.",
+      "faq": {
+        "q1": "Что такое VPN простыми словами?",
+        "a1": "Защищённый туннель между устройством и сервером в другой стране.",
+        "q2": "Зачем VPN в России?",
+        "a2": "Доступ к YouTube, Instagram, ChatGPT. Защита в публичных Wi-Fi.",
+        "q3": "VPN — это законно?",
+        "a3": "Использование VPN в России для личных целей законно.",
+        "q4": "Как VPN защищает данные?",
+        "a4": "Шифрует весь трафик. Даже при перехвате виден только зашифрованный поток."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "Что такое VPN простыми словами?",
+            "answer": "Защищённый туннель между устройством и сервером в другой стране."
+          },
+          {
+            "question": "Зачем VPN в России?",
+            "answer": "Доступ к YouTube, Instagram, ChatGPT. Защита в публичных Wi-Fi."
+          },
+          {
+            "question": "VPN — это законно?",
+            "answer": "Использование VPN в России для личных целей законно."
+          },
+          {
+            "question": "Как VPN защищает данные?",
+            "answer": "Шифрует весь трафик. Даже при перехвате виден только зашифрованный поток."
+          }
+        ]
+      }
+    },
+    "kakPodklyuchitVpn": {
+      "breadcrumb": "Как подключить VPN",
+      "meta": {
+        "title": "Как подключить VPN — пошаговая инструкция 2026 | NoBorder VPN",
+        "description": "Как подключить VPN на телефоне и компьютере. Android, iPhone, Windows, macOS. Настройка за 2 минуты.",
+        "keywords": "как подключить впн, как настроить vpn, как установить впн",
+        "ogTitle": "Как подключить VPN — NoBorder VPN",
+        "ogDescription": "Пошаговая инструкция. Любое устройство, 2 минуты.",
+        "twitterTitle": "Как подключить VPN — NoBorder VPN",
+        "twitterDescription": "Пошаговая инструкция. Любое устройство, 2 минуты.",
+        "ogLocale": "ru_RU"
+      },
+      "heroTitle": "Как подключить VPN —<br>пошаговая инструкция",
+      "heroSubtitle": "Android, iPhone, Windows, macOS — настройка за 2 минуты.",
+      "featuresTitle": "Подключение VPN — это просто",
+      "feat1Title": "2 минуты",
+      "feat1Text": "Скачайте приложение, вставьте ссылку — готово.",
+      "feat2Title": "Любое устройство",
+      "feat2Text": "Android, iPhone, Windows, macOS, Linux.",
+      "feat3Title": "Помощь при настройке",
+      "feat3Text": "Поддержка поможет за 5 минут.",
+      "howtoTitle": "Пошаговая инструкция",
+      "step1Title": "Скачайте клиент",
+      "step1Text": "Android: Hiddify / v2rayNG. iOS: Hiddify / Streisand. ПК: Hiddify.",
+      "step2Title": "Получите конфигурацию",
+      "step2Text": "Откройте <strong>@NoBorderVPN_bot</strong>, скопируйте ссылку.",
+      "step3Title": "Подключитесь",
+      "step3Text": "Вставьте ссылку в приложение — VPN подключится автоматически.",
+      "pricingTitle": "Тарифы от 83 ₽/мес",
+      "pricingText": "3 дня бесплатно — попробуйте прямо сейчас.",
+      "faq": {
+        "q1": "Как подключить на телефоне?",
+        "a1": "Скачайте Hiddify, откройте бот, скопируйте ссылку.",
+        "q2": "Как настроить на компьютере?",
+        "a2": "Скачайте Hiddify для ПК, вставьте ссылку из бота.",
+        "q3": "Какое приложение скачать?",
+        "a3": "Hiddify — универсальное, бесплатное, для всех платформ.",
+        "q4": "Нужны технические знания?",
+        "a4": "Нет, настройка максимально простая."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "Как подключить на телефоне?",
+            "answer": "Скачайте Hiddify, откройте бот, скопируйте ссылку."
+          },
+          {
+            "question": "Как настроить на компьютере?",
+            "answer": "Скачайте Hiddify для ПК, вставьте ссылку из бота."
+          },
+          {
+            "question": "Какое приложение скачать?",
+            "answer": "Hiddify — универсальное, бесплатное, для всех платформ."
+          },
+          {
+            "question": "Нужны технические знания?",
+            "answer": "Нет, настройка максимально простая."
+          }
+        ]
+      }
+    },
+    "obhodBlokirovok": {
+      "breadcrumb": "Обход блокировок",
+      "meta": {
+        "title": "Обход блокировок сайтов в России 2026 | NoBorder VPN",
+        "description": "Обход блокировок YouTube, Instagram, Telegram. VLESS и Shadowsocks не определяются DPI. 3 дня бесплатно!",
+        "keywords": "обход блокировок, блокировка впн, обход блокировки сайтов",
+        "ogTitle": "Обход блокировок — NoBorder VPN",
+        "ogDescription": "YouTube, Instagram, Telegram — обходите блокировки. 3 дня бесплатно.",
+        "twitterTitle": "Обход блокировок — NoBorder VPN",
+        "twitterDescription": "YouTube, Instagram, Telegram — обходите блокировки. 3 дня бесплатно.",
+        "ogLocale": "ru_RU"
+      },
+      "heroTitle": "Обход блокировок сайтов<br>в России",
+      "heroSubtitle": "YouTube, Instagram, Telegram, ChatGPT — VLESS и Shadowsocks обходят DPI.",
+      "featuresTitle": "Как обойти блокировки",
+      "feat1Title": "Все сайты доступны",
+      "feat1Text": "YouTube, Instagram, Telegram, ChatGPT, Spotify, TikTok.",
+      "feat2Title": "Обход DPI",
+      "feat2Text": "VLESS Reality маскирует трафик.",
+      "feat3Title": "Автообновление",
+      "feat3Text": "Серверы обновляются автоматически.",
+      "howtoTitle": "Как обойти блокировки",
+      "step1Title": "Установите VPN",
+      "step1Text": "Скачайте Hiddify на ваше устройство.",
+      "step2Title": "Подключитесь",
+      "step2Text": "Откройте <strong>@NoBorderVPN_bot</strong>, получите подписку.",
+      "step3Title": "Пользуйтесь",
+      "step3Text": "Все заблокированные сайты теперь доступны.",
+      "pricingTitle": "Тарифы от 83 ₽/мес",
+      "pricingText": "4 тарифных плана. 3 дня бесплатно.",
+      "faq": {
+        "q1": "Какие сайты заблокированы?",
+        "a1": "YouTube (замедлён), Instagram, Twitter/X, LinkedIn, ChatGPT (частично).",
+        "q2": "Как обойти блокировку YouTube?",
+        "a2": "Подключитесь к NoBorder VPN с VLESS — YouTube заработает.",
+        "q3": "Могут заблокировать VPN?",
+        "a3": "VLESS Reality не определяется DPI и не блокируется.",
+        "q4": "VPN обходит все блокировки?",
+        "a4": "Да, трафик через серверы за рубежом, минуя любые ограничения."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "Какие сайты заблокированы?",
+            "answer": "YouTube (замедлён), Instagram, Twitter/X, LinkedIn, ChatGPT (частично)."
+          },
+          {
+            "question": "Как обойти блокировку YouTube?",
+            "answer": "Подключитесь к NoBorder VPN с VLESS — YouTube заработает."
+          },
+          {
+            "question": "Могут заблокировать VPN?",
+            "answer": "VLESS Reality не определяется DPI и не блокируется."
+          },
+          {
+            "question": "VPN обходит все блокировки?",
+            "answer": "Да, трафик через серверы за рубежом, минуя любые ограничения."
+          }
+        ]
+      }
+    },
+    "vlessVpn": {
+      "breadcrumb": "VLESS VPN",
+      "meta": {
+        "title": "VLESS VPN — современный протокол | NoBorder VPN",
+        "description": "VLESS VPN — протокол нового поколения. Не определяется DPI, максимальная скорость. 3 дня бесплатно!",
+        "keywords": "vless vpn, shadowsocks, vless протокол, vless reality",
+        "ogTitle": "VLESS VPN — NoBorder VPN",
+        "ogDescription": "VLESS Reality — не определяется DPI. 3 дня бесплатно.",
+        "twitterTitle": "VLESS VPN — NoBorder VPN",
+        "twitterDescription": "VLESS Reality — не определяется DPI. 3 дня бесплатно.",
+        "ogLocale": "ru_RU"
+      },
+      "heroTitle": "VLESS VPN —<br>современный протокол",
+      "heroSubtitle": "VLESS Reality — не определяется DPI, максимальная скорость, надёжное шифрование.",
+      "featuresTitle": "Почему VLESS — лучший протокол",
+      "feat1Title": "Невидим для DPI",
+      "feat1Text": "VLESS Reality маскирует трафик под обычный HTTPS.",
+      "feat2Title": "Максимальная скорость",
+      "feat2Text": "Минимальный оверхед, быстрее OpenVPN.",
+      "feat3Title": "Шифрование Reality",
+      "feat3Text": "TLS 1.3 с маскировкой под реальный домен.",
+      "howtoTitle": "Как подключиться по VLESS",
+      "step1Title": "Скачайте клиент",
+      "step1Text": "Hiddify поддерживает VLESS Reality.",
+      "step2Title": "Получите конфигурацию",
+      "step2Text": "Откройте <strong>@NoBorderVPN_bot</strong> — бот выдаст VLESS-ссылку.",
+      "step3Title": "Подключитесь",
+      "step3Text": "Вставьте ссылку в Hiddify — VLESS активируется автоматически.",
+      "pricingTitle": "Тарифы от 83 ₽/мес",
+      "pricingText": "4 тарифных плана. 3 дня бесплатно.",
+      "faq": {
+        "q1": "Что такое VLESS?",
+        "a1": "Современный VPN-протокол из Xray-core для обхода DPI.",
+        "q2": "Чем лучше OpenVPN?",
+        "a2": "OpenVPN легко блокируется DPI. VLESS Reality невидим.",
+        "q3": "Что такое Reality?",
+        "a3": "Технология маскировки VPN-трафика под обычный HTTPS.",
+        "q4": "VLESS vs Shadowsocks?",
+        "a4": "Оба обходят DPI. VLESS — лучше маскировка, Shadowsocks — проще."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "Что такое VLESS?",
+            "answer": "Современный VPN-протокол из Xray-core для обхода DPI."
+          },
+          {
+            "question": "Чем лучше OpenVPN?",
+            "answer": "OpenVPN легко блокируется DPI. VLESS Reality невидим."
+          },
+          {
+            "question": "Что такое Reality?",
+            "answer": "Технология маскировки VPN-трафика под обычный HTTPS."
+          },
+          {
+            "question": "VLESS vs Shadowsocks?",
+            "answer": "Оба обходят DPI. VLESS — лучше маскировка, Shadowsocks — проще."
+          }
+        ]
+      }
+    },
+    "vpnDlyaIgr": {
+      "breadcrumb": "VPN для игр",
+      "meta": {
+        "title": "VPN для игр — низкий пинг | NoBorder VPN",
+        "description": "VPN для игр — низкий пинг, стабильное соединение. Серверы в Европе и Азии. 3 дня бесплатно!",
+        "keywords": "впн для игр, vpn для игр, vpn с низким пингом",
+        "ogTitle": "VPN для игр — NoBorder VPN",
+        "ogDescription": "Играйте без лагов. 3 дня бесплатно.",
+        "twitterTitle": "VPN для игр — NoBorder VPN",
+        "twitterDescription": "Играйте без лагов. 3 дня бесплатно.",
+        "ogLocale": "ru_RU"
+      },
+      "heroTitle": "VPN для игр —<br>низкий пинг",
+      "heroSubtitle": "Играйте без лагов с серверами в Европе и Азии.",
+      "featuresTitle": "VPN для гейминга — преимущества",
+      "feat1Title": "Низкий пинг",
+      "feat1Text": "Серверы рядом с игровыми дата-центрами.",
+      "feat2Title": "Доступ к серверам",
+      "feat2Text": "Подключайтесь к серверам любого региона.",
+      "feat3Title": "Защита от DDoS",
+      "feat3Text": "Ваш IP скрыт за VPN.",
+      "howtoTitle": "Как подключить VPN для игр",
+      "step1Title": "Установите VPN",
+      "step1Text": "Скачайте Hiddify на ПК.",
+      "step2Title": "Выберите сервер",
+      "step2Text": "Откройте <strong>@NoBorderVPN_bot</strong>, выберите ближайший сервер.",
+      "step3Title": "Играйте",
+      "step3Text": "Низкий пинг и стабильное соединение.",
+      "pricingTitle": "Тарифы от 83 ₽/мес",
+      "pricingText": "4 тарифных плана. 3 дня бесплатно.",
+      "faq": {
+        "q1": "VPN увеличивает пинг?",
+        "a1": "При правильном выборе сервера — нет.",
+        "q2": "Какой сервер для игр?",
+        "a2": "Германия или Нидерланды для Европы.",
+        "q3": "Работает со Steam?",
+        "a3": "Да, и с Epic Games, PlayStation, Xbox.",
+        "q4": "Работает с консолями?",
+        "a4": "Через VPN на роутере — да."
+      },
+      "jsonld": {
+        "faq": [
+          {
+            "question": "VPN увеличивает пинг?",
+            "answer": "При правильном выборе сервера — нет."
+          },
+          {
+            "question": "Какой сервер для игр?",
+            "answer": "Германия или Нидерланды для Европы."
+          },
+          {
+            "question": "Работает со Steam?",
+            "answer": "Да, и с Epic Games, PlayStation, Xbox."
+          },
+          {
+            "question": "Работает с консолями?",
+            "answer": "Через VPN на роутере — да."
+          }
+        ]
+      }
+    }
   }
 }

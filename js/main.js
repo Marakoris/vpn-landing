@@ -95,7 +95,10 @@ const i18n = {
   },
 
   updateMeta() {
-    var meta = this.translations.meta;
+    var pageId = document.body.dataset.page;
+    var meta = pageId && this.translations.pages && this.translations.pages[pageId]
+      ? this.translations.pages[pageId].meta
+      : this.translations.meta;
     if (!meta) return;
     document.documentElement.lang = this.currentLang;
     document.title = meta.title;
@@ -118,23 +121,26 @@ const i18n = {
   },
 
   updateJsonLd() {
+    var pageId = document.body.dataset.page;
     var jsonld = this.translations.jsonld;
-    if (!jsonld) return;
-    // SoftwareApplication description
+    var pageJsonld = pageId && this.translations.pages && this.translations.pages[pageId]
+      ? this.translations.pages[pageId].jsonld : null;
+    // SoftwareApplication description (homepage only)
     var appEl = document.getElementById('jsonld-app');
-    if (appEl) {
+    if (appEl && jsonld) {
       try {
         var appData = JSON.parse(appEl.textContent);
         appData.description = jsonld.appDescription;
         appEl.textContent = JSON.stringify(appData);
       } catch (e) {}
     }
-    // FAQ
+    // FAQ — use page-specific FAQ if available, otherwise global
+    var faqSource = pageJsonld && pageJsonld.faq ? pageJsonld.faq : (jsonld && jsonld.faq ? jsonld.faq : null);
     var faqEl = document.getElementById('jsonld-faq');
-    if (faqEl && jsonld.faq) {
+    if (faqEl && faqSource) {
       try {
         var faqData = JSON.parse(faqEl.textContent);
-        faqData.mainEntity = jsonld.faq.map(function(item) {
+        faqData.mainEntity = faqSource.map(function(item) {
           return {
             '@type': 'Question',
             name: item.question,
@@ -234,6 +240,13 @@ fadeEls.forEach(el => observer.observe(el));
 
 const API_URL = '__API_URL__';
 
+// State for verification flow
+let authToken = '';
+let authEmail = '';
+
+// Only init auth if elements exist (not on subpages)
+if (document.getElementById('register-form')) {
+
 // Tab switching
 document.querySelectorAll('.auth__tab').forEach(tab => {
   tab.addEventListener('click', () => {
@@ -249,10 +262,6 @@ document.querySelectorAll('.auth__tab').forEach(tab => {
     document.querySelectorAll('.auth__error, .auth__success').forEach(el => el.textContent = '');
   });
 });
-
-// State for verification flow
-let authToken = '';
-let authEmail = '';
 
 // Register
 document.getElementById('register-form').addEventListener('submit', async (e) => {
@@ -297,7 +306,6 @@ document.getElementById('register-form').addEventListener('submit', async (e) =>
       analytics.track('register_success');
       authToken = data.token;
       authEmail = email;
-      // Show verification form
       document.getElementById('register-form').style.display = 'none';
       document.getElementById('verify-form').style.display = '';
       document.getElementById('verify-email-display').textContent = email;
@@ -381,7 +389,7 @@ document.getElementById('resend-btn').addEventListener('click', async () => {
   } catch (err) {
     errorEl.textContent = i18n.t('auth.errorConnection');
   } finally {
-    setTimeout(() => { btn.disabled = false; }, 60000); // 1 min cooldown
+    setTimeout(() => { btn.disabled = false; }, 60000);
   }
 });
 
@@ -431,6 +439,8 @@ document.getElementById('login-form').addEventListener('submit', async (e) => {
     btn.textContent = i18n.t('auth.loginBtn');
   }
 });
+
+} // end auth guard
 
 // ==================== Analytics: click & scroll events ====================
 
