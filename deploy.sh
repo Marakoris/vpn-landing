@@ -18,6 +18,7 @@ set -e
 CF_ACCOUNT_ID="6d755f2fe5d90ac46b3d6e2f90de59a8"
 CF_PROJECT_NAME="noborder-landing"
 DEFAULT_API_URL="https://vpnnoborder.sytes.net"
+GA_ID="${GA_ID:-}"  # Set GA_ID env var before deploy (e.g. G-XXXXXXXXXX)
 
 # ─── Colors ───────────────────────────────────────────────────────────
 RED='\033[0;31m'
@@ -85,6 +86,7 @@ echo -e "${CYAN}  NoBorder VPN — Deploy${NC}"
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo -e "  Domain:  ${GREEN}$DOMAIN${NC}"
 echo -e "  API URL: ${GREEN}$API_URL${NC}"
+echo -e "  GA4 ID:  ${GREEN}${GA_ID:-<not set>}${NC}"
 echo -e "  Project: ${GREEN}$CF_PROJECT_NAME${NC}"
 echo ""
 
@@ -117,6 +119,14 @@ for file in "${API_FILES[@]}"; do
     echo -e "  ${GREEN}✓${NC} $(basename "$file") — __API_URL__ → $API_URL"
   fi
 done
+
+# __GA_ID__ placeholder (in index.html only)
+if [ -n "$GA_ID" ]; then
+  sed -i "s|__GA_ID__|$GA_ID|g" "$DIR/index.html"
+  echo -e "  ${GREEN}✓${NC} index.html — __GA_ID__ → $GA_ID"
+else
+  echo -e "  ${YELLOW}⚠${NC} GA_ID not set — analytics placeholder kept as __GA_ID__"
+fi
 
 echo ""
 
@@ -189,6 +199,11 @@ else
       echo -e "  ${GREEN}✓${NC} $(basename "$file") — restored __API_URL__"
     fi
   done
+
+  if [ -n "$GA_ID" ]; then
+    sed -i "s|$GA_ID|__GA_ID__|g" "$DIR/index.html"
+    echo -e "  ${GREEN}✓${NC} index.html — restored __GA_ID__"
+  fi
 fi
 
 echo ""
