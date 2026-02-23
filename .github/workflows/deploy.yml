@@ -32,6 +32,8 @@ jobs:
           sed -i "s|__API_URL__|${{ vars.API_URL }}|g" js/main.js
           # Replace GA ID in all HTML files
           find . -name "*.html" -exec sed -i "s|__GA_ID__|${{ vars.GA_ID }}|g" {} +
+          # Replace Google Search Console verification
+          find . -name "*.html" -exec sed -i "s|__GSC_VERIFICATION__|${{ vars.GSC_VERIFICATION }}|g" {} +
 
       - uses: actions/configure-pages@v4
       - uses: actions/upload-pages-artifact@v3
