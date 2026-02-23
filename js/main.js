@@ -22,7 +22,7 @@ const i18n = {
     } else {
       // Russian: HTML already has correct text — just preload JSON
       // in background for i18n.t() calls in JS (auth errors, etc.)
-      this.loadLanguage('ru');
+      await this.loadLanguage('ru');
     }
     this.updateSwitcher();
     this.bindSwitcher();
