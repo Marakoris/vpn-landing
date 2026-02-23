@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "title": "NoBorder VPN — Bypass Censorship & Access YouTube, Instagram, Telegram | Fast VPN",
+    "description": "NoBorder VPN — fast VPN to bypass censorship and access YouTube, Instagram, Telegram, and ChatGPT. Unlimited bandwidth, 10+ countries, VLESS & Shadowsocks protocols. 3-day free trial — try now!",
+    "keywords": "VPN, bypass censorship, fast VPN, VLESS, Shadowsocks, buy VPN, VPN for YouTube, unblock Instagram, VPN Telegram, download VPN, internet freedom",
+    "ogTitle": "NoBorder VPN — Bypass Censorship & Access YouTube, Instagram, Telegram",
+    "ogDescription": "Fast VPN for unrestricted internet. Unlimited bandwidth, 10+ locations, modern protocols. 3-day free trial — no credit card required.",
+    "twitterTitle": "NoBorder VPN — Bypass Censorship & Access YouTube, Instagram, Telegram",
+    "twitterDescription": "Fast VPN for unrestricted internet. Unlimited bandwidth, 10+ locations, modern protocols. 3-day free trial.",
+    "ogLocale": "en_US"
+  },
+  "nav": {
+    "features": "Features",
+    "howto": "Get Started",
+    "pricing": "Pricing",
+    "account": "Account",
+    "faq": "FAQ",
+    "cta": "Connect",
+    "menu": "Menu"
+  },
+  "hero": {
+    "title": "Fast & Reliable<br>VPN Without Borders",
+    "subtitle": "Bypass censorship, protect your data, and access content from around the world. Servers in 10+ countries, unlimited bandwidth, modern protocols.",
+    "cta": "Try for Free",
+    "note": "3-day free trial\u2002•\u2002No credit card required"
+  },
+  "features": {
+    "title": "Why NoBorder VPN?",
+    "card1Title": "Unlimited Bandwidth",
+    "card1Text": "No data caps whatsoever. Stream, download, and work without any limits.",
+    "card2Title": "10+ Locations",
+    "card2Text": "Servers in Europe, USA, and Asia. Choose the nearest location for maximum speed.",
+    "card3Title": "Up to 5 Devices",
+    "card3Text": "Connect your phone, laptop, tablet, and other devices simultaneously on a single subscription.",
+    "card4Title": "Modern Protocols",
+    "card4Text": "VLESS Reality and Shadowsocks — undetectable by DPI, work even under heavy censorship."
+  },
+  "howto": {
+    "title": "How to Connect?",
+    "step1Title": "Open the Bot in Telegram",
+    "step1Text": "Click the button below or find <strong>@NoBorderVPN_bot</strong> in Telegram.",
+    "step2Title": "Activate Your Free Trial",
+    "step2Text": "Get 3 days of free access — no credit card or commitments required.",
+    "step3Title": "Add Subscription to Your App",
+    "step3Text": "Copy the link and paste it into Hiddify, v2rayNG, or another client.",
+    "cta": "Open Bot in Telegram"
+  },
+  "pricing": {
+    "title": "Pricing",
+    "period1": "1 Month",
+    "price1": "150 \u20bd",
+    "period2": "3 Months",
+    "price2": "390 \u20bd",
+    "per2": "130 \u20bd / mo",
+    "badge": "Popular",
+    "period3": "6 Months",
+    "price3": "800 \u20bd",
+    "per3": "133 \u20bd / mo",
+    "period4": "12 Months",
+    "price4": "1,600 \u20bd",
+    "per4": "133 \u20bd / mo",
+    "select": "Select",
+    "note": "Pay by card, crypto, or Telegram Stars",
+    "cta": "Start for Free"
+  },
+  "referral": {
+    "title": "Invite Friends — Earn 50%",
+    "text": "Share your referral link and earn <strong>50% from every payment</strong> made by your friends. Withdraw your earnings directly in the bot.",
+    "cta": "Get Referral Link"
+  },
+  "auth": {
+    "title": "My Account",
+    "tabRegister": "Sign Up",
+    "tabLogin": "Log In",
+    "emailPlaceholder": "Email",
+    "passwordPlaceholder": "Password (min. 6 characters)",
+    "passwordConfirmPlaceholder": "Confirm password",
+    "registerBtn": "Create Account",
+    "loginPasswordPlaceholder": "Password",
+    "forgotPassword": "Forgot password?",
+    "loginBtn": "Log In",
+    "verifyHint": "Verification code sent to <strong id=\"verify-email-display\"></strong>",
+    "codePlaceholder": "000000",
+    "verifyBtn": "Verify",
+    "resendBtn": "Resend code",
+    "errorFillAll": "Please fill in all fields",
+    "errorPasswordMin": "Password must be at least 6 characters",
+    "errorPasswordMismatch": "Passwords do not match",
+    "registeringBtn": "Signing up...",
+    "errorRegister": "Registration error",
+    "errorConnection": "Server connection error",
+    "errorCode": "Enter the 6-digit code",
+    "verifyingBtn": "Verifying...",
+    "verifySuccess": "Email verified! Redirecting...",
+    "errorInvalidCode": "Invalid code",
+    "resendSuccess": "Code resent",
+    "errorGeneric": "Error",
+    "loggingInBtn": "Logging in...",
+    "loginSuccess": "Login successful! Redirecting...",
+    "errorLogin": "Login error"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "How does a VPN work?",
+    "a1": "A VPN creates an encrypted tunnel between your device and a server. All traffic passes through this tunnel, allowing you to bypass censorship and protect your data from interception.",
+    "q2": "Which apps should I use?",
+    "a2": "<strong>Android:</strong> Hiddify, v2rayNG<br><strong>iOS:</strong> Hiddify, Streisand<br><strong>Windows / macOS / Linux:</strong> Hiddify<br>The bot will automatically provide a connection link — just copy it into the app.",
+    "q3": "Does it work with Telegram, YouTube, Instagram?",
+    "a3": "Yes, NoBorder VPN provides access to all blocked services: Telegram, YouTube, Instagram, Twitter/X, ChatGPT, Spotify, and any other websites.",
+    "q4": "How do I pay?",
+    "a4": "We accept bank cards (Visa, MasterCard), cryptocurrency (USDT, TON), and Telegram Stars. Everything happens right in the bot — fast and secure.",
+    "q5": "Is my data safe?",
+    "a5": "We do not store any activity logs. We use modern encryption protocols (VLESS Reality, Shadowsocks) that provide maximum traffic protection. Servers are located in reliable data centers."
+  },
+  "footer": {
+    "bot": "Telegram Bot",
+    "support": "Support",
+    "copy": "\u00a9 2026 NoBorder VPN. All rights reserved."
+  },
+  "jsonld": {
+    "appDescription": "Fast and reliable VPN to bypass censorship and access YouTube, Instagram, Telegram. Unlimited bandwidth, servers in 10+ countries.",
+    "faq": [
+      {
+        "question": "How does a VPN work?",
+        "answer": "A VPN creates an encrypted tunnel between your device and a server. All traffic passes through this tunnel, allowing you to bypass censorship and protect your data from interception."
+      },
+      {
+        "question": "Which apps should I use?",
+        "answer": "Android: Hiddify, v2rayNG. iOS: Hiddify, Streisand. Windows / macOS / Linux: Hiddify. The bot will automatically provide a connection link — just copy it into the app."
+      },
+      {
+        "question": "Does it work with Telegram, YouTube, Instagram?",
+        "answer": "Yes, NoBorder VPN provides access to all blocked services: Telegram, YouTube, Instagram, Twitter/X, ChatGPT, Spotify, and any other websites."
+      },
+      {
+        "question": "How do I pay?",
+        "answer": "We accept bank cards (Visa, MasterCard), cryptocurrency (USDT, TON), and Telegram Stars. Everything happens right in the bot — fast and secure."
+      },
+      {
+        "question": "Is my data safe?",
+        "answer": "We do not store any activity logs. We use modern encryption protocols (VLESS Reality, Shadowsocks) that provide maximum traffic protection. Servers are located in reliable data centers."
+      }
+    ]
+  }
+}
