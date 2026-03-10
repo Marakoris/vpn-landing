@@ -217,6 +217,9 @@ img {
   transition: background 0.2s, color 0.2s;
   font-family: inherit;
   letter-spacing: 0.5px;
+  text-decoration: none;
+  display: inline-block;
+  line-height: 1;
 }
 
 .lang-switch__btn:hover {
