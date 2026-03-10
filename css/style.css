@@ -1105,3 +1105,23 @@ img {
     padding: 8px 10px;
   }
 }
+
+.article-related ul li {
+  padding: 8px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.article-related ul li:last-child {
+  border-bottom: none;
+}
+
+.article-related a {
+  color: #00d9ff;
+  text-decoration: none;
+  font-size: 1.05rem;
+  transition: color 0.2s;
+}
+
+.article-related a:hover {
+  color: #fff;
+}
