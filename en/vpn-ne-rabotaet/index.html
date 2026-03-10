@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Why VPN Not Working — Troubleshooting | NoBorder VPN</title>
+  <meta name="description" content="VPN not working? We'll explain why: DPI blocking, outdated protocols. VLESS bypasses any blocks.">
+  <meta name="keywords" content="vpn not working, vpn won't connect, vpn blocked">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#0d0d16">
+  <link rel="canonical" href="https://DOMAIN/en/vpn-ne-rabotaet/">
+  <link rel="alternate" hreflang="ru" href="https://DOMAIN/vpn-ne-rabotaet/">
+  <link rel="alternate" hreflang="en" href="https://DOMAIN/en/vpn-ne-rabotaet/">
+  <link rel="alternate" hreflang="x-default" href="https://DOMAIN/vpn-ne-rabotaet/">
+  <link rel="icon" href="../../img/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="../../img/apple-touch-icon.png">
+
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="NoBorder VPN">
+  <meta property="og:title" content="VPN Not Working — NoBorder VPN">
+  <meta property="og:description" content="VPN not working? VLESS bypasses any blocks.">
+  <meta property="og:image" content="https://DOMAIN/img/og-image.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:url" content="https://DOMAIN/en/vpn-ne-rabotaet/">
+  <meta property="og:locale" content="en_US">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="VPN Not Working — NoBorder VPN">
+  <meta name="twitter:description" content="VPN not working? VLESS bypasses any blocks.">
+  <meta name="twitter:image" content="https://DOMAIN/img/og-image.png">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://DOMAIN/en/"},
+      {"@type": "ListItem", "position": 2, "name": "VPN Not Working", "item": "https://DOMAIN/en/vpn-ne-rabotaet/"}
+    ]
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Why did VPN stop working?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Usually DPI blocking. Switch to VLESS."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How to bypass ISP blocking?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "VLESS Reality masks traffic as regular HTTPS."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "VPN is slow?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Try a different server or switch to VLESS."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How to contact support?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Write to @VPN_YouSupport_bot in Telegram."
+        }
+      }
+    ]
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "VPN Not Working — NoBorder VPN",
+    "description": "VPN not working? We'll explain why: DPI blocking, outdated protocols. VLESS bypasses any blocks.",
+    "author": {"@type": "Organization", "name": "NoBorder VPN", "url": "https://DOMAIN/"},
+    "publisher": {"@type": "Organization", "name": "NoBorder VPN", "logo": {"@type": "ImageObject", "url": "https://DOMAIN/img/og-image.png"}},
+    "datePublished": "2026-03-10",
+    "dateModified": "2026-03-10",
+    "mainEntityOfPage": {"@type": "WebPage", "@id": "https://DOMAIN/en/vpn-ne-rabotaet/"},
+    "inLanguage": "en",
+    "keywords": "vpn not working, vpn won't connect, vpn blocked"
+  }
+  </script>
+
+  <link rel="preload" href="../../fonts/inter-cyrillic.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="../../css/style.css">
+</head>
+<body data-page="vpnNeRabotaet">
+
+  <svg style="position:absolute;width:0;height:0" aria-hidden="true"><defs><linearGradient id="icon-grad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#00d9ff"/><stop offset="100%" stop-color="#00ff88"/></linearGradient></defs></svg>
+
+  <header class="header">
+    <div class="container header__inner">
+      <a href="/en/" class="logo">
+        <div class="logo__icon">
+          <svg viewBox="0 0 32 32" width="32" height="32" fill="none">
+            <defs><linearGradient id="shield-grad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#00d9ff"/><stop offset="100%" stop-color="#00ff88"/></linearGradient></defs>
+            <path d="M16 2L4 7v9c0 8 5.2 13.4 12 15 6.8-1.6 12-7 12-15V7L16 2z" stroke="url(#shield-grad)" stroke-width="2" fill="none"/>
+            <path d="M12 16l3 3 5-6" stroke="url(#shield-grad)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        <span class="logo__text">NoBorder VPN</span>
+      </a>
+      <nav class="nav" id="nav">
+        <a href="/en/" class="nav__link">Home</a>
+        <a href="/en/#features" class="nav__link">Features</a>
+        <a href="/en/#pricing" class="nav__link">Pricing</a>
+        <a href="/en/#faq" class="nav__link">FAQ</a>
+      </nav>
+      <div class="header__right">
+        <div class="lang-switch">
+          <a href="https://DOMAIN/vpn-ne-rabotaet/" class="lang-switch__btn">RU</a>
+          <span class="lang-switch__btn active">EN</span>
+        </div>
+        <a href="https://t.me/NoBorderVPN_bot" class="btn btn--primary header__cta">Get VPN</a>
+        <button class="burger" id="burger" aria-label="Menu"><span></span><span></span><span></span></button>
+      </div>
+    </div>
+  </header>
+
+  <section class="hero hero--page">
+    <div class="container">
+      <h1 class="hero__title">Why VPN Not Working —<br>Troubleshooting</h1>
+      <p class="hero__subtitle">VPN stopped working? We'll cover the causes and offer a solution that always works.</p>
+      <a href="https://t.me/NoBorderVPN_bot" class="btn btn--primary btn--lg hero__cta">Try Free — 3 Days</a>
+    </div>
+  </section>
+
+  <section class="features">
+    <div class="container">
+      <h2 class="section-title">Why VPNs Get Blocked</h2>
+      <div class="features__grid">
+      <div class="feature-card fade-in">
+        <div class="feature-card__icon"><svg viewBox="0 0 24 24" width="40" height="40" fill="none" stroke="url(#icon-grad)" stroke-width="1.5"><path d="M12 2L3 7v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7L12 2z"/></svg></div>
+        <h3 class="feature-card__title">Diagnostics</h3>
+        <p class="feature-card__text">Identify the cause: DPI, outdated protocol, or config error.</p>
+      </div>
+      <div class="feature-card fade-in">
+        <div class="feature-card__icon"><svg viewBox="0 0 24 24" width="40" height="40" fill="none" stroke="url(#icon-grad)" stroke-width="1.5"><path d="M12 2L3 7v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7L12 2z"/></svg></div>
+        <h3 class="feature-card__title">DPI Bypass</h3>
+        <p class="feature-card__text">VLESS Reality masks traffic as regular HTTPS.</p>
+      </div>
+      <div class="feature-card fade-in">
+        <div class="feature-card__icon"><svg viewBox="0 0 24 24" width="40" height="40" fill="none" stroke="url(#icon-grad)" stroke-width="1.5"><path d="M12 2L3 7v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7L12 2z"/></svg></div>
+        <h3 class="feature-card__title">24/7 Support</h3>
+        <p class="feature-card__text">Contact support — we'll help you connect.</p>
+      </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="howto">
+    <div class="container">
+      <h2 class="section-title">How to Fix VPN Issues</h2>
+      <div class="howto__steps">
+      <div class="howto__step fade-in">
+        <div class="howto__num">1</div>
+        <h3 class="howto__step-title">Check Protocol</h3>
+        <p class="howto__step-text">OpenVPN and WireGuard are blocked by DPI. Switch to VLESS.</p>
+      </div>
+      <div class="howto__step fade-in">
+        <div class="howto__num">2</div>
+        <h3 class="howto__step-title">Update Config</h3>
+        <p class="howto__step-text">Open <strong>@NoBorderVPN_bot</strong> — get a fresh link.</p>
+      </div>
+      <div class="howto__step fade-in">
+        <div class="howto__num">3</div>
+        <h3 class="howto__step-title">Contact Support</h3>
+        <p class="howto__step-text">Write to @VPN_YouSupport_bot.</p>
+      </div>
+      </div>
+    </div>
+  </section>
+
+<section class="article-content">
+    <div class="container">
+
+      <picture>
+        <source srcset="../../img/pages/vpn-ne-rabotaet.webp" type="image/webp">
+        <img src="../../img/pages/vpn-ne-rabotaet.jpg" alt="VPN not working — troubleshooting" width="1024" height="1024" loading="lazy" style="width:100%;max-width:800px;height:auto;border-radius:16px;margin:0 auto 40px;display:block">
+      </picture>
+
+<h2>VPN Not Working — Troubleshooting Your Connection Woes</h2>
+
+<p>There’s nothing quite as frustrating as relying on your Virtual Private Network (VPN) for privacy, security, or accessing geo-restricted content, only to find it stubbornly refuses to connect. A non-functional VPN can grind your online activities to a halt, leaving you exposed or locked out. While the reasons can be varied and sometimes complex, most VPN issues can be resolved with a systematic approach to troubleshooting. This comprehensive guide will walk you through common culprits and provide step-by-step solutions to get your VPN back online, whether you're a seasoned tech enthusiast or new to the world of secure connections.</p>
+
+<h3>Common Reasons Your VPN Stops Working</h3>
+
+<p>Before diving into solutions, it’s helpful to understand why your VPN might be acting up. Identifying the root cause can often lead to a quicker fix.</p>
+
+<ul>
+    <li><strong>ISP Blocking/Throttling:</strong> Some Internet Service Providers (ISPs), particularly in regions with strong internet censorship, actively try to detect and block VPN traffic. They might throttle your connection when they suspect VPN usage or outright prevent it.</li>
+    <li><strong>Deep Packet Inspection (DPI):</strong> This advanced network monitoring technique allows ISPs and governments to examine the contents of data packets, even if they are encrypted. DPI can identify VPN protocols and block them. This is a common tactic in highly restrictive environments, often necessitating more obfuscated protocols.</li>
+    <li><strong>Outdated VPN Client or Protocol:</strong> Technology evolves, and so do VPN protocols. Using an old client or a less secure/detectable protocol (like PPTP or L2TP/IPSec) makes you more vulnerable to detection and blocking.</li>
+    <li><strong>Server Overload/Maintenance:</strong> The VPN server you're trying to connect to might be experiencing high traffic, undergoing maintenance, or simply be down.</li>
+    <li><strong>Firewall Interference:</strong> Your operating system's firewall, your router's firewall, or third-party antivirus software can sometimes incorrectly flag VPN traffic as suspicious and block it.</li>
+    <li><strong>Incorrect Configuration:</strong> Even a small typo or an overlooked setting in your VPN client or router can prevent a successful connection.</li>
+    <li><strong>IP Address Blacklisting:</strong> The IP address of the VPN server you're using might have been blacklisted by the website or service you're trying to access. This is common with streaming services.</li>
+    <li><strong>DNS Leaks:</strong> If your DNS requests are leaking outside the VPN tunnel, your ISP can still see your online activity, and some services might detect this discrepancy and block your access.</li>
+    <li><strong>Network Congestion:</strong> Your local network or the internet backbone might be experiencing high traffic, leading to slow or failed connections.</li>
+</ul>
+
+<h3>Step-by-Step Troubleshooting Guide</h3>
+
+<p>Let's get your VPN back in action. Follow these steps methodically.</p>
+
+<h4>1. Basic Checks and Quick Fixes</h4>
+
+<ul>
+    <li><strong>Restart Everything:</strong> The classic IT solution. Restart your VPN client, then your computer/device, and finally, your router and modem. This can clear temporary glitches.</li>
+    <li><strong>Check Your Internet Connection:</strong> Can you access the internet without the VPN? If not, the problem isn't your VPN.</li>
+    <li><strong>Try Different Servers:</strong> If you can't connect to one server, try another. The issue might be specific to that server's location or load.</li>
+    <li><strong>Update Your VPN Client:</strong> Ensure you're running the latest version of your VPN software. Developers frequently release updates to improve performance, security, and bypass new blocking methods.</li>
+    <li><strong>Log Out and Log In:</strong> Sometimes, simply logging out of your VPN client and logging back in can refresh your authentication.</li>
+    <li><strong>Check Your Subscription:</strong> Has your VPN subscription expired? It sounds obvious, but it's an easy oversight.</li>
+</ul>
+
+<h4>2. Addressing Protocol and Obfuscation</h4>
+
+<p>If basic checks don't work, especially in restrictive environments, the problem often lies with the VPN protocol itself. Many standard protocols like OpenVPN (TCP/UDP) can be easily detected by DPI. This is where advanced protocols come into play.</p>
+
+<ul>
+    <li><strong>Switch Protocols:</strong> Most VPN clients allow you to manually select a protocol.</li>
+    <ul>
+        <li><strong>OpenVPN (TCP vs. UDP):</strong> If you're on UDP, try TCP. TCP is slower but more reliable and less prone to blocking as it resembles standard HTTPS traffic.</li>
+        <li><strong>WireGuard:</strong> A newer, faster, and often more resilient protocol. If your VPN supports it, give it a try.</li>
+        <li><strong>IKEv2/IPSec:</strong> Good for mobile devices due to its stability on network switches.</li>
+    </ul>
+    <li><strong>Consider Obfuscated Protocols:</strong> This is crucial in regions with heavy censorship like China or Iran. Services like NoBorder VPN specialize in offering protocols designed to evade detection.</li>
+    <ul>
+        <li><strong>VLESS Reality:</strong> A powerful and highly obfuscated protocol that is designed to mimic legitimate TLS traffic, making it extremely difficult for DPI systems to detect. It's often paired with Xray or V2Ray. If your VPN offers VLESS Reality, it's a strong contender for bypassing sophisticated blocking.</li>
+        <li><strong>Shadowsocks:</strong> Originally developed to circumvent the Great Firewall of China, Shadowsocks is a SOCKS5 proxy that uses an obfuscated encryption method. It's lighter than a full VPN and very effective at bypassing censorship. Many VPNs, including those focused on anti-censorship like NoBorder VPN, integrate Shadowsocks.</li>
+        <li><strong>Stealth/Scramble/Obfuscation Modes:</strong> Many premium VPNs offer features that specifically aim to mask VPN traffic, making it appear as regular HTTPS traffic. Enable these if available.</li>
+    </ul>
+</ul>
+
+<table>
+    <thead>
+        <tr>
+            <th>Protocol/Method</th>
+            <th>Pros</th>
+            <th>Cons</th>
+            <th>Best Use Case</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>OpenVPN (UDP)</strong></td>
+            <td>Fast, good for streaming/gaming.</td>
+            <td>Easily detectable by DPI.</td>
+            <td>General use, less restrictive regions.</td>
+        </tr>
+        <tr>
+            <td><strong>OpenVPN (TCP)</strong></td>
+            <td>More reliable, harder to block than UDP.</td>
+            <td>Slower than UDP.</td>
+            <td>When UDP is blocked, general use.</td>
+        </tr>
+        <tr>
+            <td><strong>WireGuard</strong></td>
+            <td>Very fast, modern, secure.</td>
+            <td>Still relatively new, some VPNs lack full support.</td>
+            <td>General use, good performance.</td>
+        </tr>
+        <tr>
+            <td><strong>IKEv2/IPSec</strong></td>
+            <td>Stable on mobile, good for switching networks.</td>
+            <td>Can be blocked, less obfuscated.</td>
+            <td>Mobile devices, public Wi-Fi.</td>
+        </tr>
+        <tr>
+            <td><strong>Shadowsocks</strong></td>
+            <td>Highly effective against DPI, lightweight.</td>
+            <td>Not a full VPN (proxy), less integrated features.</td>
+            <td>High-censorship regions (e.g., China).</td>
+        </tr>
+        <tr>
+            <td><strong>VLESS Reality</strong></td>
+            <td>Extremely difficult to detect, highly obfuscated.</td>
+            <td>More complex setup, potentially higher resource usage.</td>
+            <td>Extreme censorship, demanding environments.</td>
+        </tr>
+        <tr>
+            <td><strong>Stealth/Obfuscation</strong></td>
+            <td>Masks VPN traffic as regular HTTPS.</td>
+            <td>Performance impact, not 100% foolproof.</td>
+            <td>Moderate to high censorship.</td>
+        </tr>
+    </tbody>
+</table>
+
+<h4>3. DNS Leak Fixes</h4>
+
+<p>A DNS leak occurs when your device sends DNS queries outside the encrypted VPN tunnel, revealing your real IP address to your ISP or the DNS server you're using. This compromises your privacy and can lead to geo-blocking.</p>
+
+<ul>
+    <li><strong>Use Your VPN's DNS:</strong> Most VPNs automatically configure their own secure DNS servers. Ensure this setting is enabled in your VPN client.</li>
+    <li><strong>Manually Configure DNS:</strong> If your VPN doesn't offer its own DNS or if you suspect a leak, you can manually configure your device's DNS settings to use privacy-focused DNS providers like Cloudflare (1.1.1.1) or Google (8.8.8.8, 8.8.4.4).</li>
+    <li><strong>Check for Leaks:</strong> Use online tools like DNSLeakTest.com or IPLeak.net to verify if your DNS is leaking. If the displayed DNS servers are not those of your VPN, you have a leak.</li>
+    <li><strong>Enable VPN Kill Switch:</strong> A kill switch prevents your device from connecting to the internet if the VPN connection drops, protecting against IP and DNS leaks.</li>
+</ul>
+
+<h4>4. Firewall and Antivirus Issues</h4>
+
+<p>Your security software or network devices might be overzealous.</p>
+
+<ul>
+    <li><strong>Disable Firewalls Temporarily:</strong>
+        <ul>
+            <li><strong>Windows Firewall:</strong> Go to <em>Control Panel > System and Security > Windows Defender Firewall > Turn Windows Defender Firewall on or off</em>. Disable it temporarily to test.</li>
+            <li><strong>macOS Firewall:</strong> Go to <em>System Settings > Network > Firewall</em>. Turn it off for testing.</li>
+            <li><strong>Router Firewall:</strong> Access your router's administration page (usually via 192.168.1.1 or 192.168.0.1 in your browser) and look for firewall settings. This should be a last resort and re-enabled immediately.</li>
+        </ul>
+    </li>
+    <li><strong>Antivirus/Security Software:</strong> Temporarily disable your antivirus or internet security suite. If the VPN connects, you'll need to add an exception for your VPN client in its settings.</li>
+    <li><strong>Port Forwarding (Advanced):</strong> Some VPN protocols might require specific ports to be open. While most VPN clients handle this automatically, if you're manually configuring, ensure the necessary ports are open on your router's firewall.</li>
+</ul>
+
+<h4>5. Network Configuration and Advanced Steps</h4>
+
+<ul>
+    <li><strong>Flush DNS and Reset Network:</strong>
+        <ul>
+            <li><strong>Windows:</strong> Open Command Prompt as administrator and type:
+                <ul>
+                    <li><code>ipconfig /flushdns</code></li>
+                    <li><code>ipconfig /registerdns</code></li>
+                    <li><code>ipconfig /release</code></li>
+                    <li><code>ipconfig /renew</code></li>
+                    <li><code>netsh winsock reset</code></li>
+                    <li>Restart your computer.</li>
+                </ul>
+            </li>
+            <li><strong>macOS:</strong>
+                <ul>
+                    <li>Go to <em>System Settings > Network</em>.</li>
+                    <li>Select your active network connection, click <em>Details</em>.</li>
+                    <li>Go to <em>TCP/IP</em> tab, click <em>Renew DHCP Lease</em>.</li>
+                    <li>To clear DNS cache: Open Terminal and type <code>sudo dscacheutil -flushcache; sudo killall -HUP mDNSResponder</code> (password required).</li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li><strong>Change Network:</strong> If possible, try connecting your VPN from a different network (e.g., a friend's Wi-Fi, mobile hotspot). This helps determine if the issue is with your home network or the VPN itself.</li>
+    <li><strong>Reinstall VPN Client:</strong> A clean reinstall can often fix corrupted files or configuration issues. Uninstall the VPN client completely, restart your device, then download and install the latest version.</li>
+    <li><strong>Check for IP Conflicts:</strong> Rarely, an IP conflict on your local network could interfere. Renewing your IP lease (as above) often resolves this.</li>
+</ul>
+
+<h3>When to Contact Support</h3>
+
+<p>If you've diligently worked through all the troubleshooting steps above and your VPN is still not working, it's time to reach out to your VPN provider's support team. They have specialized tools and knowledge to diagnose more complex issues.</p>
+
+<p>When contacting support, provide them with as much detail as possible:</p>
+<ul>
+    <li>What operating system and device are you using?</li>
+    <li>Which VPN client version are you running?</li>
+    <li>Which servers have you tried to connect to?</li>
+    <li>Which protocols have you attempted (e.g., OpenVPN TCP/UDP, WireGuard, VLESS Reality, Shadowsocks)?</li>
+    <li>Have you tried disabling your firewall or antivirus?</li>
+    <li>Are you getting any specific error messages?</li>
+    <li>What steps have you already taken to troubleshoot?</li>
+    <li>Are you in a region known for heavy internet censorship (e.g., where providers like NoBorder VPN often excel)?</li>
+</ul>
+
+<p>The more information you give them, the faster they can help you resolve the problem. Many reputable VPN providers offer 24/7 live chat support, which is often the quickest way to get assistance.</p>
+
+<h3>Practical Recommendation</h3>
+
+<p>In an increasingly complex online world, a reliable VPN is more than just a convenience; it's a necessity for privacy and freedom. If you frequently encounter VPN blocking, especially in restrictive regions, investing in a VPN provider that actively combats censorship is paramount. Look for services that offer advanced obfuscation techniques and support protocols like VLESS Reality or Shadowsocks. These cutting-edge solutions are specifically designed to circumvent even the most sophisticated Deep Packet Inspection (DPI) systems. Regularly updating your VPN client and being proactive with troubleshooting can save you a lot of headaches. By understanding the common pitfalls and armed with a systematic approach, you can ensure your secure connection remains steadfast, protecting your digital footprint wherever you go.</p>
+
+      <div class="article-related" style="margin-top:48px;padding:24px;background:rgba(0,217,255,0.04);border-radius:12px;border:1px solid rgba(0,217,255,0.1)">
+        <h3 style="color:#00d9ff;margin-top:0">Read Also</h3>
+        <ul style="list-style:none;padding:0;margin:0">
+        <li><a href="https://DOMAIN/en/vless-vpn/">VLESS VPN</a></li>
+        <li><a href="https://DOMAIN/en/kak-podklyuchit-vpn/">How to Setup VPN</a></li>
+        <li><a href="https://DOMAIN/en/obhod-blokirovok/">Bypass Censorship</a></li>
+        <li><a href="https://DOMAIN/en/chto-takoe-vpn/">What is VPN</a></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="pricing-cta">
+    <div class="container">
+      <div class="pricing-cta__card fade-in">
+        <h2 class="pricing-cta__title">Plans from $0.83/mo</h2>
+        <p class="pricing-cta__text">Switch to NoBorder VPN — always works.</p>
+        <a href="https://t.me/NoBorderVPN_bot" class="btn btn--primary btn--lg">Get VPN Free</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="faq" id="faq">
+    <div class="container">
+      <h2 class="section-title">FAQ</h2>
+      <div class="faq__list">
+        <div class="faq__item fade-in">
+          <button class="faq__question" data-i18n="pages.vpnNeRabotaet.faq.q1">Why did VPN stop working?</button>
+          <div class="faq__answer"><p data-i18n="pages.vpnNeRabotaet.faq.a1">Usually DPI blocking. Switch to VLESS.</p></div>
+        </div>
+        <div class="faq__item fade-in">
+          <button class="faq__question" data-i18n="pages.vpnNeRabotaet.faq.q2">How to bypass ISP blocking?</button>
+          <div class="faq__answer"><p data-i18n="pages.vpnNeRabotaet.faq.a2">VLESS Reality masks traffic as regular HTTPS.</p></div>
+        </div>
+        <div class="faq__item fade-in">
+          <button class="faq__question" data-i18n="pages.vpnNeRabotaet.faq.q3">VPN is slow?</button>
+          <div class="faq__answer"><p data-i18n="pages.vpnNeRabotaet.faq.a3">Try a different server or switch to VLESS.</p></div>
+        </div>
+        <div class="faq__item fade-in">
+          <button class="faq__question" data-i18n="pages.vpnNeRabotaet.faq.q4">How to contact support?</button>
+          <div class="faq__answer"><p data-i18n="pages.vpnNeRabotaet.faq.a4">Write to @VPN_YouSupport_bot in Telegram.</p></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container footer__inner">
+      <div class="footer__left">
+        <a href="/en/" class="logo"><span class="logo__text">NoBorder VPN</span></a>
+        <p class="footer__copy">&copy; 2025 NoBorder VPN</p>
+      </div>
+      <nav class="footer__links">
+        <a href="/en/">Home</a>
+        <a href="/en/#features">Features</a>
+        <a href="/en/#pricing">Pricing</a>
+        <a href="https://t.me/VPN_YouSupport_bot">Support</a>
+      </nav>
+    </div>
+  </footer>
+
+  <script src="../../js/main.js" defer></script>
+</body>
+</html>

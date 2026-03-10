@@ -1,88 +1,242 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://DOMAIN/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/"/>
     <lastmod>2026-03-10</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://DOMAIN/vpn-dlya-pk/</loc>
-    <lastmod>2026-03-10</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://DOMAIN/vpn-rasshirenie/</loc>
-    <lastmod>2026-03-10</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://DOMAIN/vpn-dlya-android/</loc>
-    <lastmod>2026-03-10</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://DOMAIN/vpn-dlya-youtube/</loc>
-    <lastmod>2026-03-10</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://DOMAIN/luchshiy-vpn/</loc>
-    <lastmod>2026-03-10</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://DOMAIN/vpn-dlya-telegram/</loc>
-    <lastmod>2026-03-10</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://DOMAIN/vpn-ne-rabotaet/</loc>
-    <lastmod>2026-03-10</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://DOMAIN/vpn-dlya-iphone/</loc>
-    <lastmod>2026-03-10</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://DOMAIN/vpn-online/</loc>
-    <lastmod>2026-03-10</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://DOMAIN/chto-takoe-vpn/</loc>
-    <lastmod>2026-03-10</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://DOMAIN/kak-podklyuchit-vpn/</loc>
-    <lastmod>2026-03-10</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://DOMAIN/obhod-blokirovok/</loc>
-    <lastmod>2026-03-10</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://DOMAIN/vless-vpn/</loc>
-    <lastmod>2026-03-10</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://DOMAIN/vpn-dlya-igr/</loc>
-    <lastmod>2026-03-10</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://DOMAIN/skachat-vpn/</loc>
+    <loc>https://DOMAIN/en/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/"/>
     <lastmod>2026-03-10</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://DOMAIN/besplatnyj-vpn/</loc>
+    <loc>https://DOMAIN/vpn-dlya-pk/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/vpn-dlya-pk/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/vpn-dlya-pk/"/>
     <lastmod>2026-03-10</lastmod>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/en/vpn-dlya-pk/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/vpn-dlya-pk/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/vpn-dlya-pk/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/vpn-rasshirenie/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/vpn-rasshirenie/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/vpn-rasshirenie/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/en/vpn-rasshirenie/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/vpn-rasshirenie/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/vpn-rasshirenie/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/vpn-dlya-android/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/vpn-dlya-android/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/vpn-dlya-android/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/en/vpn-dlya-android/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/vpn-dlya-android/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/vpn-dlya-android/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/vpn-dlya-youtube/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/vpn-dlya-youtube/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/vpn-dlya-youtube/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/en/vpn-dlya-youtube/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/vpn-dlya-youtube/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/vpn-dlya-youtube/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/luchshiy-vpn/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/luchshiy-vpn/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/luchshiy-vpn/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/en/luchshiy-vpn/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/luchshiy-vpn/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/luchshiy-vpn/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/vpn-dlya-telegram/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/vpn-dlya-telegram/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/vpn-dlya-telegram/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/en/vpn-dlya-telegram/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/vpn-dlya-telegram/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/vpn-dlya-telegram/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/vpn-ne-rabotaet/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/vpn-ne-rabotaet/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/vpn-ne-rabotaet/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/en/vpn-ne-rabotaet/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/vpn-ne-rabotaet/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/vpn-ne-rabotaet/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/vpn-dlya-iphone/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/vpn-dlya-iphone/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/vpn-dlya-iphone/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/en/vpn-dlya-iphone/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/vpn-dlya-iphone/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/vpn-dlya-iphone/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/vpn-online/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/vpn-online/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/vpn-online/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/en/vpn-online/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/vpn-online/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/vpn-online/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/chto-takoe-vpn/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/chto-takoe-vpn/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/chto-takoe-vpn/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/en/chto-takoe-vpn/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/chto-takoe-vpn/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/chto-takoe-vpn/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/kak-podklyuchit-vpn/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/kak-podklyuchit-vpn/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/kak-podklyuchit-vpn/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/en/kak-podklyuchit-vpn/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/kak-podklyuchit-vpn/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/kak-podklyuchit-vpn/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/obhod-blokirovok/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/obhod-blokirovok/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/obhod-blokirovok/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/en/obhod-blokirovok/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/obhod-blokirovok/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/obhod-blokirovok/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/vless-vpn/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/vless-vpn/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/vless-vpn/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/en/vless-vpn/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/vless-vpn/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/vless-vpn/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/vpn-dlya-igr/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/vpn-dlya-igr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/vpn-dlya-igr/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/en/vpn-dlya-igr/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/vpn-dlya-igr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/vpn-dlya-igr/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/skachat-vpn/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/skachat-vpn/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/skachat-vpn/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/en/skachat-vpn/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/skachat-vpn/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/skachat-vpn/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/besplatnyj-vpn/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/besplatnyj-vpn/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/besplatnyj-vpn/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://DOMAIN/en/besplatnyj-vpn/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://DOMAIN/besplatnyj-vpn/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://DOMAIN/en/besplatnyj-vpn/"/>
+    <lastmod>2026-03-10</lastmod>
+    <priority>0.7</priority>
   </url>
 </urlset>
