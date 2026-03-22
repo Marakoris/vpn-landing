@@ -1,3 +1,8 @@
 User-agent: *
 Allow: /
-Sitemap: https://fastnet-secure.com/sitemap.xml
+Sitemap: https://DOMAIN/sitemap.xml
+
+# LLM-friendly content
+# See https://llmstxt.org/
+# llms.txt: https://DOMAIN/llms.txt
+# llms-full.txt: https://DOMAIN/llms-full.txt
