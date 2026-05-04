@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# deploy.sh — Full deployment automation for NoBorder VPN landing
+# deploy.sh — Full deployment automation for FastNeo VPN landing
 # Replaces placeholders → deploys to Cloudflare Pages → restores placeholders
 #
 # Usage:
@@ -29,7 +29,7 @@ NC='\033[0m' # No Color
 
 # ─── Args ─────────────────────────────────────────────────────────────
 if [ -z "$1" ]; then
-  echo -e "${CYAN}NoBorder VPN — Deploy Script${NC}"
+  echo -e "${CYAN}FastNeo VPN — Deploy Script${NC}"
   echo ""
   echo "Usage: ./deploy.sh <domain> [api_url] [flags]"
   echo ""
@@ -73,7 +73,7 @@ done
 API_URL="${API_URL:-$DEFAULT_API_URL}"
 
 if [ -z "$DOMAIN" ]; then
-  echo -e "${CYAN}NoBorder VPN — Deploy Script${NC}"
+  echo -e "${CYAN}FastNeo VPN — Deploy Script${NC}"
   echo ""
   echo "Usage: ./deploy.sh <domain> [api_url] [flags]"
   echo ""
@@ -82,7 +82,7 @@ if [ -z "$DOMAIN" ]; then
 fi
 
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-echo -e "${CYAN}  NoBorder VPN — Deploy${NC}"
+echo -e "${CYAN}  FastNeo VPN — Deploy${NC}"
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo -e "  Domain:  ${GREEN}$DOMAIN${NC}"
 echo -e "  API URL: ${GREEN}$API_URL${NC}"

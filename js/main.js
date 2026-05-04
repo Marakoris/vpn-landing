@@ -452,7 +452,7 @@ document.querySelectorAll('a[href="#auth"]').forEach(link => {
 });
 
 // Telegram bot links
-document.querySelectorAll('a[href*="t.me/NoBorderVPN_bot"]').forEach(link => {
+document.querySelectorAll('a[href*="t.me/FastNeoVPN_bot"]').forEach(link => {
   link.addEventListener('click', () => {
     analytics.track('telegram_bot_click', { source: link.closest('section')?.id || 'unknown' });
   });

@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Скачать VPN бесплатно — NoBorder VPN для России | Обход блокировок YouTube, Instagram, Telegram",
-    "description": "Скачать VPN бесплатно — NoBorder VPN для обхода блокировок YouTube, Instagram, Telegram и ChatGPT в России. Безлимитный трафик, 10+ стран, VLESS и Shadowsocks. 3 дня бесплатно!",
+    "title": "Скачать VPN бесплатно — FastNeo VPN для России | Обход блокировок YouTube, Instagram, Telegram",
+    "description": "Скачать VPN бесплатно — FastNeo VPN для обхода блокировок YouTube, Instagram, Telegram и ChatGPT в России. Безлимитный трафик, 10+ стран, VLESS и Shadowsocks. 3 дня бесплатно!",
     "keywords": "скачать vpn, впн, vpn, купить vpn, vpn бесплатно, впн скачать бесплатно, впн для пк, впн для андроид, обход блокировок, VPN Россия, быстрый VPN, VLESS, Shadowsocks, VPN для YouTube, VPN Telegram, лучший впн",
-    "ogTitle": "Скачать VPN бесплатно — NoBorder VPN | Обход блокировок",
+    "ogTitle": "Скачать VPN бесплатно — FastNeo VPN | Обход блокировок",
     "ogDescription": "Быстрый VPN для России. Безлимитный трафик, 10+ локаций, современные протоколы. 3 дня бесплатно — без привязки карты.",
-    "twitterTitle": "Скачать VPN бесплатно — NoBorder VPN | Обход блокировок",
+    "twitterTitle": "Скачать VPN бесплатно — FastNeo VPN | Обход блокировок",
     "twitterDescription": "Быстрый VPN для России. Безлимитный трафик, 10+ локаций, современные протоколы. 3 дня бесплатно.",
     "ogLocale": "ru_RU"
   },
@@ -27,7 +27,7 @@
     "note": "3 дня бесплатно • Без привязки карты"
   },
   "features": {
-    "title": "Почему NoBorder VPN?",
+    "title": "Почему FastNeo VPN?",
     "card1Title": "Безлимитный трафик",
     "card1Text": "Никаких ограничений по объёму данных. Стримьте, скачивайте и работайте без лимитов.",
     "card2Title": "10+ локаций",
@@ -40,7 +40,7 @@
   "howto": {
     "title": "Как подключиться?",
     "step1Title": "Откройте бот в Telegram",
-    "step1Text": "Нажмите кнопку ниже или найдите <strong>@NoBorderVPN_bot</strong> в Telegram.",
+    "step1Text": "Нажмите кнопку ниже или найдите <strong>@FastNeoVPN_bot</strong> в Telegram.",
     "step2Title": "Активируйте бесплатный триал",
     "step2Text": "Получите 3 дня бесплатного доступа — без привязки карты и обязательств.",
     "step3Title": "Добавьте подписку в приложение",
@@ -108,20 +108,20 @@
     "q2": "Какие приложения использовать?",
     "a2": "<strong>Android:</strong> Hiddify, v2rayNG<br><strong>iOS:</strong> Hiddify, Streisand<br><strong>Windows / macOS / Linux:</strong> Hiddify<br>Бот автоматически выдаст ссылку для подключения — просто скопируйте её в приложение.",
     "q3": "Работает ли с Telegram, YouTube, Instagram?",
-    "a3": "Да, NoBorder VPN открывает доступ ко всем заблокированным сервисам: Telegram, YouTube, Instagram, Twitter/X, ChatGPT, Spotify и любым другим сайтам.",
+    "a3": "Да, FastNeo VPN открывает доступ ко всем заблокированным сервисам: Telegram, YouTube, Instagram, Twitter/X, ChatGPT, Spotify и любым другим сайтам.",
     "q4": "Как оплатить?",
     "a4": "Принимаем оплату банковскими картами (Visa, MasterCard, МИР), криптовалютой (USDT, TON) и Telegram Stars. Всё происходит прямо в боте — быстро и безопасно.",
     "q5": "Безопасны ли мои данные?",
     "a5": "Мы не храним логи вашей активности. Используем современные протоколы шифрования (VLESS Reality, Shadowsocks), которые обеспечивают максимальную защиту трафика. Серверы расположены в надёжных дата-центрах за пределами РФ.",
-    "q6": "На каких устройствах работает NoBorder VPN?",
-    "a6": "NoBorder VPN работает на Android, iOS (iPhone, iPad), Windows, macOS и Linux. Вы можете подключить до 5 устройств одновременно по одной подписке.",
-    "q7": "Чем NoBorder VPN отличается от бесплатных VPN?",
-    "a7": "Бесплатные VPN часто продают ваши данные, показывают рекламу и ограничивают скорость. NoBorder VPN использует современные протоколы VLESS и Shadowsocks, не хранит логи, обеспечивает безлимитный трафик и работает даже при жёстких блокировках DPI."
+    "q6": "На каких устройствах работает FastNeo VPN?",
+    "a6": "FastNeo VPN работает на Android, iOS (iPhone, iPad), Windows, macOS и Linux. Вы можете подключить до 5 устройств одновременно по одной подписке.",
+    "q7": "Чем FastNeo VPN отличается от бесплатных VPN?",
+    "a7": "Бесплатные VPN часто продают ваши данные, показывают рекламу и ограничивают скорость. FastNeo VPN использует современные протоколы VLESS и Shadowsocks, не хранит логи, обеспечивает безлимитный трафик и работает даже при жёстких блокировках DPI."
   },
   "footer": {
     "bot": "Telegram-бот",
     "support": "Поддержка",
-    "copy": "© 2026 NoBorder VPN. Все права защищены."
+    "copy": "© 2026 FastNeo VPN. Все права защищены."
   },
   "jsonld": {
     "appDescription": "Быстрый и надёжный VPN для обхода блокировок YouTube, Instagram, Telegram. Безлимитный трафик, серверы в 10+ странах.",
@@ -136,7 +136,7 @@
       },
       {
         "question": "Работает ли с Telegram, YouTube, Instagram?",
-        "answer": "Да, NoBorder VPN открывает доступ ко всем заблокированным сервисам: Telegram, YouTube, Instagram, Twitter/X, ChatGPT, Spotify и любым другим сайтам."
+        "answer": "Да, FastNeo VPN открывает доступ ко всем заблокированным сервисам: Telegram, YouTube, Instagram, Twitter/X, ChatGPT, Spotify и любым другим сайтам."
       },
       {
         "question": "Как оплатить?",
@@ -147,12 +147,12 @@
         "answer": "Мы не храним логи вашей активности. Используем современные протоколы шифрования (VLESS Reality, Shadowsocks), которые обеспечивают максимальную защиту трафика. Серверы расположены в надёжных дата-центрах за пределами РФ."
       },
       {
-        "question": "На каких устройствах работает NoBorder VPN?",
-        "answer": "NoBorder VPN работает на Android, iOS (iPhone, iPad), Windows, macOS и Linux. Вы можете подключить до 5 устройств одновременно по одной подписке."
+        "question": "На каких устройствах работает FastNeo VPN?",
+        "answer": "FastNeo VPN работает на Android, iOS (iPhone, iPad), Windows, macOS и Linux. Вы можете подключить до 5 устройств одновременно по одной подписке."
       },
       {
-        "question": "Чем NoBorder VPN отличается от бесплатных VPN?",
-        "answer": "Бесплатные VPN часто продают ваши данные, показывают рекламу и ограничивают скорость. NoBorder VPN использует современные протоколы VLESS и Shadowsocks, не хранит логи, обеспечивает безлимитный трафик и работает даже при жёстких блокировках DPI."
+        "question": "Чем FastNeo VPN отличается от бесплатных VPN?",
+        "answer": "Бесплатные VPN часто продают ваши данные, показывают рекламу и ограничивают скорость. FastNeo VPN использует современные протоколы VLESS и Shadowsocks, не хранит логи, обеспечивает безлимитный трафик и работает даже при жёстких блокировках DPI."
       }
     ]
   },
@@ -160,12 +160,12 @@
     "vpnPk": {
       "breadcrumb": "VPN для ПК",
       "meta": {
-        "title": "Скачать VPN на ПК бесплатно — NoBorder VPN для Windows, macOS, Linux",
-        "description": "Скачать VPN на ПК бесплатно. NoBorder VPN для Windows, macOS и Linux — обход блокировок, безлимитный трафик, VLESS и Shadowsocks. 3 дня бесплатно!",
+        "title": "Скачать VPN на ПК бесплатно — FastNeo VPN для Windows, macOS, Linux",
+        "description": "Скачать VPN на ПК бесплатно. FastNeo VPN для Windows, macOS и Linux — обход блокировок, безлимитный трафик, VLESS и Shadowsocks. 3 дня бесплатно!",
         "keywords": "впн на пк, vpn для компьютера, vpn для windows, скачать впн на компьютер, vpn для пк бесплатно",
-        "ogTitle": "Скачать VPN на ПК — NoBorder VPN",
+        "ogTitle": "Скачать VPN на ПК — FastNeo VPN",
         "ogDescription": "VPN для Windows, macOS и Linux. Безлимитный трафик, 3 дня бесплатно.",
-        "twitterTitle": "Скачать VPN на ПК — NoBorder VPN",
+        "twitterTitle": "Скачать VPN на ПК — FastNeo VPN",
         "twitterDescription": "VPN для Windows, macOS и Linux. Безлимитный трафик, 3 дня бесплатно.",
         "ogLocale": "ru_RU"
       },
@@ -182,18 +182,18 @@
       "step1Title": "Скачайте Hiddify",
       "step1Text": "Установите бесплатное приложение Hiddify для вашей ОС.",
       "step2Title": "Получите подписку",
-      "step2Text": "Откройте <strong>@NoBorderVPN_bot</strong> в Telegram и активируйте триал.",
+      "step2Text": "Откройте <strong>@FastNeoVPN_bot</strong> в Telegram и активируйте триал.",
       "step3Title": "Вставьте ссылку",
       "step3Text": "Скопируйте ссылку подписки в Hiddify — VPN заработает мгновенно.",
       "pricingTitle": "Тарифы от 83 ₽/мес",
       "pricingText": "4 тарифных плана от 1 до 12 месяцев. Оплата картой, криптой или Telegram Stars. 3 дня бесплатно.",
       "faq": {
         "q1": "Как установить VPN на Windows?",
-        "a1": "Скачайте Hiddify, откройте @NoBorderVPN_bot в Telegram, получите ссылку и вставьте в приложение.",
+        "a1": "Скачайте Hiddify, откройте @FastNeoVPN_bot в Telegram, получите ссылку и вставьте в приложение.",
         "q2": "Какое приложение скачать для ПК?",
         "a2": "Рекомендуем Hiddify — бесплатный клиент для Windows, macOS и Linux.",
         "q3": "Работает ли VPN на macOS и Linux?",
-        "a3": "Да, NoBorder VPN работает на macOS и Linux через Hiddify.",
+        "a3": "Да, FastNeo VPN работает на macOS и Linux через Hiddify.",
         "q4": "VPN замедляет скорость на ПК?",
         "a4": "Минимально. VLESS и Shadowsocks обеспечивают высокую скорость."
       },
@@ -201,7 +201,7 @@
         "faq": [
           {
             "question": "Как установить VPN на Windows?",
-            "answer": "Скачайте Hiddify, откройте @NoBorderVPN_bot в Telegram, получите ссылку и вставьте в приложение."
+            "answer": "Скачайте Hiddify, откройте @FastNeoVPN_bot в Telegram, получите ссылку и вставьте в приложение."
           },
           {
             "question": "Какое приложение скачать для ПК?",
@@ -209,7 +209,7 @@
           },
           {
             "question": "Работает ли VPN на macOS и Linux?",
-            "answer": "Да, NoBorder VPN работает на macOS и Linux через Hiddify."
+            "answer": "Да, FastNeo VPN работает на macOS и Linux через Hiddify."
           },
           {
             "question": "VPN замедляет скорость на ПК?",
@@ -221,12 +221,12 @@
     "vpnRasshirenie": {
       "breadcrumb": "VPN расширение",
       "meta": {
-        "title": "VPN расширение для браузера — Chrome, Firefox, Яндекс | NoBorder VPN",
+        "title": "VPN расширение для браузера — Chrome, Firefox, Яндекс | FastNeo VPN",
         "description": "VPN расширение для браузера — быстрый доступ к заблокированным сайтам. Chrome, Firefox, Яндекс Браузер.",
         "keywords": "впн расширение, vpn для яндекс браузера, vpn расширение для chrome",
-        "ogTitle": "VPN расширение для браузера — NoBorder VPN",
+        "ogTitle": "VPN расширение для браузера — FastNeo VPN",
         "ogDescription": "Быстрый доступ к заблокированным сайтам из браузера.",
-        "twitterTitle": "VPN расширение для браузера — NoBorder VPN",
+        "twitterTitle": "VPN расширение для браузера — FastNeo VPN",
         "twitterDescription": "Быстрый доступ к заблокированным сайтам из браузера.",
         "ogLocale": "ru_RU"
       },
@@ -243,26 +243,26 @@
       "step1Title": "Установите Hiddify",
       "step1Text": "Скачайте приложение — оно проксирует трафик для всех браузеров.",
       "step2Title": "Получите подписку",
-      "step2Text": "Откройте <strong>@NoBorderVPN_bot</strong> в Telegram.",
+      "step2Text": "Откройте <strong>@FastNeoVPN_bot</strong> в Telegram.",
       "step3Title": "Включите VPN",
       "step3Text": "Вставьте ссылку подписки — браузер начнёт работать через VPN.",
       "pricingTitle": "Тарифы от 83 ₽/мес",
       "pricingText": "4 тарифных плана от 1 до 12 месяцев. 3 дня бесплатно.",
       "faq": {
         "q1": "Как установить VPN в Chrome?",
-        "a1": "NoBorder VPN работает через Hiddify, который проксирует трафик для всех браузеров.",
+        "a1": "FastNeo VPN работает через Hiddify, который проксирует трафик для всех браузеров.",
         "q2": "Есть ли VPN для Яндекс Браузера?",
         "a2": "Да, Hiddify работает с Яндекс Браузером.",
         "q3": "Чем приложение лучше расширения?",
         "a3": "Приложение шифрует весь трафик устройства, а не только браузерный.",
         "q4": "Безопасно ли VPN расширение?",
-        "a4": "NoBorder VPN не хранит логов и использует современное шифрование."
+        "a4": "FastNeo VPN не хранит логов и использует современное шифрование."
       },
       "jsonld": {
         "faq": [
           {
             "question": "Как установить VPN в Chrome?",
-            "answer": "NoBorder VPN работает через Hiddify, который проксирует трафик для всех браузеров."
+            "answer": "FastNeo VPN работает через Hiddify, который проксирует трафик для всех браузеров."
           },
           {
             "question": "Есть ли VPN для Яндекс Браузера?",
@@ -274,7 +274,7 @@
           },
           {
             "question": "Безопасно ли VPN расширение?",
-            "answer": "NoBorder VPN не хранит логов и использует современное шифрование."
+            "answer": "FastNeo VPN не хранит логов и использует современное шифрование."
           }
         ]
       }
@@ -282,12 +282,12 @@
     "vpnAndroid": {
       "breadcrumb": "VPN для Android",
       "meta": {
-        "title": "Скачать VPN на Android бесплатно — NoBorder VPN",
+        "title": "Скачать VPN на Android бесплатно — FastNeo VPN",
         "description": "Скачать VPN на Android. Обходите блокировки YouTube, Instagram, Telegram на смартфоне. 3 дня бесплатно!",
         "keywords": "скачать впн на андроид, vpn для андроид, впн на телефон",
-        "ogTitle": "Скачать VPN на Android — NoBorder VPN",
+        "ogTitle": "Скачать VPN на Android — FastNeo VPN",
         "ogDescription": "VPN для Android — обход блокировок. 3 дня бесплатно.",
-        "twitterTitle": "Скачать VPN на Android — NoBorder VPN",
+        "twitterTitle": "Скачать VPN на Android — FastNeo VPN",
         "twitterDescription": "VPN для Android — обход блокировок. 3 дня бесплатно.",
         "ogLocale": "ru_RU"
       },
@@ -304,7 +304,7 @@
       "step1Title": "Скачайте приложение",
       "step1Text": "Установите Hiddify или v2rayNG из Google Play.",
       "step2Title": "Получите подписку",
-      "step2Text": "Откройте <strong>@NoBorderVPN_bot</strong> в Telegram.",
+      "step2Text": "Откройте <strong>@FastNeoVPN_bot</strong> в Telegram.",
       "step3Title": "Подключитесь",
       "step3Text": "Скопируйте ссылку — приложение настроится автоматически.",
       "pricingTitle": "Тарифы от 83 ₽/мес",
@@ -343,12 +343,12 @@
     "vpnYoutube": {
       "breadcrumb": "VPN для YouTube",
       "meta": {
-        "title": "VPN для YouTube — смотрите без ограничений | NoBorder VPN",
+        "title": "VPN для YouTube — смотрите без ограничений | FastNeo VPN",
         "description": "VPN для YouTube — разблокируйте YouTube в России. Быстрые серверы, без буферизации. 3 дня бесплатно!",
         "keywords": "впн для ютуба, vpn для youtube, разблокировать ютуб",
-        "ogTitle": "VPN для YouTube — NoBorder VPN",
+        "ogTitle": "VPN для YouTube — FastNeo VPN",
         "ogDescription": "Разблокируйте YouTube. Быстрые серверы, 3 дня бесплатно.",
-        "twitterTitle": "VPN для YouTube — NoBorder VPN",
+        "twitterTitle": "VPN для YouTube — FastNeo VPN",
         "twitterDescription": "Разблокируйте YouTube. Быстрые серверы, 3 дня бесплатно.",
         "ogLocale": "ru_RU"
       },
@@ -365,7 +365,7 @@
       "step1Title": "Установите VPN",
       "step1Text": "Скачайте Hiddify на любое устройство.",
       "step2Title": "Подключитесь",
-      "step2Text": "Откройте <strong>@NoBorderVPN_bot</strong>, выберите сервер в Европе.",
+      "step2Text": "Откройте <strong>@FastNeoVPN_bot</strong>, выберите сервер в Европе.",
       "step3Title": "Откройте YouTube",
       "step3Text": "YouTube заработает мгновенно.",
       "pricingTitle": "Тарифы от 83 ₽/мес",
@@ -404,27 +404,27 @@
     "luchshiyVpn": {
       "breadcrumb": "Лучший VPN",
       "meta": {
-        "title": "Лучший VPN 2026 — рейтинг и сравнение | NoBorder VPN",
+        "title": "Лучший VPN 2026 — рейтинг и сравнение | FastNeo VPN",
         "description": "Лучший VPN для России 2026 — рейтинг, сравнение протоколов и цен. VLESS, Shadowsocks, от 83 ₽/мес.",
         "keywords": "лучший впн, топ впн, какой впн лучше, лучший vpn 2026",
-        "ogTitle": "Лучший VPN 2026 — NoBorder VPN",
+        "ogTitle": "Лучший VPN 2026 — FastNeo VPN",
         "ogDescription": "Рейтинг VPN для России. От 83 ₽/мес.",
-        "twitterTitle": "Лучший VPN 2026 — NoBorder VPN",
+        "twitterTitle": "Лучший VPN 2026 — FastNeo VPN",
         "twitterDescription": "Рейтинг VPN для России. От 83 ₽/мес.",
         "ogLocale": "ru_RU"
       },
       "heroTitle": "Лучший VPN 2026 —<br>рейтинг и сравнение",
-      "heroSubtitle": "Почему NoBorder VPN — лучший выбор для России. VLESS и Shadowsocks, от 83 ₽/мес.",
-      "featuresTitle": "Почему NoBorder VPN — лучший",
+      "heroSubtitle": "Почему FastNeo VPN — лучший выбор для России. VLESS и Shadowsocks, от 83 ₽/мес.",
+      "featuresTitle": "Почему FastNeo VPN — лучший",
       "feat1Title": "Не определяется DPI",
       "feat1Text": "VLESS Reality маскирует VPN-трафик.",
       "feat2Title": "От 83 ₽/мес",
       "feat2Text": "Одна из самых низких цен на рынке.",
       "feat3Title": "Рейтинг 4.8/5",
-      "feat3Text": "Более 1200 пользователей оценили NoBorder VPN.",
+      "feat3Text": "Более 1200 пользователей оценили FastNeo VPN.",
       "howtoTitle": "Как начать",
       "step1Title": "Откройте бот",
-      "step1Text": "Найдите <strong>@NoBorderVPN_bot</strong> в Telegram.",
+      "step1Text": "Найдите <strong>@FastNeoVPN_bot</strong> в Telegram.",
       "step2Title": "3 дня бесплатно",
       "step2Text": "Активируйте триал без привязки карты.",
       "step3Title": "Оцените качество",
@@ -433,7 +433,7 @@
       "pricingText": "4 тарифных плана. 3 дня бесплатно.",
       "faq": {
         "q1": "Какой VPN лучше для России?",
-        "a1": "NoBorder VPN — VLESS Reality не определяется DPI.",
+        "a1": "FastNeo VPN — VLESS Reality не определяется DPI.",
         "q2": "Чем лучше бесплатных?",
         "a2": "Без логов, без рекламы, безлимитный трафик.",
         "q3": "Какой протокол быстрее?",
@@ -445,7 +445,7 @@
         "faq": [
           {
             "question": "Какой VPN лучше для России?",
-            "answer": "NoBorder VPN — VLESS Reality не определяется DPI."
+            "answer": "FastNeo VPN — VLESS Reality не определяется DPI."
           },
           {
             "question": "Чем лучше бесплатных?",
@@ -465,17 +465,17 @@
     "vpnTelegram": {
       "breadcrumb": "VPN для Telegram",
       "meta": {
-        "title": "VPN для Telegram — быстрый доступ | NoBorder VPN",
+        "title": "VPN для Telegram — быстрый доступ | FastNeo VPN",
         "description": "VPN для Telegram — мгновенный доступ к мессенджеру. Быстрые сообщения и звонки. 3 дня бесплатно!",
         "keywords": "впн для телеграмма, впн тг, vpn для telegram",
-        "ogTitle": "VPN для Telegram — NoBorder VPN",
+        "ogTitle": "VPN для Telegram — FastNeo VPN",
         "ogDescription": "Мгновенный доступ к Telegram. 3 дня бесплатно.",
-        "twitterTitle": "VPN для Telegram — NoBorder VPN",
+        "twitterTitle": "VPN для Telegram — FastNeo VPN",
         "twitterDescription": "Мгновенный доступ к Telegram. 3 дня бесплатно.",
         "ogLocale": "ru_RU"
       },
       "heroTitle": "VPN для Telegram —<br>быстрый доступ",
-      "heroSubtitle": "Telegram заблокирован? Подключите NoBorder VPN и общайтесь без ограничений.",
+      "heroSubtitle": "Telegram заблокирован? Подключите FastNeo VPN и общайтесь без ограничений.",
       "featuresTitle": "VPN для Telegram — возможности",
       "feat1Title": "Мгновенные сообщения",
       "feat1Text": "Отправляйте текст, фото и видео без задержек.",
@@ -487,7 +487,7 @@
       "step1Title": "Установите VPN",
       "step1Text": "Скачайте Hiddify на телефон или ПК.",
       "step2Title": "Получите подписку",
-      "step2Text": "Откройте <strong>@NoBorderVPN_bot</strong> и активируйте триал.",
+      "step2Text": "Откройте <strong>@FastNeoVPN_bot</strong> и активируйте триал.",
       "step3Title": "Пользуйтесь Telegram",
       "step3Text": "Включите VPN — Telegram заработает мгновенно.",
       "pricingTitle": "Тарифы от 83 ₽/мес",
@@ -526,12 +526,12 @@
     "vpnNeRabotaet": {
       "breadcrumb": "VPN не работает",
       "meta": {
-        "title": "Почему не работает VPN — решение проблем | NoBorder VPN",
+        "title": "Почему не работает VPN — решение проблем | FastNeo VPN",
         "description": "VPN не работает? Разберём причины: DPI, устаревшие протоколы. VLESS обходит любые блокировки.",
         "keywords": "почему не работает впн, впн не работает, vpn не подключается",
-        "ogTitle": "VPN не работает — решение | NoBorder VPN",
+        "ogTitle": "VPN не работает — решение | FastNeo VPN",
         "ogDescription": "VPN не работает? VLESS обходит любые блокировки.",
-        "twitterTitle": "VPN не работает — решение | NoBorder VPN",
+        "twitterTitle": "VPN не работает — решение | FastNeo VPN",
         "twitterDescription": "VPN не работает? VLESS обходит любые блокировки.",
         "ogLocale": "ru_RU"
       },
@@ -548,11 +548,11 @@
       "step1Title": "Проверьте протокол",
       "step1Text": "OpenVPN и WireGuard блокируются DPI. Переходите на VLESS.",
       "step2Title": "Обновите конфигурацию",
-      "step2Text": "Откройте <strong>@NoBorderVPN_bot</strong> — получите свежую ссылку.",
+      "step2Text": "Откройте <strong>@FastNeoVPN_bot</strong> — получите свежую ссылку.",
       "step3Title": "Обратитесь в поддержку",
       "step3Text": "Напишите @VPN_YouSupport_bot.",
       "pricingTitle": "Тарифы от 83 ₽/мес",
-      "pricingText": "Переходите на NoBorder VPN — работает всегда.",
+      "pricingText": "Переходите на FastNeo VPN — работает всегда.",
       "faq": {
         "q1": "Почему VPN перестал работать?",
         "a1": "Обычно причина — блокировка DPI. Переходите на VLESS.",
@@ -587,12 +587,12 @@
     "vpnIphone": {
       "breadcrumb": "VPN для iPhone",
       "meta": {
-        "title": "VPN для iPhone — скачать на iOS бесплатно | NoBorder VPN",
+        "title": "VPN для iPhone — скачать на iOS бесплатно | FastNeo VPN",
         "description": "VPN для iPhone и iPad — обход блокировок на iOS. Hiddify и Streisand. 3 дня бесплатно!",
         "keywords": "впн на айфон, vpn для айфона, vpn для iphone, vpn ios",
-        "ogTitle": "VPN для iPhone — NoBorder VPN",
+        "ogTitle": "VPN для iPhone — FastNeo VPN",
         "ogDescription": "VPN для iPhone и iPad. 3 дня бесплатно.",
-        "twitterTitle": "VPN для iPhone — NoBorder VPN",
+        "twitterTitle": "VPN для iPhone — FastNeo VPN",
         "twitterDescription": "VPN для iPhone и iPad. 3 дня бесплатно.",
         "ogLocale": "ru_RU"
       },
@@ -609,7 +609,7 @@
       "step1Title": "Скачайте из App Store",
       "step1Text": "Установите Hiddify или Streisand.",
       "step2Title": "Получите подписку",
-      "step2Text": "Откройте <strong>@NoBorderVPN_bot</strong> в Telegram.",
+      "step2Text": "Откройте <strong>@FastNeoVPN_bot</strong> в Telegram.",
       "step3Title": "Подключитесь",
       "step3Text": "Скопируйте ссылку — приложение настроится автоматически.",
       "pricingTitle": "Тарифы от 83 ₽/мес",
@@ -648,12 +648,12 @@
     "vpnOnline": {
       "breadcrumb": "VPN онлайн",
       "meta": {
-        "title": "VPN онлайн — без установки | NoBorder VPN",
+        "title": "VPN онлайн — без установки | FastNeo VPN",
         "description": "VPN онлайн — быстрый доступ к заблокированным сайтам. Минимум настроек. 3 дня бесплатно!",
         "keywords": "впн онлайн, впн онлайн бесплатно, vpn без установки",
-        "ogTitle": "VPN онлайн — NoBorder VPN",
+        "ogTitle": "VPN онлайн — FastNeo VPN",
         "ogDescription": "Быстрый VPN, минимум настроек. 3 дня бесплатно.",
-        "twitterTitle": "VPN онлайн — NoBorder VPN",
+        "twitterTitle": "VPN онлайн — FastNeo VPN",
         "twitterDescription": "Быстрый VPN, минимум настроек. 3 дня бесплатно.",
         "ogLocale": "ru_RU"
       },
@@ -668,7 +668,7 @@
       "feat3Text": "Шифрует весь трафик, не хранит логов.",
       "howtoTitle": "Как подключиться быстро",
       "step1Title": "Откройте бот",
-      "step1Text": "Найдите <strong>@NoBorderVPN_bot</strong> в Telegram.",
+      "step1Text": "Найдите <strong>@FastNeoVPN_bot</strong> в Telegram.",
       "step2Title": "Получите ссылку",
       "step2Text": "Бот выдаст ссылку подписки.",
       "step3Title": "Подключитесь",
@@ -679,7 +679,7 @@
         "q1": "Можно ли без установки?",
         "a1": "Полноценный VPN требует клиент. Hiddify — очень лёгкий, установка за 1 минуту.",
         "q2": "Безопасен ли онлайн VPN?",
-        "a2": "Веб-прокси не шифруют весь трафик. NoBorder VPN — полное шифрование.",
+        "a2": "Веб-прокси не шифруют весь трафик. FastNeo VPN — полное шифрование.",
         "q3": "Нужна ли регистрация?",
         "a3": "Достаточно открыть бот в Telegram.",
         "q4": "Какие сайты разблокировать?",
@@ -693,7 +693,7 @@
           },
           {
             "question": "Безопасен ли онлайн VPN?",
-            "answer": "Веб-прокси не шифруют весь трафик. NoBorder VPN — полное шифрование."
+            "answer": "Веб-прокси не шифруют весь трафик. FastNeo VPN — полное шифрование."
           },
           {
             "question": "Нужна ли регистрация?",
@@ -709,12 +709,12 @@
     "chtoTakoeVpn": {
       "breadcrumb": "Что такое VPN",
       "meta": {
-        "title": "Что такое VPN и как он работает — простое объяснение | NoBorder VPN",
+        "title": "Что такое VPN и как он работает — простое объяснение | FastNeo VPN",
         "description": "Что такое VPN простыми словами. Как работает, зачем нужен, законно ли в России. Попробуйте бесплатно!",
         "keywords": "впн что это, как работает впн, что такое vpn, зачем нужен впн",
-        "ogTitle": "Что такое VPN — NoBorder VPN",
+        "ogTitle": "Что такое VPN — FastNeo VPN",
         "ogDescription": "Простое объяснение VPN. Попробуйте бесплатно.",
-        "twitterTitle": "Что такое VPN — NoBorder VPN",
+        "twitterTitle": "Что такое VPN — FastNeo VPN",
         "twitterDescription": "Простое объяснение VPN. Попробуйте бесплатно.",
         "ogLocale": "ru_RU"
       },
@@ -731,7 +731,7 @@
       "step1Title": "Скачайте приложение",
       "step1Text": "Установите Hiddify — он бесплатный.",
       "step2Title": "Получите подписку",
-      "step2Text": "Откройте <strong>@NoBorderVPN_bot</strong> — 3 дня бесплатно.",
+      "step2Text": "Откройте <strong>@FastNeoVPN_bot</strong> — 3 дня бесплатно.",
       "step3Title": "Включите VPN",
       "step3Text": "Нажмите «Подключиться» — готово.",
       "pricingTitle": "Тарифы от 83 ₽/мес",
@@ -770,12 +770,12 @@
     "kakPodklyuchitVpn": {
       "breadcrumb": "Как подключить VPN",
       "meta": {
-        "title": "Как подключить VPN — пошаговая инструкция 2026 | NoBorder VPN",
+        "title": "Как подключить VPN — пошаговая инструкция 2026 | FastNeo VPN",
         "description": "Как подключить VPN на телефоне и компьютере. Android, iPhone, Windows, macOS. Настройка за 2 минуты.",
         "keywords": "как подключить впн, как настроить vpn, как установить впн",
-        "ogTitle": "Как подключить VPN — NoBorder VPN",
+        "ogTitle": "Как подключить VPN — FastNeo VPN",
         "ogDescription": "Пошаговая инструкция. Любое устройство, 2 минуты.",
-        "twitterTitle": "Как подключить VPN — NoBorder VPN",
+        "twitterTitle": "Как подключить VPN — FastNeo VPN",
         "twitterDescription": "Пошаговая инструкция. Любое устройство, 2 минуты.",
         "ogLocale": "ru_RU"
       },
@@ -792,7 +792,7 @@
       "step1Title": "Скачайте клиент",
       "step1Text": "Android: Hiddify / v2rayNG. iOS: Hiddify / Streisand. ПК: Hiddify.",
       "step2Title": "Получите конфигурацию",
-      "step2Text": "Откройте <strong>@NoBorderVPN_bot</strong>, скопируйте ссылку.",
+      "step2Text": "Откройте <strong>@FastNeoVPN_bot</strong>, скопируйте ссылку.",
       "step3Title": "Подключитесь",
       "step3Text": "Вставьте ссылку в приложение — VPN подключится автоматически.",
       "pricingTitle": "Тарифы от 83 ₽/мес",
@@ -831,12 +831,12 @@
     "obhodBlokirovok": {
       "breadcrumb": "Обход блокировок",
       "meta": {
-        "title": "Обход блокировок сайтов в России 2026 | NoBorder VPN",
+        "title": "Обход блокировок сайтов в России 2026 | FastNeo VPN",
         "description": "Обход блокировок YouTube, Instagram, Telegram. VLESS и Shadowsocks не определяются DPI. 3 дня бесплатно!",
         "keywords": "обход блокировок, блокировка впн, обход блокировки сайтов",
-        "ogTitle": "Обход блокировок — NoBorder VPN",
+        "ogTitle": "Обход блокировок — FastNeo VPN",
         "ogDescription": "YouTube, Instagram, Telegram — обходите блокировки. 3 дня бесплатно.",
-        "twitterTitle": "Обход блокировок — NoBorder VPN",
+        "twitterTitle": "Обход блокировок — FastNeo VPN",
         "twitterDescription": "YouTube, Instagram, Telegram — обходите блокировки. 3 дня бесплатно.",
         "ogLocale": "ru_RU"
       },
@@ -853,7 +853,7 @@
       "step1Title": "Установите VPN",
       "step1Text": "Скачайте Hiddify на ваше устройство.",
       "step2Title": "Подключитесь",
-      "step2Text": "Откройте <strong>@NoBorderVPN_bot</strong>, получите подписку.",
+      "step2Text": "Откройте <strong>@FastNeoVPN_bot</strong>, получите подписку.",
       "step3Title": "Пользуйтесь",
       "step3Text": "Все заблокированные сайты теперь доступны.",
       "pricingTitle": "Тарифы от 83 ₽/мес",
@@ -862,7 +862,7 @@
         "q1": "Какие сайты заблокированы?",
         "a1": "YouTube (замедлён), Instagram, Twitter/X, LinkedIn, ChatGPT (частично).",
         "q2": "Как обойти блокировку YouTube?",
-        "a2": "Подключитесь к NoBorder VPN с VLESS — YouTube заработает.",
+        "a2": "Подключитесь к FastNeo VPN с VLESS — YouTube заработает.",
         "q3": "Могут заблокировать VPN?",
         "a3": "VLESS Reality не определяется DPI и не блокируется.",
         "q4": "VPN обходит все блокировки?",
@@ -876,7 +876,7 @@
           },
           {
             "question": "Как обойти блокировку YouTube?",
-            "answer": "Подключитесь к NoBorder VPN с VLESS — YouTube заработает."
+            "answer": "Подключитесь к FastNeo VPN с VLESS — YouTube заработает."
           },
           {
             "question": "Могут заблокировать VPN?",
@@ -892,12 +892,12 @@
     "vlessVpn": {
       "breadcrumb": "VLESS VPN",
       "meta": {
-        "title": "VLESS VPN — современный протокол | NoBorder VPN",
+        "title": "VLESS VPN — современный протокол | FastNeo VPN",
         "description": "VLESS VPN — протокол нового поколения. Не определяется DPI, максимальная скорость. 3 дня бесплатно!",
         "keywords": "vless vpn, shadowsocks, vless протокол, vless reality",
-        "ogTitle": "VLESS VPN — NoBorder VPN",
+        "ogTitle": "VLESS VPN — FastNeo VPN",
         "ogDescription": "VLESS Reality — не определяется DPI. 3 дня бесплатно.",
-        "twitterTitle": "VLESS VPN — NoBorder VPN",
+        "twitterTitle": "VLESS VPN — FastNeo VPN",
         "twitterDescription": "VLESS Reality — не определяется DPI. 3 дня бесплатно.",
         "ogLocale": "ru_RU"
       },
@@ -914,7 +914,7 @@
       "step1Title": "Скачайте клиент",
       "step1Text": "Hiddify поддерживает VLESS Reality.",
       "step2Title": "Получите конфигурацию",
-      "step2Text": "Откройте <strong>@NoBorderVPN_bot</strong> — бот выдаст VLESS-ссылку.",
+      "step2Text": "Откройте <strong>@FastNeoVPN_bot</strong> — бот выдаст VLESS-ссылку.",
       "step3Title": "Подключитесь",
       "step3Text": "Вставьте ссылку в Hiddify — VLESS активируется автоматически.",
       "pricingTitle": "Тарифы от 83 ₽/мес",
@@ -953,12 +953,12 @@
     "vpnDlyaIgr": {
       "breadcrumb": "VPN для игр",
       "meta": {
-        "title": "VPN для игр — низкий пинг | NoBorder VPN",
+        "title": "VPN для игр — низкий пинг | FastNeo VPN",
         "description": "VPN для игр — низкий пинг, стабильное соединение. Серверы в Европе и Азии. 3 дня бесплатно!",
         "keywords": "впн для игр, vpn для игр, vpn с низким пингом",
-        "ogTitle": "VPN для игр — NoBorder VPN",
+        "ogTitle": "VPN для игр — FastNeo VPN",
         "ogDescription": "Играйте без лагов. 3 дня бесплатно.",
-        "twitterTitle": "VPN для игр — NoBorder VPN",
+        "twitterTitle": "VPN для игр — FastNeo VPN",
         "twitterDescription": "Играйте без лагов. 3 дня бесплатно.",
         "ogLocale": "ru_RU"
       },
@@ -975,7 +975,7 @@
       "step1Title": "Установите VPN",
       "step1Text": "Скачайте Hiddify на ПК.",
       "step2Title": "Выберите сервер",
-      "step2Text": "Откройте <strong>@NoBorderVPN_bot</strong>, выберите ближайший сервер.",
+      "step2Text": "Откройте <strong>@FastNeoVPN_bot</strong>, выберите ближайший сервер.",
       "step3Title": "Играйте",
       "step3Text": "Низкий пинг и стабильное соединение.",
       "pricingTitle": "Тарифы от 83 ₽/мес",

@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Download VPN Free — NoBorder VPN | Bypass Censorship YouTube, Instagram, Telegram",
-    "description": "Download VPN free — NoBorder VPN to bypass censorship. YouTube, Instagram, Telegram, ChatGPT. Unlimited bandwidth, VLESS & Shadowsocks. 3-day free trial!",
+    "title": "Download VPN Free — FastNeo VPN | Bypass Censorship YouTube, Instagram, Telegram",
+    "description": "Download VPN free — FastNeo VPN to bypass censorship. YouTube, Instagram, Telegram, ChatGPT. Unlimited bandwidth, VLESS & Shadowsocks. 3-day free trial!",
     "keywords": "download vpn, vpn free, buy vpn, best vpn, vpn for youtube, bypass censorship, VLESS, Shadowsocks, fast vpn, vpn for android, vpn for iphone",
-    "ogTitle": "Download VPN Free — NoBorder VPN | Bypass Censorship",
+    "ogTitle": "Download VPN Free — FastNeo VPN | Bypass Censorship",
     "ogDescription": "Fast VPN for unrestricted internet. Unlimited bandwidth, 10+ locations, modern protocols. 3-day free trial — no credit card required.",
-    "twitterTitle": "Download VPN Free — NoBorder VPN | Bypass Censorship",
+    "twitterTitle": "Download VPN Free — FastNeo VPN | Bypass Censorship",
     "twitterDescription": "Fast VPN for unrestricted internet. Unlimited bandwidth, 10+ locations, modern protocols. 3-day free trial.",
     "ogLocale": "en_US"
   },
@@ -27,7 +27,7 @@
     "note": "3-day free trial • No credit card required"
   },
   "features": {
-    "title": "Why NoBorder VPN?",
+    "title": "Why FastNeo VPN?",
     "card1Title": "Unlimited Bandwidth",
     "card1Text": "No data caps whatsoever. Stream, download, and work without any limits.",
     "card2Title": "10+ Locations",
@@ -40,7 +40,7 @@
   "howto": {
     "title": "How to Connect?",
     "step1Title": "Open the Bot in Telegram",
-    "step1Text": "Click the button below or find <strong>@NoBorderVPN_bot</strong> in Telegram.",
+    "step1Text": "Click the button below or find <strong>@FastNeoVPN_bot</strong> in Telegram.",
     "step2Title": "Activate Your Free Trial",
     "step2Text": "Get 3 days of free access — no credit card or commitments required.",
     "step3Title": "Add Subscription to Your App",
@@ -108,20 +108,20 @@
     "q2": "Which apps should I use?",
     "a2": "<strong>Android:</strong> Hiddify, v2rayNG<br><strong>iOS:</strong> Hiddify, Streisand<br><strong>Windows / macOS / Linux:</strong> Hiddify<br>The bot will automatically provide a connection link — just copy it into the app.",
     "q3": "Does it work with Telegram, YouTube, Instagram?",
-    "a3": "Yes, NoBorder VPN provides access to all blocked services: Telegram, YouTube, Instagram, Twitter/X, ChatGPT, Spotify, and any other websites.",
+    "a3": "Yes, FastNeo VPN provides access to all blocked services: Telegram, YouTube, Instagram, Twitter/X, ChatGPT, Spotify, and any other websites.",
     "q4": "How do I pay?",
     "a4": "We accept bank cards (Visa, MasterCard), cryptocurrency (USDT, TON), and Telegram Stars. Everything happens right in the bot — fast and secure.",
     "q5": "Is my data safe?",
     "a5": "We do not store any activity logs. We use modern encryption protocols (VLESS Reality, Shadowsocks) that provide maximum traffic protection. Servers are located in reliable data centers.",
-    "q6": "Which devices does NoBorder VPN support?",
-    "a6": "NoBorder VPN works on Android, iOS (iPhone, iPad), Windows, macOS, and Linux. You can connect up to 5 devices simultaneously on a single subscription.",
-    "q7": "How is NoBorder VPN different from free VPNs?",
-    "a7": "Free VPNs often sell your data, show ads, and limit speed. NoBorder VPN uses modern VLESS and Shadowsocks protocols, keeps no logs, provides unlimited bandwidth, and works even under heavy DPI blocking."
+    "q6": "Which devices does FastNeo VPN support?",
+    "a6": "FastNeo VPN works on Android, iOS (iPhone, iPad), Windows, macOS, and Linux. You can connect up to 5 devices simultaneously on a single subscription.",
+    "q7": "How is FastNeo VPN different from free VPNs?",
+    "a7": "Free VPNs often sell your data, show ads, and limit speed. FastNeo VPN uses modern VLESS and Shadowsocks protocols, keeps no logs, provides unlimited bandwidth, and works even under heavy DPI blocking."
   },
   "footer": {
     "bot": "Telegram Bot",
     "support": "Support",
-    "copy": "© 2026 NoBorder VPN. All rights reserved."
+    "copy": "© 2026 FastNeo VPN. All rights reserved."
   },
   "jsonld": {
     "appDescription": "Fast and reliable VPN to bypass censorship and access YouTube, Instagram, Telegram. Unlimited bandwidth, servers in 10+ countries.",
@@ -136,7 +136,7 @@
       },
       {
         "question": "Does it work with Telegram, YouTube, Instagram?",
-        "answer": "Yes, NoBorder VPN provides access to all blocked services: Telegram, YouTube, Instagram, Twitter/X, ChatGPT, Spotify, and any other websites."
+        "answer": "Yes, FastNeo VPN provides access to all blocked services: Telegram, YouTube, Instagram, Twitter/X, ChatGPT, Spotify, and any other websites."
       },
       {
         "question": "How do I pay?",
@@ -147,12 +147,12 @@
         "answer": "We do not store any activity logs. We use modern encryption protocols (VLESS Reality, Shadowsocks) that provide maximum traffic protection. Servers are located in reliable data centers."
       },
       {
-        "question": "Which devices does NoBorder VPN support?",
-        "answer": "NoBorder VPN works on Android, iOS (iPhone, iPad), Windows, macOS, and Linux. You can connect up to 5 devices simultaneously on a single subscription."
+        "question": "Which devices does FastNeo VPN support?",
+        "answer": "FastNeo VPN works on Android, iOS (iPhone, iPad), Windows, macOS, and Linux. You can connect up to 5 devices simultaneously on a single subscription."
       },
       {
-        "question": "How is NoBorder VPN different from free VPNs?",
-        "answer": "Free VPNs often sell your data, show ads, and limit speed. NoBorder VPN uses modern VLESS and Shadowsocks protocols, keeps no logs, provides unlimited bandwidth, and works even under heavy DPI blocking."
+        "question": "How is FastNeo VPN different from free VPNs?",
+        "answer": "Free VPNs often sell your data, show ads, and limit speed. FastNeo VPN uses modern VLESS and Shadowsocks protocols, keeps no logs, provides unlimited bandwidth, and works even under heavy DPI blocking."
       }
     ]
   },
@@ -160,12 +160,12 @@
     "vpnPk": {
       "breadcrumb": "VPN for PC",
       "meta": {
-        "title": "Download VPN for PC Free — NoBorder VPN for Windows, macOS, Linux",
-        "description": "Download VPN for PC free. NoBorder VPN for Windows, macOS, Linux. Bypass censorship, unlimited bandwidth. 3-day free trial!",
+        "title": "Download VPN for PC Free — FastNeo VPN for Windows, macOS, Linux",
+        "description": "Download VPN for PC free. FastNeo VPN for Windows, macOS, Linux. Bypass censorship, unlimited bandwidth. 3-day free trial!",
         "keywords": "vpn for pc, vpn for windows, download vpn computer, vpn for mac, vpn for linux",
-        "ogTitle": "Download VPN for PC — NoBorder VPN",
+        "ogTitle": "Download VPN for PC — FastNeo VPN",
         "ogDescription": "VPN for Windows, macOS, Linux. 3-day free trial.",
-        "twitterTitle": "Download VPN for PC — NoBorder VPN",
+        "twitterTitle": "Download VPN for PC — FastNeo VPN",
         "twitterDescription": "VPN for Windows, macOS, Linux. 3-day free trial.",
         "ogLocale": "en_US"
       },
@@ -182,18 +182,18 @@
       "step1Title": "Download Hiddify",
       "step1Text": "Install the free Hiddify app for your OS.",
       "step2Title": "Get Subscription",
-      "step2Text": "Open <strong>@NoBorderVPN_bot</strong> in Telegram and activate your trial.",
+      "step2Text": "Open <strong>@FastNeoVPN_bot</strong> in Telegram and activate your trial.",
       "step3Title": "Paste the Link",
       "step3Text": "Copy the subscription link into Hiddify — VPN works instantly.",
       "pricingTitle": "Plans from $0.83/mo",
       "pricingText": "4 plans from 1 to 12 months. Pay by card, crypto, or Telegram Stars. 3-day free trial.",
       "faq": {
         "q1": "How to install VPN on Windows?",
-        "a1": "Download Hiddify, open @NoBorderVPN_bot in Telegram, get the link and paste it.",
+        "a1": "Download Hiddify, open @FastNeoVPN_bot in Telegram, get the link and paste it.",
         "q2": "Which app for PC?",
         "a2": "We recommend Hiddify — free client for Windows, macOS, and Linux.",
         "q3": "Does it work on macOS and Linux?",
-        "a3": "Yes, NoBorder VPN works on macOS and Linux via Hiddify.",
+        "a3": "Yes, FastNeo VPN works on macOS and Linux via Hiddify.",
         "q4": "Does VPN slow down PC?",
         "a4": "Minimal impact. VLESS and Shadowsocks ensure high speed."
       },
@@ -201,7 +201,7 @@
         "faq": [
           {
             "question": "How to install VPN on Windows?",
-            "answer": "Download Hiddify, open @NoBorderVPN_bot in Telegram, get the link and paste it."
+            "answer": "Download Hiddify, open @FastNeoVPN_bot in Telegram, get the link and paste it."
           },
           {
             "question": "Which app for PC?",
@@ -209,7 +209,7 @@
           },
           {
             "question": "Does it work on macOS and Linux?",
-            "answer": "Yes, NoBorder VPN works on macOS and Linux via Hiddify."
+            "answer": "Yes, FastNeo VPN works on macOS and Linux via Hiddify."
           },
           {
             "question": "Does VPN slow down PC?",
@@ -221,17 +221,17 @@
     "vpnRasshirenie": {
       "breadcrumb": "VPN Extension",
       "meta": {
-        "title": "VPN Browser Extension — Chrome, Firefox | NoBorder VPN",
+        "title": "VPN Browser Extension — Chrome, Firefox | FastNeo VPN",
         "description": "VPN extension for browsers — fast access to blocked sites. Chrome, Firefox, and more.",
         "keywords": "vpn extension, vpn for chrome, vpn for firefox, browser vpn",
-        "ogTitle": "VPN Browser Extension — NoBorder VPN",
+        "ogTitle": "VPN Browser Extension — FastNeo VPN",
         "ogDescription": "Fast access to blocked sites from your browser.",
-        "twitterTitle": "VPN Browser Extension — NoBorder VPN",
+        "twitterTitle": "VPN Browser Extension — FastNeo VPN",
         "twitterDescription": "Fast access to blocked sites from your browser.",
         "ogLocale": "en_US"
       },
       "heroTitle": "VPN Extension for Browser",
-      "heroSubtitle": "Fast access to blocked sites right from your browser. NoBorder VPN works through a client app that proxies all traffic.",
+      "heroSubtitle": "Fast access to blocked sites right from your browser. FastNeo VPN works through a client app that proxies all traffic.",
       "featuresTitle": "VPN for Browser — Features",
       "feat1Title": "Any Browser",
       "feat1Text": "Chrome, Firefox, Edge — VPN works with all browsers.",
@@ -243,26 +243,26 @@
       "step1Title": "Install Hiddify",
       "step1Text": "Download the app — it proxies traffic for all browsers.",
       "step2Title": "Get Subscription",
-      "step2Text": "Open <strong>@NoBorderVPN_bot</strong> in Telegram.",
+      "step2Text": "Open <strong>@FastNeoVPN_bot</strong> in Telegram.",
       "step3Title": "Enable VPN",
       "step3Text": "Paste the subscription link — browser works through VPN.",
       "pricingTitle": "Plans from $0.83/mo",
       "pricingText": "4 plans. 3-day free trial.",
       "faq": {
         "q1": "How to install VPN in Chrome?",
-        "a1": "NoBorder VPN works via Hiddify, which proxies traffic for all browsers.",
+        "a1": "FastNeo VPN works via Hiddify, which proxies traffic for all browsers.",
         "q2": "VPN for Firefox?",
         "a2": "Yes, Hiddify works with Firefox and all other browsers.",
         "q3": "App vs extension?",
         "a3": "The app encrypts all device traffic, not just browser HTTP.",
         "q4": "Is it safe?",
-        "a4": "NoBorder VPN keeps no logs and uses modern encryption."
+        "a4": "FastNeo VPN keeps no logs and uses modern encryption."
       },
       "jsonld": {
         "faq": [
           {
             "question": "How to install VPN in Chrome?",
-            "answer": "NoBorder VPN works via Hiddify, which proxies traffic for all browsers."
+            "answer": "FastNeo VPN works via Hiddify, which proxies traffic for all browsers."
           },
           {
             "question": "VPN for Firefox?",
@@ -274,7 +274,7 @@
           },
           {
             "question": "Is it safe?",
-            "answer": "NoBorder VPN keeps no logs and uses modern encryption."
+            "answer": "FastNeo VPN keeps no logs and uses modern encryption."
           }
         ]
       }
@@ -282,12 +282,12 @@
     "vpnAndroid": {
       "breadcrumb": "VPN for Android",
       "meta": {
-        "title": "Download VPN for Android Free — NoBorder VPN",
+        "title": "Download VPN for Android Free — FastNeo VPN",
         "description": "Download VPN for Android. Bypass YouTube, Instagram, Telegram blocks. 3-day free trial!",
         "keywords": "vpn for android, download vpn android, vpn for phone",
-        "ogTitle": "VPN for Android — NoBorder VPN",
+        "ogTitle": "VPN for Android — FastNeo VPN",
         "ogDescription": "VPN for Android. 3-day free trial.",
-        "twitterTitle": "VPN for Android — NoBorder VPN",
+        "twitterTitle": "VPN for Android — FastNeo VPN",
         "twitterDescription": "VPN for Android. 3-day free trial.",
         "ogLocale": "en_US"
       },
@@ -304,7 +304,7 @@
       "step1Title": "Download the App",
       "step1Text": "Install Hiddify or v2rayNG from Google Play.",
       "step2Title": "Get Subscription",
-      "step2Text": "Open <strong>@NoBorderVPN_bot</strong> in Telegram.",
+      "step2Text": "Open <strong>@FastNeoVPN_bot</strong> in Telegram.",
       "step3Title": "Connect",
       "step3Text": "Copy the link — the app configures automatically.",
       "pricingTitle": "Plans from $0.83/mo",
@@ -343,12 +343,12 @@
     "vpnYoutube": {
       "breadcrumb": "VPN for YouTube",
       "meta": {
-        "title": "VPN for YouTube — Watch Without Limits | NoBorder VPN",
+        "title": "VPN for YouTube — Watch Without Limits | FastNeo VPN",
         "description": "VPN for YouTube — unblock YouTube. Fast servers, no buffering. 3-day free trial!",
         "keywords": "vpn for youtube, unblock youtube, youtube vpn",
-        "ogTitle": "VPN for YouTube — NoBorder VPN",
+        "ogTitle": "VPN for YouTube — FastNeo VPN",
         "ogDescription": "Unblock YouTube. Fast servers, 3-day free trial.",
-        "twitterTitle": "VPN for YouTube — NoBorder VPN",
+        "twitterTitle": "VPN for YouTube — FastNeo VPN",
         "twitterDescription": "Unblock YouTube. Fast servers, 3-day free trial.",
         "ogLocale": "en_US"
       },
@@ -365,7 +365,7 @@
       "step1Title": "Install VPN",
       "step1Text": "Download Hiddify on any device.",
       "step2Title": "Connect to Server",
-      "step2Text": "Open <strong>@NoBorderVPN_bot</strong>, choose European server.",
+      "step2Text": "Open <strong>@FastNeoVPN_bot</strong>, choose European server.",
       "step3Title": "Open YouTube",
       "step3Text": "YouTube works instantly.",
       "pricingTitle": "Plans from $0.83/mo",
@@ -404,27 +404,27 @@
     "luchshiyVpn": {
       "breadcrumb": "Best VPN",
       "meta": {
-        "title": "Best VPN 2026 — Rating & Comparison | NoBorder VPN",
+        "title": "Best VPN 2026 — Rating & Comparison | FastNeo VPN",
         "description": "Best VPN 2026 — rating, protocol comparison, pricing. VLESS, Shadowsocks, from $0.83/mo.",
         "keywords": "best vpn, top vpn, best vpn 2026, vpn comparison",
-        "ogTitle": "Best VPN 2026 — NoBorder VPN",
+        "ogTitle": "Best VPN 2026 — FastNeo VPN",
         "ogDescription": "Best VPN rating. From $0.83/mo.",
-        "twitterTitle": "Best VPN 2026 — NoBorder VPN",
+        "twitterTitle": "Best VPN 2026 — FastNeo VPN",
         "twitterDescription": "Best VPN rating. From $0.83/mo.",
         "ogLocale": "en_US"
       },
       "heroTitle": "Best VPN 2026 —<br>Rating & Comparison",
-      "heroSubtitle": "Why NoBorder VPN is the best choice. VLESS and Shadowsocks, from $0.83/mo.",
-      "featuresTitle": "Why NoBorder VPN Is the Best",
+      "heroSubtitle": "Why FastNeo VPN is the best choice. VLESS and Shadowsocks, from $0.83/mo.",
+      "featuresTitle": "Why FastNeo VPN Is the Best",
       "feat1Title": "Undetectable by DPI",
       "feat1Text": "VLESS Reality masks VPN traffic.",
       "feat2Title": "From $0.83/mo",
       "feat2Text": "One of the lowest prices on the market.",
       "feat3Title": "4.8/5 Rating",
-      "feat3Text": "Over 1200 users rated NoBorder VPN.",
+      "feat3Text": "Over 1200 users rated FastNeo VPN.",
       "howtoTitle": "How to Get Started",
       "step1Title": "Open the Bot",
-      "step1Text": "Find <strong>@NoBorderVPN_bot</strong> in Telegram.",
+      "step1Text": "Find <strong>@FastNeoVPN_bot</strong> in Telegram.",
       "step2Title": "3-Day Free Trial",
       "step2Text": "Activate trial with no credit card.",
       "step3Title": "Test the Quality",
@@ -433,7 +433,7 @@
       "pricingText": "4 plans. 3-day free trial.",
       "faq": {
         "q1": "Best VPN for 2026?",
-        "a1": "NoBorder VPN — VLESS Reality is undetectable by DPI.",
+        "a1": "FastNeo VPN — VLESS Reality is undetectable by DPI.",
         "q2": "Better than free VPNs?",
         "a2": "No logs, no ads, unlimited bandwidth.",
         "q3": "Fastest protocol?",
@@ -445,7 +445,7 @@
         "faq": [
           {
             "question": "Best VPN for 2026?",
-            "answer": "NoBorder VPN — VLESS Reality is undetectable by DPI."
+            "answer": "FastNeo VPN — VLESS Reality is undetectable by DPI."
           },
           {
             "question": "Better than free VPNs?",
@@ -465,17 +465,17 @@
     "vpnTelegram": {
       "breadcrumb": "VPN for Telegram",
       "meta": {
-        "title": "VPN for Telegram — Fast Access | NoBorder VPN",
+        "title": "VPN for Telegram — Fast Access | FastNeo VPN",
         "description": "VPN for Telegram — instant access to the messenger. Fast messages and calls. 3-day free trial!",
         "keywords": "vpn for telegram, telegram vpn, unblock telegram",
-        "ogTitle": "VPN for Telegram — NoBorder VPN",
+        "ogTitle": "VPN for Telegram — FastNeo VPN",
         "ogDescription": "Instant Telegram access. 3-day free trial.",
-        "twitterTitle": "VPN for Telegram — NoBorder VPN",
+        "twitterTitle": "VPN for Telegram — FastNeo VPN",
         "twitterDescription": "Instant Telegram access. 3-day free trial.",
         "ogLocale": "en_US"
       },
       "heroTitle": "VPN for Telegram —<br>Fast Access",
-      "heroSubtitle": "Telegram blocked? Connect NoBorder VPN and chat without restrictions.",
+      "heroSubtitle": "Telegram blocked? Connect FastNeo VPN and chat without restrictions.",
       "featuresTitle": "VPN for Telegram — Features",
       "feat1Title": "Instant Messages",
       "feat1Text": "Send text, photos, and videos with no delay.",
@@ -487,7 +487,7 @@
       "step1Title": "Install VPN",
       "step1Text": "Download Hiddify on phone or PC.",
       "step2Title": "Get Subscription",
-      "step2Text": "Open <strong>@NoBorderVPN_bot</strong> and activate trial.",
+      "step2Text": "Open <strong>@FastNeoVPN_bot</strong> and activate trial.",
       "step3Title": "Use Telegram",
       "step3Text": "Enable VPN — Telegram works instantly.",
       "pricingTitle": "Plans from $0.83/mo",
@@ -526,12 +526,12 @@
     "vpnNeRabotaet": {
       "breadcrumb": "VPN Not Working",
       "meta": {
-        "title": "Why VPN Not Working — Troubleshooting | NoBorder VPN",
+        "title": "Why VPN Not Working — Troubleshooting | FastNeo VPN",
         "description": "VPN not working? We'll explain why: DPI blocking, outdated protocols. VLESS bypasses any blocks.",
         "keywords": "vpn not working, vpn won't connect, vpn blocked",
-        "ogTitle": "VPN Not Working — NoBorder VPN",
+        "ogTitle": "VPN Not Working — FastNeo VPN",
         "ogDescription": "VPN not working? VLESS bypasses any blocks.",
-        "twitterTitle": "VPN Not Working — NoBorder VPN",
+        "twitterTitle": "VPN Not Working — FastNeo VPN",
         "twitterDescription": "VPN not working? VLESS bypasses any blocks.",
         "ogLocale": "en_US"
       },
@@ -548,11 +548,11 @@
       "step1Title": "Check Protocol",
       "step1Text": "OpenVPN and WireGuard are blocked by DPI. Switch to VLESS.",
       "step2Title": "Update Config",
-      "step2Text": "Open <strong>@NoBorderVPN_bot</strong> — get a fresh link.",
+      "step2Text": "Open <strong>@FastNeoVPN_bot</strong> — get a fresh link.",
       "step3Title": "Contact Support",
       "step3Text": "Write to @VPN_YouSupport_bot.",
       "pricingTitle": "Plans from $0.83/mo",
-      "pricingText": "Switch to NoBorder VPN — always works.",
+      "pricingText": "Switch to FastNeo VPN — always works.",
       "faq": {
         "q1": "Why did VPN stop working?",
         "a1": "Usually DPI blocking. Switch to VLESS.",
@@ -587,12 +587,12 @@
     "vpnIphone": {
       "breadcrumb": "VPN for iPhone",
       "meta": {
-        "title": "VPN for iPhone — Download for iOS Free | NoBorder VPN",
+        "title": "VPN for iPhone — Download for iOS Free | FastNeo VPN",
         "description": "VPN for iPhone and iPad — bypass censorship on iOS. Hiddify and Streisand. 3-day free trial!",
         "keywords": "vpn for iphone, vpn ios, vpn for ipad, download vpn iphone",
-        "ogTitle": "VPN for iPhone — NoBorder VPN",
+        "ogTitle": "VPN for iPhone — FastNeo VPN",
         "ogDescription": "VPN for iPhone and iPad. 3-day free trial.",
-        "twitterTitle": "VPN for iPhone — NoBorder VPN",
+        "twitterTitle": "VPN for iPhone — FastNeo VPN",
         "twitterDescription": "VPN for iPhone and iPad. 3-day free trial.",
         "ogLocale": "en_US"
       },
@@ -609,7 +609,7 @@
       "step1Title": "Download from App Store",
       "step1Text": "Install Hiddify or Streisand.",
       "step2Title": "Get Subscription",
-      "step2Text": "Open <strong>@NoBorderVPN_bot</strong> in Telegram.",
+      "step2Text": "Open <strong>@FastNeoVPN_bot</strong> in Telegram.",
       "step3Title": "Connect",
       "step3Text": "Copy the link — app configures automatically.",
       "pricingTitle": "Plans from $0.83/mo",
@@ -648,12 +648,12 @@
     "vpnOnline": {
       "breadcrumb": "VPN Online",
       "meta": {
-        "title": "VPN Online — No Installation | NoBorder VPN",
+        "title": "VPN Online — No Installation | FastNeo VPN",
         "description": "VPN online — fast access to blocked sites. Minimal setup. 3-day free trial!",
         "keywords": "vpn online, free vpn online, vpn no install",
-        "ogTitle": "VPN Online — NoBorder VPN",
+        "ogTitle": "VPN Online — FastNeo VPN",
         "ogDescription": "Fast VPN, minimal setup. 3-day free trial.",
-        "twitterTitle": "VPN Online — NoBorder VPN",
+        "twitterTitle": "VPN Online — FastNeo VPN",
         "twitterDescription": "Fast VPN, minimal setup. 3-day free trial.",
         "ogLocale": "en_US"
       },
@@ -668,7 +668,7 @@
       "feat3Text": "Encrypts all traffic, no logs.",
       "howtoTitle": "How to Connect Quickly",
       "step1Title": "Open the Bot",
-      "step1Text": "Find <strong>@NoBorderVPN_bot</strong> in Telegram.",
+      "step1Text": "Find <strong>@FastNeoVPN_bot</strong> in Telegram.",
       "step2Title": "Get the Link",
       "step2Text": "Bot provides subscription link.",
       "step3Title": "Connect",
@@ -679,7 +679,7 @@
         "q1": "Can I use VPN without installing?",
         "a1": "A proper VPN needs a client app. Hiddify is very light — 1 minute install.",
         "q2": "Is online VPN safe?",
-        "a2": "Web proxies don't encrypt all traffic. NoBorder VPN provides full encryption.",
+        "a2": "Web proxies don't encrypt all traffic. FastNeo VPN provides full encryption.",
         "q3": "Need registration?",
         "a3": "Just open the bot in Telegram.",
         "q4": "Which sites can I unblock?",
@@ -693,7 +693,7 @@
           },
           {
             "question": "Is online VPN safe?",
-            "answer": "Web proxies don't encrypt all traffic. NoBorder VPN provides full encryption."
+            "answer": "Web proxies don't encrypt all traffic. FastNeo VPN provides full encryption."
           },
           {
             "question": "Need registration?",
@@ -709,12 +709,12 @@
     "chtoTakoeVpn": {
       "breadcrumb": "What is VPN",
       "meta": {
-        "title": "What is VPN and How It Works — Simple Explanation | NoBorder VPN",
+        "title": "What is VPN and How It Works — Simple Explanation | FastNeo VPN",
         "description": "What is VPN in simple terms. How it works, why you need it. Try free!",
         "keywords": "what is vpn, how vpn works, why need vpn, vpn explained",
-        "ogTitle": "What is VPN — NoBorder VPN",
+        "ogTitle": "What is VPN — FastNeo VPN",
         "ogDescription": "Simple VPN explanation. Try free.",
-        "twitterTitle": "What is VPN — NoBorder VPN",
+        "twitterTitle": "What is VPN — FastNeo VPN",
         "twitterDescription": "Simple VPN explanation. Try free.",
         "ogLocale": "en_US"
       },
@@ -731,7 +731,7 @@
       "step1Title": "Download the App",
       "step1Text": "Install Hiddify — it's free.",
       "step2Title": "Get Subscription",
-      "step2Text": "Open <strong>@NoBorderVPN_bot</strong> — 3 days free.",
+      "step2Text": "Open <strong>@FastNeoVPN_bot</strong> — 3 days free.",
       "step3Title": "Enable VPN",
       "step3Text": "Click Connect — done.",
       "pricingTitle": "Plans from $0.83/mo",
@@ -770,12 +770,12 @@
     "kakPodklyuchitVpn": {
       "breadcrumb": "How to Connect VPN",
       "meta": {
-        "title": "How to Connect VPN — Step-by-Step Guide 2026 | NoBorder VPN",
+        "title": "How to Connect VPN — Step-by-Step Guide 2026 | FastNeo VPN",
         "description": "How to set up VPN on phone and computer. Android, iPhone, Windows, macOS. 2-minute setup.",
         "keywords": "how to connect vpn, how to set up vpn, vpn setup guide",
-        "ogTitle": "How to Connect VPN — NoBorder VPN",
+        "ogTitle": "How to Connect VPN — FastNeo VPN",
         "ogDescription": "Step-by-step VPN guide. Any device, 2 minutes.",
-        "twitterTitle": "How to Connect VPN — NoBorder VPN",
+        "twitterTitle": "How to Connect VPN — FastNeo VPN",
         "twitterDescription": "Step-by-step VPN guide. Any device, 2 minutes.",
         "ogLocale": "en_US"
       },
@@ -792,7 +792,7 @@
       "step1Title": "Download Client",
       "step1Text": "Android: Hiddify / v2rayNG. iOS: Hiddify / Streisand. PC: Hiddify.",
       "step2Title": "Get Configuration",
-      "step2Text": "Open <strong>@NoBorderVPN_bot</strong>, copy the link.",
+      "step2Text": "Open <strong>@FastNeoVPN_bot</strong>, copy the link.",
       "step3Title": "Connect",
       "step3Text": "Paste link into app — VPN connects automatically.",
       "pricingTitle": "Plans from $0.83/mo",
@@ -831,12 +831,12 @@
     "obhodBlokirovok": {
       "breadcrumb": "Bypass Blocking",
       "meta": {
-        "title": "Bypass Internet Censorship 2026 — YouTube, Instagram, Telegram | NoBorder VPN",
+        "title": "Bypass Internet Censorship 2026 — YouTube, Instagram, Telegram | FastNeo VPN",
         "description": "Bypass internet censorship — YouTube, Instagram, Telegram. VLESS and Shadowsocks undetectable by DPI. 3-day free trial!",
         "keywords": "bypass censorship, bypass blocking, unblock sites, vpn for censorship",
-        "ogTitle": "Bypass Censorship — NoBorder VPN",
+        "ogTitle": "Bypass Censorship — FastNeo VPN",
         "ogDescription": "YouTube, Instagram, Telegram — bypass blocks. 3-day free trial.",
-        "twitterTitle": "Bypass Censorship — NoBorder VPN",
+        "twitterTitle": "Bypass Censorship — FastNeo VPN",
         "twitterDescription": "YouTube, Instagram, Telegram — bypass blocks. 3-day free trial.",
         "ogLocale": "en_US"
       },
@@ -853,7 +853,7 @@
       "step1Title": "Install VPN",
       "step1Text": "Download Hiddify on your device.",
       "step2Title": "Connect",
-      "step2Text": "Open <strong>@NoBorderVPN_bot</strong>, get subscription.",
+      "step2Text": "Open <strong>@FastNeoVPN_bot</strong>, get subscription.",
       "step3Title": "Browse Freely",
       "step3Text": "All blocked sites are now accessible.",
       "pricingTitle": "Plans from $0.83/mo",
@@ -862,7 +862,7 @@
         "q1": "Which sites are blocked?",
         "a1": "YouTube (throttled), Instagram, Twitter/X, LinkedIn, ChatGPT (partially).",
         "q2": "How to unblock YouTube?",
-        "a2": "Connect to NoBorder VPN with VLESS — YouTube works at full speed.",
+        "a2": "Connect to FastNeo VPN with VLESS — YouTube works at full speed.",
         "q3": "Can VPN itself be blocked?",
         "a3": "VLESS Reality is undetectable by DPI.",
         "q4": "Does VPN bypass all blocks?",
@@ -876,7 +876,7 @@
           },
           {
             "question": "How to unblock YouTube?",
-            "answer": "Connect to NoBorder VPN with VLESS — YouTube works at full speed."
+            "answer": "Connect to FastNeo VPN with VLESS — YouTube works at full speed."
           },
           {
             "question": "Can VPN itself be blocked?",
@@ -892,12 +892,12 @@
     "vlessVpn": {
       "breadcrumb": "VLESS VPN",
       "meta": {
-        "title": "VLESS VPN — Modern Protocol | NoBorder VPN",
+        "title": "VLESS VPN — Modern Protocol | FastNeo VPN",
         "description": "VLESS VPN — next-gen protocol. Undetectable by DPI, maximum speed. 3-day free trial!",
         "keywords": "vless vpn, shadowsocks, vless protocol, vless reality",
-        "ogTitle": "VLESS VPN — NoBorder VPN",
+        "ogTitle": "VLESS VPN — FastNeo VPN",
         "ogDescription": "VLESS Reality — undetectable by DPI. 3-day free trial.",
-        "twitterTitle": "VLESS VPN — NoBorder VPN",
+        "twitterTitle": "VLESS VPN — FastNeo VPN",
         "twitterDescription": "VLESS Reality — undetectable by DPI. 3-day free trial.",
         "ogLocale": "en_US"
       },
@@ -914,7 +914,7 @@
       "step1Title": "Download Client",
       "step1Text": "Hiddify supports VLESS Reality.",
       "step2Title": "Get Configuration",
-      "step2Text": "Open <strong>@NoBorderVPN_bot</strong> — bot provides VLESS link.",
+      "step2Text": "Open <strong>@FastNeoVPN_bot</strong> — bot provides VLESS link.",
       "step3Title": "Connect",
       "step3Text": "Paste link into Hiddify — VLESS activates automatically.",
       "pricingTitle": "Plans from $0.83/mo",
@@ -953,12 +953,12 @@
     "vpnDlyaIgr": {
       "breadcrumb": "VPN for Gaming",
       "meta": {
-        "title": "VPN for Gaming — Low Ping | NoBorder VPN",
+        "title": "VPN for Gaming — Low Ping | FastNeo VPN",
         "description": "VPN for gaming — low ping, stable connection. Servers in Europe and Asia. 3-day free trial!",
         "keywords": "vpn for gaming, gaming vpn, low ping vpn, vpn for games",
-        "ogTitle": "VPN for Gaming — NoBorder VPN",
+        "ogTitle": "VPN for Gaming — FastNeo VPN",
         "ogDescription": "Play without lag. 3-day free trial.",
-        "twitterTitle": "VPN for Gaming — NoBorder VPN",
+        "twitterTitle": "VPN for Gaming — FastNeo VPN",
         "twitterDescription": "Play without lag. 3-day free trial.",
         "ogLocale": "en_US"
       },
@@ -975,7 +975,7 @@
       "step1Title": "Install VPN",
       "step1Text": "Download Hiddify on PC.",
       "step2Title": "Choose Server",
-      "step2Text": "Open <strong>@NoBorderVPN_bot</strong>, pick the nearest server.",
+      "step2Text": "Open <strong>@FastNeoVPN_bot</strong>, pick the nearest server.",
       "step3Title": "Play",
       "step3Text": "Low ping and stable connection guaranteed.",
       "pricingTitle": "Plans from $0.83/mo",
