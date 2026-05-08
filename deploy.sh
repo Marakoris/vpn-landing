@@ -5,7 +5,7 @@
 #
 # Usage:
 #   ./deploy.sh <domain> [api_url]
-#   ./deploy.sh fastnet-secure.com
+#   ./deploy.sh fastneo.pages.dev
 #   ./deploy.sh new-domain.com https://vpnnoborder.sytes.net
 #
 # Requirements:
@@ -34,9 +34,9 @@ if [ -z "$1" ]; then
   echo "Usage: ./deploy.sh <domain> [api_url] [flags]"
   echo ""
   echo "Examples:"
-  echo "  ./deploy.sh fastnet-secure.com"
+  echo "  ./deploy.sh fastneo.pages.dev"
   echo "  ./deploy.sh new-domain.com https://custom-api.example.com"
-  echo "  ./deploy.sh fastnet-secure.com --no-deploy"
+  echo "  ./deploy.sh fastneo.pages.dev --no-deploy"
   echo ""
   echo "Flags:"
   echo "  --no-deploy    Only replace placeholders, skip wrangler deploy"

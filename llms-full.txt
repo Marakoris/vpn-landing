@@ -110,5 +110,5 @@ FastNeo VPN — это VPN-сервис, управляемый через Teleg
 
 - **Telegram-бот:** https://t.me/FastNeoVPN_bot — основной способ подключения
 - **Поддержка:** https://t.me/VPN_YouSupport_bot
-- **Сайт:** https://fastnet-secure.com
+- **Сайт:** https://fastneo.pages.dev
 - **Канал новостей:** https://t.me/vpn_noborder

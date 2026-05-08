@@ -1,8 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://DOMAIN/sitemap.xml
-
-# LLM-friendly content
-# See https://llmstxt.org/
-# llms.txt: https://DOMAIN/llms.txt
-# llms-full.txt: https://DOMAIN/llms-full.txt
+Sitemap: https://fastneo.pages.dev/sitemap.xml
